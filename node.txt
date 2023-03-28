@@ -7,43 +7,33 @@ ssr://aW5pdGVzdDA4LmluaXRjbG91ZC5wcm86NTYxOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZX
 ssr://Y25oa2FsbC5kZWJ1Z2V4Lnh5ejo1NjA6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TmpJek1EcHFaMEZUUkRZM09EZzQmcmVtYXJrcz01TGlsNTZhQjVZLVI2S0dvTC1pOXJPV1BrU19vcjRUb3Jycmt1STNsdlpQbGhvWGxycmsmZ3JvdXA9WVdsbmRXOTVkVzQ
 ssr://Y25oa2FsbC5kZWJ1Z2V4Lnh5ejo1NjE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TmpJek1EcHFaMEZUUkRZM09EZzQmcmVtYXJrcz01TGlsNXFDODZZRzE1YjJUNVp5dzVhNkk1ck9WNWI2TDVyT1Y2S2VFJmdyb3VwPVlXbG5kVzk1ZFc0
 
-
-2yuandian
-trojan://c31e70e2-7864-493a-b66e-d3ad6a7ddd48@sg.stablize.top:443?tfo=1#SG002
-trojan://c31e70e2-7864-493a-b66e-d3ad6a7ddd48@sg.stablize.top:443?tfo=1#SG003
-trojan://c31e70e2-7864-493a-b66e-d3ad6a7ddd48@usa.stablize.top:443?tfo=1#USA002
-trojan://c31e70e2-7864-493a-b66e-d3ad6a7ddd48@jp.stablize.top:443?tfo=1#JP002
-trojan://c31e70e2-7864-493a-b66e-d3ad6a7ddd48@kr.stablize.top:443?tfo=1#KR001
-trojan://c31e70e2-7864-493a-b66e-d3ad6a7ddd48@kr.stablize.top:443?tfo=1#KR002
-trojan://c31e70e2-7864-493a-b66e-d3ad6a7ddd48@kr.stablize.top:443?tfo=1#KR003
-trojan://c31e70e2-7864-493a-b66e-d3ad6a7ddd48@jpjs.stablize.top:443?tfo=1#JP001
+2yuandian 112153939 291765225  291765226
+trojan://a4f3be31-57e6-4cde-bf98-a962a0cdbe04@usa.stablize.top:443?tfo=1#USA001
+trojan://a4f3be31-57e6-4cde-bf98-a962a0cdbe04@de.stablize.top:443?tfo=1#DE001
+trojan://a4f3be31-57e6-4cde-bf98-a962a0cdbe04@ca.stablize.top:443?tfo=1#CA001
+trojan://a4f3be31-57e6-4cde-bf98-a962a0cdbe04@ap.stablize.top:443?tfo=1#AU001
+trojan://a3740de6-74fc-4ab6-bc85-92d19402257c@usa.stablize.top:443?tfo=1#USA002
+trojan://a3740de6-74fc-4ab6-bc85-92d19402257c@sg.stablize.top:443?tfo=1#SG003
+trojan://a3740de6-74fc-4ab6-bc85-92d19402257c@jp.stablize.top:443?tfo=1#JP002
+trojan://a3740de6-74fc-4ab6-bc85-92d19402257c@jpjs.stablize.top:443?tfo=1#JP001
+trojan://a3740de6-74fc-4ab6-bc85-92d19402257c@jpjs.stablize.top:443?tfo=1#JP002
+trojan://80151fd0-950a-4dda-a98a-6d24c6936dbc@usajs.stablize.top:443?tfo=1#US001
+trojan://80151fd0-950a-4dda-a98a-6d24c6936dbc@usajs.stablize.top:443?tfo=1#US002
+trojan://80151fd0-950a-4dda-a98a-6d24c6936dbc@usajs.stablize.top:443?tfo=1#US003
+trojan://80151fd0-950a-4dda-a98a-6d24c6936dbc@aujs.stablize.top:443?tfo=1#AU001
+trojan://80151fd0-950a-4dda-a98a-6d24c6936dbc@cajs.stablize.top:443?tfo=1#CA001
+trojan://80151fd0-950a-4dda-a98a-6d24c6936dbc@dejs.stablize.top:443?tfo=1#DE001
+trojan://80151fd0-950a-4dda-a98a-6d24c6936dbc@ukjs.stablize.top:443?tfo=1#UK001
 奶茶云
-vmess://YXV0bzpmZjZmNDU0NC1kMTY1LTQ0OTktOWRjYi1hZThkZmIwZTFhYmFAbHYwMS5uYWljaGFsZC54eXo6MTY2MTg?remarks=%E7%8B%AE%E5%9F%8E01&tls=1&tfo=1&alterId=0
-vmess://YXV0bzpmZjZmNDU0NC1kMTY1LTQ0OTktOWRjYi1hZThkZmIwZTFhYmFAbHYwMS5uYWljaGFsZC54eXo6MTY2MTg?remarks=%E7%8B%AE%E5%9F%8E02&tls=1&tfo=1&alterId=0
-vmess://YXV0bzpmZjZmNDU0NC1kMTY1LTQ0OTktOWRjYi1hZThkZmIwZTFhYmFAMTQzLjQyLjY4LjI0NDoxNjYxOA?remarks=%E7%8B%AE%E5%9F%8E03&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzozMTRkYzc0NS00MjI5LTRlMTUtOGYzZC1mNjgxOGU1ZTFmNzZAMTQzLjQyLjY4LjI0NDoxNjYxOA?remarks=%F0%9F%87%B8%F0%9F%87%AC%E7%8B%AE%E5%9F%8E04&obfs=websocket&tfo=1&alterId=0
-trojan://314dc745-4229-4e15-8f3d-f6818e5e1f76@lv03.naichald.xyz:16619?allowInsecure=1&peer=data.xn--vur082k.cc&tfo=1#%E6%97%A5%E6%9C%AC01
-trojan://314dc745-4229-4e15-8f3d-f6818e5e1f76@lv03.naichald.xyz:16619?allowInsecure=1&peer=data.xn--vur082k.cc&tfo=1#%E6%97%A5%E6%9C%AC02
-vmess://YXV0bzplMzZkMDUxYy03OTBiLTRmNTMtYjcxYi02MWVhNjRjZDRmNThAbHYwOC5uYWljaGFsZC54eXo6ODA4MA?remarks=%E6%97%A5%E6%9C%AC03&tls=1&tfo=1&alterId=0
-vmess://YXV0bzplMzZkMDUxYy03OTBiLTRmNTMtYjcxYi02MWVhNjRjZDRmNThAbHYwOC5uYWljaGFsZC54eXo6ODA4MA?remarks=%E6%97%A5%E6%9C%AC04&tls=1&tfo=1&alterId=0
-trojan://e36d051c-790b-4f53-b71b-61ea64cd4f58@lv04.naichald.xyz:16619?allowInsecure=1&peer=data.xn--vur082k.cc&tfo=1#%E6%97%A5%E6%9C%AC05
-trojan://0e566bdc-7911-45a4-95ab-e997d2578bea@lv04.naichald.xyz:16619?allowInsecure=1&peer=data.xn--vur082k.cc&tfo=1#%E6%97%A5%E6%9C%AC06
-trojan://0e566bdc-7911-45a4-95ab-e997d2578bea@lv05.naichald.xyz:16619?allowInsecure=1&peer=data.xn--vur082k.cc&tfo=1#%E9%9F%A9%E5%9B%BD01
-宝贝云
-vmess://YXV0bzpmYTNmMzA2MC0xODZmLTQyYzItODM4OC1mYzllZmM2ODdlNmRAemYxLjMzMzIxMC54eXo6NDAzODI?remarks=%E9%A6%99%E6%B8%AF02&tls=1&peer=400567.xyz&tfo=1&alterId=0
-vmess://YXV0bzpmYTNmMzA2MC0xODZmLTQyYzItODM4OC1mYzllZmM2ODdlNmRAemYxLjMzMzIxMC54eXo6NDAzODI?remarks=%E9%A6%99%E6%B8%AF03&tls=1&peer=400567.xyz&tfo=1&alterId=0
-vmess://YXV0bzpmYTNmMzA2MC0xODZmLTQyYzItODM4OC1mYzllZmM2ODdlNmRAc2cuMzMzMjEwLnh5ejo0MDAwMA?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A101&tls=1&peer=400567.xyz&tfo=1&alterId=0
-vmess://YXV0bzpmYTNmMzA2MC0xODZmLTQyYzItODM4OC1mYzllZmM2ODdlNmRAc2cuMzMzMjEwLnh5ejo0MDAwMA?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A103&tls=1&peer=400567.xyz&tfo=1&alterId=0
-vmess://YXV0bzpmYTNmMzA2MC0xODZmLTQyYzItODM4OC1mYzllZmM2ODdlNmRAanAuMzMzMjEwLnh5ejo0MDAwMA?remarks=%E6%97%A5%E6%9C%AC01&tls=1&peer=400567.xyz&tfo=1&alterId=0
-vmess://YXV0bzpmYTNmMzA2MC0xODZmLTQyYzItODM4OC1mYzllZmM2ODdlNmRAanAuMzMzMjEwLnh5ejo0MDAwMA?remarks=%E6%97%A5%E6%9C%AC02&tls=1&peer=400567.xyz&tfo=1&alterId=0
-vmess://YXV0bzpmYTNmMzA2MC0xODZmLTQyYzItODM4OC1mYzllZmM2ODdlNmRAdXMuMzMzMjEwLnh5ejo0MDAwMA?remarks=%E7%BE%8E%E5%9B%BD01&tls=1&peer=400567.xyz&tfo=1&alterId=0
-vmess://YXV0bzpmYTNmMzA2MC0xODZmLTQyYzItODM4OC1mYzllZmM2ODdlNmRAdXMuMzMzMjEwLnh5ejo0MDAwMA?remarks=%E7%BE%8E%E5%9B%BD02&tls=1&peer=400567.xyz&tfo=1&alterId=0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjZmNDU0NC1kMTY1LTQ0OTktOWRjYi1hZThkZmIwZTFhYmFAZ2QtY24tMDEuMTAyNC5jb20uczEwMjQuY2M6NDU3OTk#%E7%8B%AE%E5%9F%8E01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjZmNDU0NC1kMTY1LTQ0OTktOWRjYi1hZThkZmIwZTFhYmFAZ2QtY24tMDEuMTAyNC5jb20uczEwMjQuY2M6NDU3OTk#%E7%8B%AE%E5%9F%8E02
+vmess://YXV0bzpmZjZmNDU0NC1kMTY1LTQ0OTktOWRjYi1hZThkZmIwZTFhYmFAZ2QtY24tMDEuMTAyNC5jb20uczEwMjQuY2M6NDU3NzM?remarks=%E7%8B%AE%E5%9F%8E03&obfs=websocket&tfo=1&alterId=0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTRkYzc0NS00MjI5LTRlMTUtOGYzZC1mNjgxOGU1ZTFmNzZAZ2QtY24tMDEuMTAyNC5jb20uczEwMjQuY2M6NDU3OTk#%F0%9F%87%B8%F0%9F%87%AC%E7%8B%AE%E5%9F%8E04
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTRkYzc0NS00MjI5LTRlMTUtOGYzZC1mNjgxOGU1ZTFmNzZAZ2QtY24tMDEuMTAyNC5jb20uczEwMjQuY2M6NDU3OTk#%F0%9F%87%B8%F0%9F%87%AC%E7%8B%AE%E5%9F%8E05
+vmess://YXV0bzplMzZkMDUxYy03OTBiLTRmNTMtYjcxYi02MWVhNjRjZDRmNThAZ2QtY24tMDEuMTAyNC5jb20uczEwMjQuY2M6NDU3NzM?remarks=%F0%9F%87%B8%F0%9F%87%AC%E7%8B%AE%E5%9F%8E06&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzplMzZkMDUxYy03OTBiLTRmNTMtYjcxYi02MWVhNjRjZDRmNThAZ2QtY24tMDEuMTAyNC5jb20uczEwMjQuY2M6NDU3NzM?remarks=%E7%8B%AE%E5%9F%8E04&obfs=websocket&tfo=1&alterId=0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZTU2NmJkYy03OTExLTQ1YTQtOTVhYi1lOTk3ZDI1NzhiZWFAZ2QtY24tMDEuMTAyNC5jb20uczEwMjQuY2M6NDU3OTk#%F0%9F%87%B8%F0%9F%87%AC%E7%8B%AE%E5%9F%8E07
 
-4个85966588@qq.com  200启用给ios专用测试  极简
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIua1i+ivlTEiLA0KICAiYWRkIjogIjExMy53Z29uZzEudG9wIiwNCiAgInBvcnQiOiAiNTIyMTMiLA0KICAiaWQiOiAiNmUyMmJjNTctYTBiNi0zYjExLTlmMDctYzA2MTkyMzU0MTgwIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIua1i+ivlTIiLA0KICAiYWRkIjogIjExNy53Z29uZzEudG9wIiwNCiAgInBvcnQiOiAiNTIyMTciLA0KICAiaWQiOiAiNmUyMmJjNTctYTBiNi0zYjExLTlmMDctYzA2MTkyMzU0MTgwIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIua1i+ivlTMiLA0KICAiYWRkIjogIjEyMS53Z29uZzEudG9wIiwNCiAgInBvcnQiOiAiNTIyMjEiLA0KICAiaWQiOiAiNmUyMmJjNTctYTBiNi0zYjExLTlmMDctYzA2MTkyMzU0MTgwIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIua1i+ivlTQiLA0KICAiYWRkIjogIjExOS53Z29uZzEudG9wIiwNCiAgInBvcnQiOiAiNTIyMTkiLA0KICAiaWQiOiAiNmUyMmJjNTctYTBiNi0zYjExLTlmMDctYzA2MTkyMzU0MTgwIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 奇异
 ssr://dXNzdGFuZDIuZXVjZHVybC5tZTo1NjM6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TlRnM05EYzZkWGxuZFdkNVRFeE1NRGs1T0EmcmVtYXJrcz1kWE5oTVEmZ3JvdXA9WVdsbmRXOTVkVzQ
 ssr://dXNzdGFuZDIuZXVjZHVybC5tZTo1NjI6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TlRnM05EYzZkWGxuZFdkNVRFeE1NRGs1T0EmcmVtYXJrcz1kWE5oTWcmZ3JvdXA9WVdsbmRXOTVkVzQ
@@ -66,7 +56,7 @@ vmess://YXV0bzozMGJhNjdjZi03NzZjLTQ4YmUtOGJiNS01Nzg4Nzg4MzAyMjhAY2ZjZG4uc2FuZmVu
 vmess://YXV0bzozMGJhNjdjZi03NzZjLTQ4YmUtOGJiNS01Nzg4Nzg4MzAyMjhAdHcxLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E5%8C%9701&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=tw1.sanfen001.pics&allowInsecure=1&tfo=1&alterId=0
 vmess://YXV0bzozMGJhNjdjZi03NzZjLTQ4YmUtOGJiNS01Nzg4Nzg4MzAyMjhAdHcyLnNhbmZlbjAwMS5waWNzOjQ0Mw?remarks=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E5%8C%9702&tls=1&peer=tw1.sanfen001.pics&allowInsecure=1&tfo=1&alterId=0
 
-5-1极简
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNoYXRHUFQiLA0KICAiYWRkIjogIjExNi53Z29uZzEudG9wIiwNCiAgInBvcnQiOiAiNTIyMTYiLA0KICAiaWQiOiAiNDFhYWZjOWItYWRmZi0zY2IwLWE2NGMtMDdhZDM4YWMxZGI4IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-冲浪猫https://msclm.info/#/subscribe
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMjBmMDMwMS0xMmFkLTQxZWUtOWQ0MS05ZjUyZDNlNTgzZjlAanBhLXpmLmNsbTEwMDg2Lnh5ejoxMTcwMg#chatgpt%E4%B8%93%E7%BA%BF
+
+50i极简98877212@qq.com有120 给ioschatgpt专用 用到5.1日
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImNoYXRncHTkuJPnur8xIiwNCiAgImFkZCI6ICIzLndnb25nMS50b3AiLA0KICAicG9ydCI6ICIxMTIwMyIsDQogICJpZCI6ICI3NGYzOTc1NC01ZjM1LTNjMmQtYjFhZC1iYzIzNjhkMDBjMjgiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImNoYXRncHTkuJPnur8yIiwNCiAgImFkZCI6ICI0Lndnb25nMS50b3AiLA0KICAicG9ydCI6ICIxMTIwNCIsDQogICJpZCI6ICI3NGYzOTc1NC01ZjM1LTNjMmQtYjFhZC1iYzIzNjhkMDBjMjgiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
