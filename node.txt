@@ -18,17 +18,17 @@ vmess://YXV0bzozMGJhNjdjZi03NzZjLTQ4YmUtOGJiNS01Nzg4Nzg4MzAyMjhAaGs0LmFmNDljNGU0
 vmess://YXV0bzozMGJhNjdjZi03NzZjLTQ4YmUtOGJiNS01Nzg4Nzg4MzAyMjhAaGs1LmFmNDljNGU0YzJlZi5zYW5mZW4wMDQubWU6NDQz?remarks=%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF05&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen004.me&allowInsecure=1&tfo=1&alterId=0
 vmess://YXV0bzozMGJhNjdjZi03NzZjLTQ4YmUtOGJiNS01Nzg4Nzg4MzAyMjhAaGs2LmFmNDljNGU0YzJlZi5zYW5mZW4wMDQubWU6NDQz?remarks=%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF06&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen004.me&allowInsecure=1&tfo=1&alterId=0
 159865 188969 787899  878788  886778  334456  757566  889990 2元
-trojan://194939fc-9fd7-4628-b99b-b5b05b9b642b@sg.stablize.top:443?tfo=1#SG001
-trojan://6b3713f0-1249-4e9d-b405-2936579fd31d@usa.stablize.top:443?tfo=1#USA001
-trojan://6b3713f0-1249-4e9d-b405-2936579fd31d@de.stablize.top:443?tfo=1#DE001
+trojan://c2f39289-1c83-49d3-9da2-e729e42a83eb@sg.stablize.top:443?tfo=1#SG001
+trojan://5e938eae-60b1-43df-87d7-9a73b62d0b8d@usa.stablize.top:443?tfo=1#USA001
+trojan://5e938eae-60b1-43df-87d7-9a73b62d0b8d@de.stablize.top:443?tfo=1#DE001
 trojan://fda51148-dd43-466b-a340-5160214f923a@jp.stablize.top:443?tfo=1#JP001
 trojan://fda51148-dd43-466b-a340-5160214f923a@ca.stablize.top:443?tfo=1#CA001
 trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@ap.stablize.top:443?tfo=1#AU001
 trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@uk.stablize.top:443?tfo=1#UK001
 trojan://2bfe8e4f-c00c-496b-ba8c-e67d2becd03b@sg.stablize.top:443?tfo=1#SG002
 trojan://2bfe8e4f-c00c-496b-ba8c-e67d2becd03b@sg.stablize.top:443?tfo=1#SG003
-trojan://26775186-bb86-4db0-a650-ceec31095b68@usa.stablize.top:443?tfo=1#USA002
-trojan://26775186-bb86-4db0-a650-ceec31095b68@usa.stablize.top:443?tfo=1#USA003
+trojan://ccf6d04e-5803-44a6-ad89-c87941a16ef5@usa.stablize.top:443?tfo=1#USA002
+trojan://ccf6d04e-5803-44a6-ad89-c87941a16ef5@usa.stablize.top:443?tfo=1#USA003
 trojan://c8fb9d20-d89b-4f20-93f6-acd04aeb586b@de.stablize.top:443?tfo=1#DE002
 trojan://c8fb9d20-d89b-4f20-93f6-acd04aeb586b@de.stablize.top:443?tfo=1#DE003
 trojan://00aa8ab3-8dfe-4a62-91b8-a6813c5c2a2a@jp.stablize.top:443?tfo=1#JP002
