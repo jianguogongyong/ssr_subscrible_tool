@@ -52,20 +52,16 @@ trojan://b5015d58-89e3-48a1-8234-9469cd4a344c@fscuk.fscloud123456789.com:443?all
 886808255@qq.com   还剩选 1.78元  给ios 可用到用6。1 极简
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImNoYXRncHTkuJPnur8xIiwNCiAgImFkZCI6ICIzLndnb25nMS50b3AiLA0KICAicG9ydCI6ICIxMTIwMyIsDQogICJpZCI6ICI3OGRkYzMxYS01YzQzLTNjZDgtOGQ3Ny01YjczYzIzMjFlY2UiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImNoYXRncHTkuJPnur8yIiwNCiAgImFkZCI6ICI0Lndnb25nMS50b3AiLA0KICAicG9ydCI6ICIxMTIwNCIsDQogICJpZCI6ICI3OGRkYzMxYS01YzQzLTNjZDgtOGQ3Ny01YjczYzIzMjFlY2UiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
-chengxin 1元
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@hk1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2001%20%7C%20%E4%B8%93%E7%BA%BF
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@hk3.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2003%20%7C%20%E4%B8%93%E7%BA%BF
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@hk5.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2005%20%7C%20%E4%B8%93%E7%BA%BF
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@hk7.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2007%20%7C%20%E4%B8%93%E7%BA%BF
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@sg1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2001%20%7C%20%E4%B8%93%E7%BA%BF
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@sg3.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2003%20%7C%20%E4%B8%93%E7%BA%BF
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@sg5.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2005%20%7C%20%E4%B8%93%E7%BA%BF
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@sg7.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2007%20%7C%20%E4%B8%93%E7%BA%BF
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@172.67.40.65:443?allowInsecure=1&peer=c2.777655.xyz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=c2.777655.xyz;obfs-uri=/#%E7%BE%8E%E5%9B%BD%2003%20%7C%20%E4%B8%93%E7%BA%BF
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@172.67.40.65:443?allowInsecure=1&peer=c2.777655.xyz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=c2.777655.xyz;obfs-uri=/#%E7%BE%8E%E5%9B%BD%2004%20%7C%20%E4%B8%93%E7%BA%BF
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@104.22.69.72:443?allowInsecure=1&peer=c3.777655.xyz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=c3.777655.xyz;obfs-uri=/#%E6%97%A5%E6%9C%AC%2005%20%7C%20%E4%B8%93%E7%BA%BF
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@104.22.69.72:443?allowInsecure=1&peer=c3.777655.xyz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=c3.777655.xyz;obfs-uri=/#%E6%97%A5%E6%9C%AC%2006%20%7C%20%E4%B8%93%E7%BA%BF
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@us2.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2002%20%7C%20%E4%B8%93%E7%BA%BF
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@us4.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2004%20%7C%20%E4%B8%93%E7%BA%BF
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@us6.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2006%20%7C%20%E4%B8%93%E7%BA%BF
-trojan://de035bbf-c6fa-4ec8-a00e-19de32c83fc5@us8.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2008%20%7C%20%E4%B8%93%E7%BA%BF
+chengxin  翻墙trojan://ca76834c-3e07-4c44-8347-ec19c26087cb@agroup.node1.t.nodelist-gfwairport1.download:50001?tfo=1#Tokyo,%20Tj
+trojan://ca76834c-3e07-4c44-8347-ec19c26087cb@agroup.node2.t.nodelist-gfwairport1.download:50001?tfo=1#Incheon,%20Tj
+trojan://ca76834c-3e07-4c44-8347-ec19c26087cb@agroup.node3.t.nodelist-gfwairport1.download:50001?tfo=1#Singapore,%20Tj
+trojan://ca76834c-3e07-4c44-8347-ec19c26087cb@agroup.node4.t.nodelist-gfwairport1.download:50001?tfo=1#Hongkong,%20Tj
+trojan://ca76834c-3e07-4c44-8347-ec19c26087cb@agroup.node5.t.nodelist-gfwairport1.download:50001?tfo=1#California,%20Tj
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTc2ODM0Yy0zZTA3LTRjNDQtODM0Ny1lYzE5YzI2MDg3Y2JAYWdyb3VwLm5vZGUxLnMubm9kZWxpc3QtZ2Z3YWlycG9ydDEuZG93bmxvYWQ6NTAwMDE#Tokyo,%20SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTc2ODM0Yy0zZTA3LTRjNDQtODM0Ny1lYzE5YzI2MDg3Y2JAYWdyb3VwLm5vZGUyLnMubm9kZWxpc3QtZ2Z3YWlycG9ydDEuZG93bmxvYWQ6NTAwMDE#Incheon,%20SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTc2ODM0Yy0zZTA3LTRjNDQtODM0Ny1lYzE5YzI2MDg3Y2JAYWdyb3VwLm5vZGUzLnMubm9kZWxpc3QtZ2Z3YWlycG9ydDEuZG93bmxvYWQ6NTAwMDE#Singapore,%20SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTc2ODM0Yy0zZTA3LTRjNDQtODM0Ny1lYzE5YzI2MDg3Y2JAYWdyb3VwLm5vZGU0LnMubm9kZWxpc3QtZ2Z3YWlycG9ydDEuZG93bmxvYWQ6NTAwMDE#Hongkong,%20SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTc2ODM0Yy0zZTA3LTRjNDQtODM0Ny1lYzE5YzI2MDg3Y2JAYWdyb3VwLm5vZGU1LnMubm9kZWxpc3QtZ2Z3YWlycG9ydDEuZG93bmxvYWQ6NTAwMDE#California,%20SS
+vmess://YXV0bzpjYTc2ODM0Yy0zZTA3LTRjNDQtODM0Ny1lYzE5YzI2MDg3Y2JAYWdyb3VwLm5vZGUxLnYubm9kZWxpc3QtZ2Z3YWlycG9ydDEuZG93bmxvYWQ6NTAwMDE?remarks=Tokyo,%20V2&obfs=none&tfo=1&alterId=0
+vmess://YXV0bzpjYTc2ODM0Yy0zZTA3LTRjNDQtODM0Ny1lYzE5YzI2MDg3Y2JAYWdyb3VwLm5vZGUyLnYubm9kZWxpc3QtZ2Z3YWlycG9ydDEuZG93bmxvYWQ6NTAwMDE?remarks=Incheon,%20V2&obfs=none&tfo=1&alterId=0
+vmess://YXV0bzpjYTc2ODM0Yy0zZTA3LTRjNDQtODM0Ny1lYzE5YzI2MDg3Y2JAYWdyb3VwLm5vZGU0LnYubm9kZWxpc3QtZ2Z3YWlycG9ydDEuZG93bmxvYWQ6NTAwMDE?remarks=Hongkong,%20V2&obfs=none&tfo=1&alterId=0
