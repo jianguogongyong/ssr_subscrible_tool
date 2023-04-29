@@ -74,6 +74,7 @@ trojan://44a97196-9af0-40e4-82d0-141ba7177922@cthk2.createmofa.xyz:35998?peer=hk
 trojan://44a97196-9af0-40e4-82d0-141ba7177922@cttw1.createmofa.xyz:34999?peer=tw1.ctjsq.xyz&tfo=1#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE-1
 trojan://44a97196-9af0-40e4-82d0-141ba7177922@ctkr2.createmofa.xyz:32998?peer=kr2.ctjsq.xyz&tfo=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGE5NzE5Ni05YWYwLTQwZTQtODJkMC0xNDFiYTcxNzc5MjJAY3RrcjEuY3JlYXRlbW9mYS54eXo6MzI5OTk#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-1
+创奇chengxinguaiguai@gmail.com
 trojan://78d98420-8823-4593-a1d6-49ba1a0bf03f@ctsg1.createmofa.xyz:37999?peer=sg1.ctjsq.xyz&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1-1
 trojan://78d98420-8823-4593-a1d6-49ba1a0bf03f@ctjp1.createmofa.xyz:38999?allowInsecure=1&peer=jp1.ctjsq.xyz&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC-1
 trojan://78d98420-8823-4593-a1d6-49ba1a0bf03f@cthk2.createmofa.xyz:35998?peer=hk2.ctjsq.xyz&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF-2
