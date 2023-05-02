@@ -30,8 +30,8 @@ trojan://00aa8ab3-8dfe-4a62-91b8-a6813c5c2a2a@sg.stablize.top:443?tfo=1#SG001
 trojan://00aa8ab3-8dfe-4a62-91b8-a6813c5c2a2a@usa.stablize.top:443?tfo=1#USA001
 trojan://c8fb9d20-d89b-4f20-93f6-acd04aeb586b@jp.stablize.top:443?tfo=1#JP001
 trojan://c8fb9d20-d89b-4f20-93f6-acd04aeb586b@ca.stablize.top:443?tfo=1#CA001
-trojan://2bfe8e4f-c00c-496b-ba8c-e67d2becd03b@ap.stablize.top:443?tfo=1#AU001
-trojan://2bfe8e4f-c00c-496b-ba8c-e67d2becd03b@usa.stablize.top:443?tfo=1#USA002
+trojan://01f34a05-ab03-469e-b8ec-86a6976354fa@ap.stablize.top:443?tfo=1#AU001
+trojan://01f34a05-ab03-469e-b8ec-86a6976354fa@usa.stablize.top:443?tfo=1#USA002
 trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@usa.stablize.top:443?tfo=1#USA003
 trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@de.stablize.top:443?tfo=1#DE002
 trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@de.stablize.top:443?tfo=1#DE003
@@ -49,15 +49,15 @@ trojan://ca76834c-3e07-4c44-8347-ec19c26087cb@agroup.node4.t.nodelist-gfwairport
 trojan://ca76834c-3e07-4c44-8347-ec19c26087cb@agroup.node5.t.nodelist-gfwairport1.download:50001?tfo=1#%E7%BE%8E%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTc2ODM0Yy0zZTA3LTRjNDQtODM0Ny1lYzE5YzI2MDg3Y2JAYWdyb3VwLm5vZGUxLnMubm9kZWxpc3QtZ2Z3YWlycG9ydDEuZG93bmxvYWQ6NTAwMDE#%E6%97%A5%E6%9C%AC2
 
-1元100gm wcy2025i@163.com,jxjy0813@163.com    给ios用
-trojan://ed19b239-8e49-4b82-979a-24b84fa7b173@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A11gpt
-trojan://ed19b239-8e49-4b82-979a-24b84fa7b173@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A12gpt
-trojan://ed19b239-8e49-4b82-979a-24b84fa7b173@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A13gpt
-trojan://ed19b239-8e49-4b82-979a-24b84fa7b173@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A14gpt
-trojan://b733c862-e08e-4ff1-b09f-57b5b56715c5@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD1gpt
-trojan://b733c862-e08e-4ff1-b09f-57b5b56715c5@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD2gpt
-trojan://b733c862-e08e-4ff1-b09f-57b5b56715c5@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD3gpt
-trojan://b733c862-e08e-4ff1-b09f-57b5b56715c5@fscuk.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E8%8B%B1%E5%9B%BD1gpt
+1元100gm jxjy0813@163.com   3201760880@qq.com 给ios用
+trojan://b733c862-e08e-4ff1-b09f-57b5b56715c5@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A11gpt
+trojan://b733c862-e08e-4ff1-b09f-57b5b56715c5@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A12gpt
+trojan://b733c862-e08e-4ff1-b09f-57b5b56715c5@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A13gpt
+trojan://b733c862-e08e-4ff1-b09f-57b5b56715c5@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A14gpt
+trojan://a44834af-d3f3-4364-a283-639256046474@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD1gpt
+trojan://a44834af-d3f3-4364-a283-639256046474@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD2gpt
+trojan://a44834af-d3f3-4364-a283-639256046474@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD3gpt
+trojan://a44834af-d3f3-4364-a283-639256046474@fscuk.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E8%8B%B1%E5%9B%BD%201gpt
 886808255@qq.com   还剩选 1.78元  给ios 可用到用6。1 极简
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImNoYXRncHTkuJPnur8xIiwNCiAgImFkZCI6ICIzLndnb25nMS50b3AiLA0KICAicG9ydCI6ICIxMTIwMyIsDQogICJpZCI6ICI3OGRkYzMxYS01YzQzLTNjZDgtOGQ3Ny01YjczYzIzMjFlY2UiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImNoYXRncHTkuJPnur8yIiwNCiAgImFkZCI6ICI0Lndnb25nMS50b3AiLA0KICAicG9ydCI6ICIxMTIwNCIsDQogICJpZCI6ICI3OGRkYzMxYS01YzQzLTNjZDgtOGQ3Ny01YjczYzIzMjFlY2UiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
