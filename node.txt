@@ -3,8 +3,8 @@ ios专用
 ss://YWVzLTI1Ni1nY206YWRiODAwY2YtZjU2Yi00YzkzLTk2NGQtMDdlOGNjOWVhZjA1QGQwY2Q4OTY0ODU4Ny5zYW5mZW4wMDQubWU6MTY2MTE#%E4%BA%94%E4%B8%80%E5%BF%AB%E4%B9%90
 vmess://YXV0bzphZGI4MDBjZi1mNTZiLTRjOTMtOTY0ZC0wN2U4Y2M5ZWFmMDVAaGsyLmMyYmZlNzkzNzJiZS5zYW5mZW4wMDQubWU6NDQz?remarks=%E6%AF%8F%E6%97%A5%E8%BF%9E%E6%8E%A5%E5%89%8D%E8%AF%B7%E5%8F%B3%EF%BC%88%E5%B7%A6%EF%BC%89%E6%BB%91&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen004.me&alterId=0
 vmess://YXV0bzphZGI4MDBjZi1mNTZiLTRjOTMtOTY0ZC0wN2U4Y2M5ZWFmMDVAaGs0LmFmNDljNGU0YzJlZi5zYW5mZW4wMDQubWU6NDQz?remarks=%E6%9C%80%E4%B8%8A%E6%96%B9%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E2%80%9C%E6%9B%B4%E6%96%B0%E2%80%9D&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen004.me&alterId=0
-vmess://YXV0bzpjNjllN2IxOC1hYmQ2LTQ3ZGYtYWIxYS1jODlhOTZmYmE1Y2VAc2cyLmFmNDljNGU0YzJlZi5zYW5mZW4wMDQubWU6NDQz?remarks=%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%AF%B7%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2&tls=1&peer=sg1.sanfen004.me&alterId=0
-vmess://YXV0bzpjNjllN2IxOC1hYmQ2LTQ3ZGYtYWIxYS1jODlhOTZmYmE1Y2VAanAzLmFmNDljNGU0YzJlZi5zYW5mZW4wMDQubWU6NDQz?remarks=http://985.so/bmgac%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8E&tls=1&peer=jp1.sanfen004.me&alterId=0
+vmess://YXV0bzpjNjllN2IxOC1hYmQ2LTQ3ZGYtYWIxYS1jODlhOTZmYmE1Y2VAZDBjZDg5NjQ4NTg3LnNhbmZlbjAwNC5tZToxNjYxMA?remarks=%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%AF%B7%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2&alterId=0
+ss://YWVzLTI1Ni1nY206YzY5ZTdiMTgtYWJkNi00N2RmLWFiMWEtYzg5YTk2ZmJhNWNlQGQwY2Q4OTY0ODU4Ny5zYW5mZW4wMDQubWU6MTY2MTE#http://985.so/bmgac%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8E
 vmess://YXV0bzo1ODU5NTIwZC02YzhlLTRhODAtODI1NS03Y2RkNTYzYjc3OGZAZDBjZDg5NjQ4NTg3LnNhbmZlbjAwNC5tZToxNjYxMA?remarks=%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%BD%AC%E5%8F%91/%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9&alterId=0
 
 nculzwd  clash电脑用多出来的5.7到期1元100G
@@ -36,22 +36,22 @@ vmess://YXV0bzozMGJhNjdjZi03NzZjLTQ4YmUtOGJiNS01Nzg4Nzg4MzAyMjhAaGszLmFmNDljNGU0
 vmess://YXV0bzozMGJhNjdjZi03NzZjLTQ4YmUtOGJiNS01Nzg4Nzg4MzAyMjhAaGs0LmFmNDljNGU0YzJlZi5zYW5mZW4wMDQubWU6NDQz?remarks=%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF04&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen004.me&allowInsecure=1&tfo=1&alterId=0
 vmess://YXV0bzozMGJhNjdjZi03NzZjLTQ4YmUtOGJiNS01Nzg4Nzg4MzAyMjhAaGs1LmFmNDljNGU0YzJlZi5zYW5mZW4wMDQubWU6NDQz?remarks=%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF05&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen004.me&allowInsecure=1&tfo=1&alterId=0
 vmess://YXV0bzozMGJhNjdjZi03NzZjLTQ4YmUtOGJiNS01Nzg4Nzg4MzAyMjhAaGs2LmFmNDljNGU0YzJlZi5zYW5mZW4wMDQubWU6NDQz?remarks=%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF06&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen004.me&allowInsecure=1&tfo=1&alterId=0
-159865 188969 787899  878788  886778  334456  757566  889990 2元
-trojan://c2f39289-1c83-49d3-9da2-e729e42a83eb@sg.stablize.top:443?tfo=1#SG001
-trojan://5e938eae-60b1-43df-87d7-9a73b62d0b8d@usa.stablize.top:443?tfo=1#USA001
-trojan://5e938eae-60b1-43df-87d7-9a73b62d0b8d@de.stablize.top:443?tfo=1#DE001
-trojan://fda51148-dd43-466b-a340-5160214f923a@jp.stablize.top:443?tfo=1#JP001
-trojan://fda51148-dd43-466b-a340-5160214f923a@ca.stablize.top:443?tfo=1#CA001
-trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@ap.stablize.top:443?tfo=1#AU001
-trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@uk.stablize.top:443?tfo=1#UK001
-trojan://2bfe8e4f-c00c-496b-ba8c-e67d2becd03b@sg.stablize.top:443?tfo=1#SG002
-trojan://2bfe8e4f-c00c-496b-ba8c-e67d2becd03b@sg.stablize.top:443?tfo=1#SG003
-trojan://ccf6d04e-5803-44a6-ad89-c87941a16ef5@usa.stablize.top:443?tfo=1#USA002
-trojan://ccf6d04e-5803-44a6-ad89-c87941a16ef5@usa.stablize.top:443?tfo=1#USA003
-trojan://c8fb9d20-d89b-4f20-93f6-acd04aeb586b@de.stablize.top:443?tfo=1#DE002
-trojan://c8fb9d20-d89b-4f20-93f6-acd04aeb586b@de.stablize.top:443?tfo=1#DE003
-trojan://00aa8ab3-8dfe-4a62-91b8-a6813c5c2a2a@jp.stablize.top:443?tfo=1#JP002
-trojan://00aa8ab3-8dfe-4a62-91b8-a6813c5c2a2a@jp.stablize.top:443?tfo=1#JP003
+159865 188969 787899  878788  886778   757566  889990 2元
+trojan://00aa8ab3-8dfe-4a62-91b8-a6813c5c2a2a@sg.stablize.top:443?tfo=1#SG001
+trojan://00aa8ab3-8dfe-4a62-91b8-a6813c5c2a2a@usa.stablize.top:443?tfo=1#USA001
+trojan://c8fb9d20-d89b-4f20-93f6-acd04aeb586b@jp.stablize.top:443?tfo=1#JP001
+trojan://c8fb9d20-d89b-4f20-93f6-acd04aeb586b@ca.stablize.top:443?tfo=1#CA001
+trojan://2bfe8e4f-c00c-496b-ba8c-e67d2becd03b@ap.stablize.top:443?tfo=1#AU001
+trojan://2bfe8e4f-c00c-496b-ba8c-e67d2becd03b@usa.stablize.top:443?tfo=1#USA002
+trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@usa.stablize.top:443?tfo=1#USA003
+trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@de.stablize.top:443?tfo=1#DE002
+trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@de.stablize.top:443?tfo=1#DE003
+trojan://fda51148-dd43-466b-a340-5160214f923a@jp.stablize.top:443?tfo=1#JP002
+trojan://fda51148-dd43-466b-a340-5160214f923a@jp.stablize.top:443?tfo=1#JP003
+trojan://c2ad2825-b480-4c40-8c91-9d6fa8b6e3a9@ca.stablize.top:443?tfo=1#CA002
+trojan://c2ad2825-b480-4c40-8c91-9d6fa8b6e3a9@ca.stablize.top:443?tfo=1#CA003
+trojan://f51ec03c-f64f-4ed7-be66-8ebd0dbbaca2@ap.stablize.top:443?tfo=1#AU002
+trojan://f51ec03c-f64f-4ed7-be66-8ebd0dbbaca2@ap.stablize.top:443?tfo=1#AU003
 翻墙 chengxinmayun@gmail.com
 trojan://ca76834c-3e07-4c44-8347-ec19c26087cb@agroup.node1.t.nodelist-gfwairport1.download:50001?tfo=1#%E6%97%A5%E6%9C%AC1
 trojan://ca76834c-3e07-4c44-8347-ec19c26087cb@agroup.node2.t.nodelist-gfwairport1.download:50001?tfo=1#%E9%9F%A9%E5%9B%BD
@@ -59,14 +59,6 @@ trojan://ca76834c-3e07-4c44-8347-ec19c26087cb@agroup.node3.t.nodelist-gfwairport
 trojan://ca76834c-3e07-4c44-8347-ec19c26087cb@agroup.node4.t.nodelist-gfwairport1.download:50001?tfo=1#%E9%A6%99%E6%B8%AF
 trojan://ca76834c-3e07-4c44-8347-ec19c26087cb@agroup.node5.t.nodelist-gfwairport1.download:50001?tfo=1#%E7%BE%8E%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTc2ODM0Yy0zZTA3LTRjNDQtODM0Ny1lYzE5YzI2MDg3Y2JAYWdyb3VwLm5vZGUxLnMubm9kZWxpc3QtZ2Z3YWlycG9ydDEuZG93bmxvYWQ6NTAwMDE#%E6%97%A5%E6%9C%AC2
-
-
-1156097536流量多 5.1 三分
-vmess://YXV0bzpjNDg2OGI4YS0xZjVjLTQ1MzYtYjE5MS1kNTQyOWMyZTE0YjdAaGszLmFmNDljNGU0YzJlZi5zYW5mZW4wMDQubWU6NDQz?remarks=%E9%A6%99%E6%B8%AF-001&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen004.me&alterId=0
-vmess://YXV0bzpjNDg2OGI4YS0xZjVjLTQ1MzYtYjE5MS1kNTQyOWMyZTE0YjdAaGs0LmFmNDljNGU0YzJlZi5zYW5mZW4wMDQubWU6NDQz?remarks=%E9%A6%99%E6%B8%AF-002&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=hk1.sanfen004.me&alterId=0
-vmess://YXV0bzpjNDg2OGI4YS0xZjVjLTQ1MzYtYjE5MS1kNTQyOWMyZTE0YjdAanAxLjFmNDgyNmY0NjNhYS5zYW5mZW4wMDQubWU6NDQz?remarks=%E6%97%A5%E6%9C%AC-001&obfsParam=www.microsoft.com&path=/zh-cn&obfs=websocket&tls=1&peer=jp1.sanfen004.me&alterId=0
-vmess://YXV0bzpjNDg2OGI4YS0xZjVjLTQ1MzYtYjE5MS1kNTQyOWMyZTE0YjdAaGs4MC44Yjc1MGUzZTIwYWEuc2FuZmVuMDA0Lm1lOjgw?remarks=%E9%A6%99%E6%B8%AF-003&obfsParam=www.baidu.com&path=/zh-cn/&obfs=websocket&alterId=0
-ss://YWVzLTI1Ni1nY206YzQ4NjhiOGEtMWY1Yy00NTM2LWIxOTEtZDU0MjljMmUxNGI3QGQwY2Q4OTY0ODU4Ny5zYW5mZW4wMDQubWU6MTY2MTE#%E6%97%A5%E6%9C%AC-002
 
 1元100gm wcy2025i@163.com,jxjy0813@163.com    给ios用
 trojan://ed19b239-8e49-4b82-979a-24b84fa7b173@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A11gpt
