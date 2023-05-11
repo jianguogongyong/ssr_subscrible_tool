@@ -23,10 +23,11 @@ trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@kr.stablize.top:443?tfo=1#KR%E9%9F
 trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@kr.stablize.top:443?tfo=1#KR%E9%9F%A9%E5%9B%BD6
 trojan://00aa8ab3-8dfe-4a62-91b8-a6813c5c2a2a@dejs.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD7
 trojan://00aa8ab3-8dfe-4a62-91b8-a6813c5c2a2a@dejs.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD7
-trojan://0b456902-6aaf-4bce-a248-bc2a2d9eeedb@ukjs.stablize.top:443?tfo=1#UK%E8%8B%B1%E5%9B%BD8
-trojan://0b456902-6aaf-4bce-a248-bc2a2d9eeedb@ukjs.stablize.top:443?tfo=1#UK%E8%8B%B1%E5%9B%BD8
-trojan://a591da13-bd6d-4ba1-8fd0-3d4ca7522bf2@nljs.stablize.top:443?tfo=1#NL%E8%8D%B7%E5%85%B09
-trojan://a591da13-bd6d-4ba1-8fd0-3d4ca7522bf2@nljs.stablize.top:443?tfo=1#NL%E8%8D%B7%E5%85%B09
+trojan://82a2d844-89b2-4ebd-aa18-0bd2feef9da2@ukjs.stablize.top:443?tfo=1#UK%E8%8B%B1%E5%9B%BD8
+trojan://82a2d844-89b2-4ebd-aa18-0bd2feef9da2@ukjs.stablize.top:443?tfo=1#UK%E8%8B%B1%E5%9B%BD8
+trojan://1a40cb7b-3ddc-447e-9a9c-943a6124e9ed@nljs.stablize.top:443?tfo=1#NL%E8%8D%B7%E5%85%B09
+trojan://1a40cb7b-3ddc-447e-9a9c-943a6124e9ed@nljs.stablize.top:443?tfo=1#NL%E8%8D%B7%E5%85%B09
+
 
 奇异999556622@qq.com
 ssr://Y25hbGxhejIuZXVjZHVybC5tZTo1NjY6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TXpnMk5qb3hNalUwTlRnMU5UZyZyZW1hcmtzPTVwYXc1WXFnNVoyaFF3Jmdyb3VwPVlXbG5kVzk1ZFc0
@@ -39,15 +40,17 @@ ssr://MmNucmVsYXkyLmluaXRjbG91ZC5wcm86NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZX
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImNoYXRncHTkuJPnur8xIiwNCiAgImFkZCI6ICIzLndnb25nMS50b3AiLA0KICAicG9ydCI6ICIxMTIwMyIsDQogICJpZCI6ICIwMjZjZGEyMi00NDhiLTNmODQtYTQ5MS1mMzUxN2RmMTA3ODciLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImNoYXRncHTkuJPnur8yIiwNCiAgImFkZCI6ICI0Lndnb25nMS50b3AiLA0KICAicG9ydCI6ICIxMTIwNCIsDQogICJpZCI6ICIwMjZjZGEyMi00NDhiLTNmODQtYTQ5MS1mMzUxN2RmMTA3ODciLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
-1元100gm jxjy0813@163.com死了   3201760880@qq.com 给ios用
-trojan://a44834af-d3f3-4364-a283-639256046474@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD2gpt
-trojan://a44834af-d3f3-4364-a283-639256046474@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD3gpt
-trojan://a44834af-d3f3-4364-a283-639256046474@fscuk.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E8%8B%B1%E5%9B%BD%201gpt
+1元100gm xsdwm2008@163.com 给ios用
+trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%201gpt
+trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A12gpt
+trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD1gpt
+trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD2gpt
 
-chengxin  创奇
-trojan://44a97196-9af0-40e4-82d0-141ba7177922@ctjp1.createmofa.xyz:38999?allowInsecure=1&peer=jp1.ctjsq.xyz&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC-1
-trojan://44a97196-9af0-40e4-82d0-141ba7177922@cthk2.createmofa.xyz:35998?peer=hk2.ctjsq.xyz&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF-2
-trojan://44a97196-9af0-40e4-82d0-141ba7177922@cttw1.createmofa.xyz:34999?peer=tw1.ctjsq.xyz&tfo=1#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE-1
+chengxin  创奇  2368614602@qq.com
+trojan://672e01b6-76bf-4a28-a517-2d57bc5fd72d@ctjp1.createmofa.xyz:38999?allowInsecure=1&peer=jp1.ctjsq.xyz&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC-1
+trojan://672e01b6-76bf-4a28-a517-2d57bc5fd72d@cthk2.createmofa.xyz:35998?peer=hk2.ctjsq.xyz&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF-2
+trojan://672e01b6-76bf-4a28-a517-2d57bc5fd72d@cttw1.createmofa.xyz:34999?peer=tw1.ctjsq.xyz&tfo=1#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE-1
+trojan://672e01b6-76bf-4a28-a517-2d57bc5fd72d@ctus1.createmofa.xyz:33999?peer=us1.ctjsq.xyz&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD-1
 创奇chengxinguaiguai@gmail.com
 trojan://78d98420-8823-4593-a1d6-49ba1a0bf03f@ctsg1.createmofa.xyz:37999?peer=sg1.ctjsq.xyz&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1-1
 trojan://78d98420-8823-4593-a1d6-49ba1a0bf03f@ctjp1.createmofa.xyz:38999?allowInsecure=1&peer=jp1.ctjsq.xyz&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC-1
