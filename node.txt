@@ -68,3 +68,11 @@ trojan://68cc7804-cc2c-4db3-aecf-4689e0fc6ef9@ctjp1.createmofa.xyz:38999?allowIn
 trojan://68cc7804-cc2c-4db3-aecf-4689e0fc6ef9@cthk2.createmofa.xyz:35998?peer=hk2.ctjsq.xyz&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF-2
 trojan://68cc7804-cc2c-4db3-aecf-4689e0fc6ef9@cttw1.createmofa.xyz:34999?peer=tw1.ctjsq.xyz&tfo=1#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE-1
 trojan://68cc7804-cc2c-4db3-aecf-4689e0fc6ef9@ctus1.createmofa.xyz:33999?peer=us1.ctjsq.xyz&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD-1
+291765226 给ios 用的稳连云
+trojan://f3ccb94b-fc75-475a-80e1-b67913115462@sg7.microsoft-orgwly.vip:11024?peer=tls.microsoft-orgwly.vip&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A107
+trojan://f3ccb94b-fc75-475a-80e1-b67913115462@sg9.microsoft-orgwly.vip:443?peer=tls.microsoft-orgwly.vip&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A109
+trojan://f3ccb94b-fc75-475a-80e1-b67913115462@us4.microsoft-orgwly.vip:12059?peer=tls.microsoft-orgwly.vip&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD04
+trojan://f3ccb94b-fc75-475a-80e1-b67913115462@hk4.microsoft-orgwly.vip:443?peer=tls.microsoft-orgwly.vip&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF04%7C%E6%B5%81%E5%AA%92%E4%BD%93GPT
+trojan://f3ccb94b-fc75-475a-80e1-b67913115462@kr3.microsoft-orgwly.vip:443?peer=tls.microsoft-orgwly.vip&tfo=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD03
+trojan://f3ccb94b-fc75-475a-80e1-b67913115462@kr4.microsoft-orgwly.vip:443?peer=tls.microsoft-orgwly.vip&tfo=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD04
+trojan://f3ccb94b-fc75-475a-80e1-b67913115462@jp4.microsoft-orgwly.vip:443?peer=tls.microsoft-orgwly.vip&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC04
