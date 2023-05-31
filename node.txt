@@ -1,6 +1,6 @@
 ios专用
 2元文字说明5个号
-trojan://f252281c-5712-4d62-b81a-fdc38faec572@sg.stablize.top:443?tfo=1#%E6%AF%8F%E6%97%A5%E8%BF%9E%E6%8E%A5%E5%89%8D%E8%AF%B7%E5%8F%B3%E6%BB%91
+trojan://5b51e0af-08af-4208-b834-6d6ac5721837@jp.stablize.top:443?tfo=1#%E6%AF%8F%E6%97%A5%E8%BF%9E%E6%8E%A5%E5%89%8D%E8%AF%B7%E5%8F%B3%E6%BB%91
 trojan://1c88378c-b699-425f-8654-dade64e115b7@jp.stablize.top:443?tfo=1#%E6%9C%80%E4%B8%8A%E6%96%B9%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E2%80%9C%E6%9B%B4%E6%96%B0%E2%80%9D
 trojan://1c88378c-b699-425f-8654-dade64e115b7@jp.stablize.top:443?tfo=1#%E6%97%A0%E6%B3%95%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80
 trojan://a6950ca9-4504-411a-a656-bee29a4739eb@kr.stablize.top:443?tfo=1#%E4%BB%BB%E6%84%8F%E5%8F%AF%E7%94%A8%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0
@@ -78,15 +78,9 @@ trojan://bda0f076-ee59-4225-8f13-fdc738eef658@jp4.microsoft-orgwly.vip:30458?pee
 trojan://bda0f076-ee59-4225-8f13-fdc738eef658@jp7.microsoft-orgwly.vip:34521?peer=tls.microsoft-orgwly.vip&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC07
 
 创奇 11 13 14 15
-trojan://7fb4e6be-b027-444c-9dc8-ee56b39c08d3@ctsg1.createmofa.xyz:37999?peer=sg1.ctjsq.xyz&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1-1
-trojan://7fb4e6be-b027-444c-9dc8-ee56b39c08d3@ctjp1.createmofa.xyz:38999?allowInsecure=1&peer=jp1.ctjsq.xyz&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC-1
-trojan://7fb4e6be-b027-444c-9dc8-ee56b39c08d3@cthk2.createmofa.xyz:35998?peer=hk2.ctjsq.xyz&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF-2
-trojan://2ede66a9-290b-4fb1-b129-99dd474c9a5c@cttw1.createmofa.xyz:34999?peer=tw1.ctjsq.xyz&tfo=1#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE-1
-trojan://2ede66a9-290b-4fb1-b129-99dd474c9a5c@ctus1.createmofa.xyz:33999?peer=us1.ctjsq.xyz&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD-1
-trojan://2ede66a9-290b-4fb1-b129-99dd474c9a5c@ctkr2.createmofa.xyz:32998?peer=kr2.ctjsq.xyz&tfo=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-2
-trojan://181f2438-213e-4c2f-9915-8be5b1394f9a@ctsg1.createmofa.xyz:37999?peer=sg1.ctjsq.xyz&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1-1
-trojan://181f2438-213e-4c2f-9915-8be5b1394f9a@cthk2.createmofa.xyz:35998?peer=hk2.ctjsq.xyz&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF-2
-trojan://181f2438-213e-4c2f-9915-8be5b1394f9a@ctus1.createmofa.xyz:33999?peer=us1.ctjsq.xyz&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD-1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZmI0ZTZiZS1iMDI3LTQ0NGMtOWRjOC1lZTU2YjM5YzA4ZDNAY3RrcjEuY3JlYXRlbW9mYS54eXo6MzI5OTk#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZmI0ZTZiZS1iMDI3LTQ0NGMtOWRjOC1lZTU2YjM5YzA4ZDNAY3RoazEuY3JlYXRlbW9mYS54eXo6MzU5OTk#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF-1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZmI0ZTZiZS1iMDI3LTQ0NGMtOWRjOC1lZTU2YjM5YzA4ZDNAY3RqcDIuY3JlYXRlbW9mYS54eXo6Mzg5OTg#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC-2
 vmess://YXV0bzpkMTU1YTUzOS1jM2ZmLTQ0MzAtYjM4OS1mZTNjZTRhODE5MDBAY2RuLXhqcDUuY3Fqc2wueHl6OjQ0Mw?remarks=CDN%E5%A4%87%E7%94%A8-5&obfsParam=cdn-xjp5.cqjsl.xyz&path=/&obfs=websocket&tls=1&tfo=1&alterId=0
 vmess://YXV0bzpkMTU1YTUzOS1jM2ZmLTQ0MzAtYjM4OS1mZTNjZTRhODE5MDBAY2RuLXhqcDQuY3Fqc2wueHl6OjQ0Mw?remarks=CDN%E5%A4%87%E7%94%A8-4&obfsParam=cdn-xjp4.cqjsl.xyz&path=/&obfs=websocket&tls=1&tfo=1&alterId=0
 vmess://YXV0bzpkMTU1YTUzOS1jM2ZmLTQ0MzAtYjM4OS1mZTNjZTRhODE5MDBAY2RuLXhqcDMuY3Fqc2wueHl6OjQ0Mw?remarks=CDN%E5%A4%87%E7%94%A8-3&obfsParam=cdn-xjp3.cqjsl.xyz&path=/&obfs=websocket&tls=1&tfo=1&alterId=0
