@@ -11,8 +11,8 @@ trojan://c8ad75e9-b071-446e-b2e3-ea93b8dd0324@kr.stablize.top:443?tfo=1#%E4%B8%A
 trojan://c8ad75e9-b071-446e-b2e3-ea93b8dd0324@kr.stablize.top:443?tfo=1#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
 trojan://b3ca2e8a-42d5-448c-a445-639870ccc20e@ukjs.stablize.top:443?tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
 2元大集合  837463，261457，265373，533274，365635 ，174766，184650
-trojan://3290abf1-8530-4716-9dae-908471dd8a8f@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A11
-trojan://3290abf1-8530-4716-9dae-908471dd8a8f@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD1
+trojan://bb60dbfe-39c6-4f98-a8ba-258fd3059bad@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A1
+trojan://bb60dbfe-39c6-4f98-a8ba-258fd3059bad@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A91B
 trojan://2dddb8e6-927a-4294-97ea-10a016e24aba@de.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD2
 trojan://2dddb8e6-927a-4294-97ea-10a016e24aba@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC2
 trojan://27509bd6-5096-4790-9eba-2c793cca7a8d@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A73
@@ -33,14 +33,14 @@ trojan://5057f49b-3038-4683-a5d9-8d9657caef3c@fscjp.fscloud123456789.com:443?all
 trojan://d258ac28-1214-43e3-accb-d41e39e31630@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E6%96%B0%E5%8A%A0%E5%9D%A1001
 trojan://e5850f98-2115-477c-89f9-c531849f7d1d@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E7%BE%8E%E5%9B%BD001
 112153941@qq.com310未启用 有钱追风膏
-稳练云 123
-trojan://f3ca46be-ad56-4e46-8a3b-e85098fb7231@kr1.microsoft-orgwly.vip:443?peer=tls.microsoft-orgwly.vip&tfo=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD01
-trojan://f3ca46be-ad56-4e46-8a3b-e85098fb7231@kr2.microsoft-orgwly.vip:444?peer=tls.microsoft-orgwly.vip&tfo=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD02
-trojan://531682df-937d-4669-88d2-45e2ace00bb0@kr3.microsoft-orgwly.vip:10020?peer=tls.microsoft-orgwly.vip&tfo=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD03
-trojan://531682df-937d-4669-88d2-45e2ace00bb0@kr4.microsoft-orgwly.vip:10050?peer=tls.microsoft-orgwly.vip&tfo=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD04
-trojan://bda0f076-ee59-4225-8f13-fdc738eef658@kr5.microsoft-orgwly.vip:443?peer=tls.microsoft-orgwly.vip&tfo=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD05
-trojan://bda0f076-ee59-4225-8f13-fdc738eef658@sg7.microsoft-orgwly.vip:10024?peer=tls.microsoft-orgwly.vip&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A107
-trojan://bda0f076-ee59-4225-8f13-fdc738eef658@sg8.microsoft-orgwly.vip:11050?peer=tls.microsoft-orgwly.vip&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A108
+稳练云 123准备淘汰了 
+OvO加速2个测试账号
+trojan://289b41b2-01b2-477a-a0b0-640afd67c692@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20-%E6%B5%8B%E8%AF%952
+trojan://289b41b2-01b2-477a-a0b0-640afd67c692@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%951
+trojan://289b41b2-01b2-477a-a0b0-640afd67c692@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20-%E6%B5%8B%E8%AF%953
+trojan://749a1003-2dd6-4ea5-b964-2382b0ae99f7@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20%E6%B5%8B%E8%AF%954
+trojan://749a1003-2dd6-4ea5-b964-2382b0ae99f7@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20-%20%E6%B5%8B%E8%AF%955
+trojan://749a1003-2dd6-4ea5-b964-2382b0ae99f7@ovous.ovogreat.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20-%20%E6%B5%8B%E8%AF%956
  创奇 11 13 14 15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MWNjMzg4Ny02Mzk4LTRmMWItYTI1OS02ZDUzYzc1MTY3MmRAY3RrcjEuY3JlYXRlbW9mYS54eXo6MzI5OTk#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MWNjMzg4Ny02Mzk4LTRmMWItYTI1OS02ZDUzYzc1MTY3MmRAY3RoazEuY3JlYXRlbW9mYS54eXo6MzU5OTk#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF-1
@@ -56,6 +56,3 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvWNoYXRncHQxIiwNCiAgImFkZCI6ICIx
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvWNoYXRncHQyIiwNCiAgImFkZCI6ICIxOS53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIxOSIsDQogICJpZCI6ICIyNmZhZDlmMC1hM2Q0LTNhM2UtOTRmMy1kZjJhZTY1MjA2YzAiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWPsOa5vmNoYXRncHQxIiwNCiAgImFkZCI6ICIyMC53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIyMCIsDQogICJpZCI6ICIyNmZhZDlmMC1hM2Q0LTNhM2UtOTRmMy1kZjJhZTY1MjA2YzAiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWPsOa5vmNoYXRncHQyIiwNCiAgImFkZCI6ICIyMS53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIyMSIsDQogICJpZCI6ICIyNmZhZDlmMC1hM2Q0LTNhM2UtOTRmMy1kZjJhZTY1MjA2YzAiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
-2个三盟买的测试
-vmess://eyJhZGQiOiJ4aDAxMS54bXJ0aG5vZGUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ3cy1haWNkbi5jb20iLCJpZCI6IjEzMGRiMWRkLWJjOTAtM2FjNy1hMDUyLWZmZWFiMWMzMGZjNiIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiI0NDMiLCJwcyI6IkhLIDAxMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cy1haWNkbi5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJ4aDAwMi54bXJ0aG5vZGUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ3cy1haWNkbi5jb20iLCJpZCI6IjEzMGRiMWRkLWJjOTAtM2FjNy1hMDUyLWZmZWFiMWMzMGZjNiIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiI0NDMiLCJwcyI6IkhLIDAwMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cy1haWNkbi5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
