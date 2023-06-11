@@ -35,9 +35,7 @@ trojan://e5850f98-2115-477c-89f9-c531849f7d1d@fscus.fscloud123456789.com:443?all
 112153941@qq.com310未启用 有钱追风膏
 稳练云 123准备淘汰了 
 OvO加速2个测试账号
-trojan://289b41b2-01b2-477a-a0b0-640afd67c692@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20-%E6%B5%8B%E8%AF%952
-trojan://289b41b2-01b2-477a-a0b0-640afd67c692@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%951
-trojan://289b41b2-01b2-477a-a0b0-640afd67c692@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20-%E6%B5%8B%E8%AF%953
+
 trojan://749a1003-2dd6-4ea5-b964-2382b0ae99f7@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20%E6%B5%8B%E8%AF%954
 trojan://749a1003-2dd6-4ea5-b964-2382b0ae99f7@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20-%20%E6%B5%8B%E8%AF%955
 trojan://749a1003-2dd6-4ea5-b964-2382b0ae99f7@ovous.ovogreat.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20-%20%E6%B5%8B%E8%AF%956
