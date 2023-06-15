@@ -10,21 +10,21 @@ trojan://c8ad75e9-b071-446e-b2e3-ea93b8dd0324@sg.stablize.top:443?tfo=1#%E4%B9%9
 trojan://c8ad75e9-b071-446e-b2e3-ea93b8dd0324@sg.stablize.top:443?tfo=1#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%BD%AC%E5%8F%91/%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
 trojan://b3ca2e8a-42d5-448c-a445-639870ccc20e@usa.stablize.top:443?tfo=1#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
 trojan://b3ca2e8a-42d5-448c-a445-639870ccc20e@usa.stablize.top:443?tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
-2元大集合  837463，261457，265373，533274，365635 ，174766，184650
-trojan://bb60dbfe-39c6-4f98-a8ba-258fd3059bad@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A1
-trojan://bb60dbfe-39c6-4f98-a8ba-258fd3059bad@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A91B
-trojan://2dddb8e6-927a-4294-97ea-10a016e24aba@de.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD2
-trojan://2dddb8e6-927a-4294-97ea-10a016e24aba@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC2
-trojan://27509bd6-5096-4790-9eba-2c793cca7a8d@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A73
-trojan://27509bd6-5096-4790-9eba-2c793cca7a8d@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A3
-trojan://0e4e0d2e-62d0-4996-933e-00188575ad87@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A14
-trojan://0e4e0d2e-62d0-4996-933e-00188575ad87@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A14
-trojan://e81c0cf0-d4f4-402e-81ee-4eb19a832ffa@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A5
-trojan://e81c0cf0-d4f4-402e-81ee-4eb19a832ffa@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A5
-trojan://67ca2f44-3948-414f-8e70-049c55cc0d6f@de.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD6
-trojan://67ca2f44-3948-414f-8e70-049c55cc0d6f@de.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD6
-trojan://b8c227b5-d026-4379-828e-0e230d53a7a1@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC7
-trojan://b8c227b5-d026-4379-828e-0e230d53a7a1@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC7
+2元大集合 7357547,8466583,3747745,7876478,7647644,7787867,7865644
+trojan://890795d7-edaa-46b9-b88e-def61889ab98@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1001
+trojan://890795d7-edaa-46b9-b88e-def61889ab98@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD001
+trojan://70f7601d-b7c6-4401-960e-f4dea1c75e2a@de.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD002
+trojan://70f7601d-b7c6-4401-960e-f4dea1c75e2a@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC002
+trojan://6a98537a-44f6-4ded-a7db-4f91062bc2ce@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7003
+trojan://6a98537a-44f6-4ded-a7db-4f91062bc2ce@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A003
+trojan://4c1aabb9-cdc3-4504-b49b-4c27c893beb5@uk.stablize.top:443?tfo=1#UK%E8%8B%B1%E5%9B%BD004
+trojan://4c1aabb9-cdc3-4504-b49b-4c27c893beb5@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1004
+trojan://65b54a4d-d840-436c-a03e-a511a9414cd0@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1005
+trojan://65b54a4d-d840-436c-a03e-a511a9414cd0@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD005
+trojan://2f8b959c-6b33-48ad-9ca6-0622c2de705b@de.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD006
+trojan://2f8b959c-6b33-48ad-9ca6-0622c2de705b@de.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD006
+trojan://62db56ae-87ea-495a-8df1-b19c99beb903@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC007
+trojan://62db56ae-87ea-495a-8df1-b19c99beb903@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC007
 1元100g123456
 trojan://5057f49b-3038-4683-a5d9-8d9657caef3c@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20-%20003
 trojan://d258ac28-1214-43e3-accb-d41e39e31630@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20-%20001
