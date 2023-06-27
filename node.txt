@@ -3,13 +3,25 @@ ios专用
 trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@sg.stablize.top:443?tfo=1#%E6%AF%8F%E6%97%A5%E8%BF%9E%E6%8E%A5%E5%89%8D%E8%AF%B7%E5%8F%B3%E6%BB%91
 trojan://d62b5c5d-989a-4897-ad50-0d387095d84b@usa.stablize.top:443?tfo=1#%E6%9C%80%E4%B8%8A%E6%96%B9%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E2%80%9C%E6%9B%B4%E6%96%B0%E2%80%9D
 trojan://9cd9c8e6-98ff-4560-9a62-78ec89c67a12@de.stablize.top:443?tfo=1#%E6%97%A0%E6%B3%95%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80
-trojan://5b51e0af-08af-4208-b834-6d6ac5721837@jp.stablize.top:443?tfo=1#%E4%BB%BB%E6%84%8F%E5%8F%AF%E7%94%A8%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0
+trojan://ba938ce9-f4a5-42b5-95a8-f6a46b4ef9c3@sg.stablize.top:443?tfo=1#%E4%BB%BB%E6%84%8F%E5%8F%AF%E7%94%A8%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0
 trojan://7339e200-fbd3-4ea6-9bf3-ec340d27d879@ca.stablize.top:443?tfo=1#%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2
 trojan://7339e200-fbd3-4ea6-9bf3-ec340d27d879@ap.stablize.top:443?tfo=1#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp://985.so/bmgac
 trojan://c8ad75e9-b071-446e-b2e3-ea93b8dd0324@sg.stablize.top:443?tfo=1#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
 trojan://c8ad75e9-b071-446e-b2e3-ea93b8dd0324@sg.stablize.top:443?tfo=1#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%BD%AC%E5%8F%91/%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
 trojan://b3ca2e8a-42d5-448c-a445-639870ccc20e@usa.stablize.top:443?tfo=1#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
 trojan://b3ca2e8a-42d5-448c-a445-639870ccc20e@usa.stablize.top:443?tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
+7.1到期的2元多出来的流量给iOS用
+trojan://33988e93-4cc4-42ab-bd89-8a787df667eb@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1001
+trojan://33988e93-4cc4-42ab-bd89-8a787df667eb@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD001
+trojan://c545721c-1421-4a87-8e16-a499ea0bd628@de.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD002
+trojan://c545721c-1421-4a87-8e16-a499ea0bd628@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC002
+trojan://6b200fe9-7060-4fc0-95b6-13c510f8a8fe@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7003
+trojan://6b200fe9-7060-4fc0-95b6-13c510f8a8fe@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1003
+7.1到期的2元多出来的流量给iOS用
+trojan://f4b69ce7-b09c-4c14-91c1-674e55f7ae44@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E7%BE%8E%E5%9B%BD%20-%20002
+trojan://f4b69ce7-b09c-4c14-91c1-674e55f7ae44@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE%20-%20002
+trojan://a247bcb3-4a31-4049-86c0-08cd1b92bd0b@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E9%A6%99%E6%B8%AF%20-%20002
+trojan://a247bcb3-4a31-4049-86c0-08cd1b92bd0b@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20002
 2元大集合 7357547,8466583,3747745,7876478,7647644,7787867,7865644
 trojan://890795d7-edaa-46b9-b88e-def61889ab98@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1001
 trojan://890795d7-edaa-46b9-b88e-def61889ab98@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD001
@@ -45,7 +57,7 @@ trojan://1435c005-5af9-426e-9f25-b9e999ab562c@ovosg.ovogreat.com:443?allowInsecu
 trojan://1435c005-5af9-426e-9f25-b9e999ab562c@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20-%20%E6%B5%8B%E8%AF%956
 trojan://1435c005-5af9-426e-9f25-b9e999ab562c@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%953
 trojan://c871ff14-8b36-46f3-aff7-32f5affed9c9@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20%E6%B5%8B%E8%AF%952
-trojan://c871ff14-8b36-46f3-aff7-32f5affed9c9@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20-%20%E6%B5%8B%E8%AF%951
+trojan://1435c005-5af9-426e-9f25-b9e999ab562c@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20-%E6%B5%8B%E8%AF%951
 
  创奇 20-21
 trojan://84f9bfa4-813d-433b-ad28-61c1c99d5595@ctsg-3.createmofa.xyz:37997?allowInsecure=1&peer=sg-3.ctjsq.xyz&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1-3
