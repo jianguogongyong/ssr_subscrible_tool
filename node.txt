@@ -52,6 +52,18 @@ vmess://YXV0bzozOTYwOWM2Yy02ZjkwLTQ1MjItODdhNi01MGM1NTgyZjc5NTJAanA0LjMzMzIxMC54
 vmess://YXV0bzozOTYwOWM2Yy02ZjkwLTQ1MjItODdhNi01MGM1NTgyZjc5NTJAdXMxLjMzMzIxMC54eXo6NDAwMDA?remarks=%E7%BE%8E%E5%9B%BD01&tls=1&peer=400567.xyz&tfo=1&alterId=0
 vmess://YXV0bzozOTYwOWM2Yy02ZjkwLTQ1MjItODdhNi01MGM1NTgyZjc5NTJAc2c1LjMzMzIxMC54eXo6NDAwMDA?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A105&tls=1&peer=400567.xyz&tfo=1&alterId=0
 vmess://YXV0bzozOTYwOWM2Yy02ZjkwLTQ1MjItODdhNi01MGM1NTgyZjc5NTJAc2cyLjMzMzIxMC54eXo6NDAwMDA?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A102&tls=1&peer=400567.xyz&tfo=1&alterId=0
+2个7.1多出的found7.9到期
+trojan://a247bcb3-4a31-4049-86c0-08cd1b92bd0b@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E9%A6%99%E6%B8%AF%20-%20004
+trojan://a247bcb3-4a31-4049-86c0-08cd1b92bd0b@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E6%97%A5%E6%9C%AC%20-%20001
+trojan://a247bcb3-4a31-4049-86c0-08cd1b92bd0b@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20001
+trojan://f4b69ce7-b09c-4c14-91c1-674e55f7ae44@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E6%97%A5%E6%9C%AC%20-%20002
+trojan://f4b69ce7-b09c-4c14-91c1-674e55f7ae44@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20002
+trojan://f4b69ce7-b09c-4c14-91c1-674e55f7ae44@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E7%BE%8E%E5%9B%BD%20-%20001
+
+
+
+
+
 
 ovo 苹果3,4,5给iOS用
 trojan://13f48d63-c971-4cee-827d-d15b484403ae@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE2
