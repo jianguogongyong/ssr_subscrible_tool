@@ -59,11 +59,11 @@ trojan://a247bcb3-4a31-4049-86c0-08cd1b92bd0b@fscsg.fscloud123456789.com:443?all
 trojan://f4b69ce7-b09c-4c14-91c1-674e55f7ae44@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E6%97%A5%E6%9C%AC%20-%20002
 trojan://f4b69ce7-b09c-4c14-91c1-674e55f7ae44@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20002
 trojan://f4b69ce7-b09c-4c14-91c1-674e55f7ae44@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E7%BE%8E%E5%9B%BD%20-%20001
-
-
-
-
-
+5元
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MjUxN2E0YS0yMDdiLTQ3MWQtOGJjZS1mNjFhNmFiZGMyNjBAMDUueG4tLThmcjIyY2Q0azFtOWMuY246MzQ3NzU#%E6%96%B0%E5%8A%A0%E5%9D%A1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MjUxN2E0YS0yMDdiLTQ3MWQtOGJjZS1mNjFhNmFiZGMyNjBAYWhjbS5yMXUuY246NDM0Nzc#%E5%8F%B0%E6%B9%BE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MjUxN2E0YS0yMDdiLTQ3MWQtOGJjZS1mNjFhNmFiZGMyNjBAaGJjbS5yMXUuY246MzM1ODU#%E9%A6%99%E6%B8%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MjUxN2E0YS0yMDdiLTQ3MWQtOGJjZS1mNjFhNmFiZGMyNjBAMDYueG4tLThmcjIyY2Q0azFtOWMuY246MjIwODE#%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%98%AA
 
 ovo 苹果3,4,5给iOS用
 trojan://13f48d63-c971-4cee-827d-d15b484403ae@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE2
