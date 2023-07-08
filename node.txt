@@ -70,5 +70,4 @@ trojan://e03b3515-ab38-4d5a-be02-63e8f8f2df98@ovohk.ovogreat.com:443?allowInsecu
 trojan://e03b3515-ab38-4d5a-be02-63e8f8f2df98@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20chatgpt1
 trojan://73ba61e4-5b17-4ab3-8731-e3dbb7781ad5@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20chatgpt2
 trojan://73ba61e4-5b17-4ab3-8731-e3dbb7781ad5@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20chatgpt2
-trojan://73ba61e4-5b17-4ab3-8731-e3dbb7781ad5@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A1%201
 trojan://73ba61e4-5b17-4ab3-8731-e3dbb7781ad5@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE%201
