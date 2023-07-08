@@ -2,7 +2,7 @@ ios专用
 2元文字说明123456，6个账号到8.1到期
 trojan://dcf2fe2b-e4b6-4f26-9a2d-c72eec376836@sg.stablize.top:443?tfo=1#%E6%AF%8F%E6%97%A5%E8%BF%9E%E6%8E%A5%E5%89%8D%E8%AF%B7%E5%8F%B3%E6%BB%91
 trojan://dd60d28b-a006-4280-95e1-bba1f22602a6@usa.stablize.top:443?tfo=1#%E6%9C%80%E4%B8%8A%E6%96%B9%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E2%80%9C%E6%9B%B4%E6%96%B0%E2%80%9D
-trojan://1ba84f8f-b473-47f3-a28e-0f6a4fc95f48@de.stablize.top:443?tfo=1#%E6%97%A0%E6%B3%95%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80
+trojan://1ba84f8f-b473-47f3-a28e-0f6a4fc95f48@sg.stablize.top:443?tfo=1#%E6%97%A0%E6%B3%95%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80
 trojan://1ba84f8f-b473-47f3-a28e-0f6a4fc95f48@jp.stablize.top:443?tfo=1#%E4%BB%BB%E6%84%8F%E5%8F%AF%E7%94%A8%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0
 trojan://3bfbdf43-9aa8-42b0-922f-be7987e405df@ca.stablize.top:443?tfo=1#%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2
 trojan://3bfbdf43-9aa8-42b0-922f-be7987e405df@ap.stablize.top:443?tfo=1#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp://985.so/bmgac
@@ -13,16 +13,16 @@ trojan://b0ae2b91-a62a-4cc0-b1b8-f5d4e422db49@usa.stablize.top:443?tfo=1#%E6%84%
 2元大集合 7357547,8466583,3747745,7876478,7647644,7787867,7865644
 trojan://890795d7-edaa-46b9-b88e-def61889ab98@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1001
 trojan://890795d7-edaa-46b9-b88e-def61889ab98@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD001
-trojan://70f7601d-b7c6-4401-960e-f4dea1c75e2a@de.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD002
 trojan://70f7601d-b7c6-4401-960e-f4dea1c75e2a@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC002
+trojan://70f7601d-b7c6-4401-960e-f4dea1c75e2a@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7002
 trojan://6a98537a-44f6-4ded-a7db-4f91062bc2ce@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7003
 trojan://6a98537a-44f6-4ded-a7db-4f91062bc2ce@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A003
 trojan://4c1aabb9-cdc3-4504-b49b-4c27c893beb5@uk.stablize.top:443?tfo=1#UK%E8%8B%B1%E5%9B%BD004
 trojan://4c1aabb9-cdc3-4504-b49b-4c27c893beb5@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1004
 trojan://65b54a4d-d840-436c-a03e-a511a9414cd0@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1005
 trojan://65b54a4d-d840-436c-a03e-a511a9414cd0@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD005
-trojan://2f8b959c-6b33-48ad-9ca6-0622c2de705b@de.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD006
-trojan://2f8b959c-6b33-48ad-9ca6-0622c2de705b@de.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD006
+trojan://2f8b959c-6b33-48ad-9ca6-0622c2de705b@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1006
+trojan://2f8b959c-6b33-48ad-9ca6-0622c2de705b@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC006
 trojan://62db56ae-87ea-495a-8df1-b19c99beb903@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC007
 trojan://62db56ae-87ea-495a-8df1-b19c99beb903@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC007
 1元100g78910
@@ -33,11 +33,11 @@ trojan://8fd6c0b1-9c7d-4d37-9f47-efbc3a85fd19@fsctw.fscloud123456789.com:443?all
 
 OvO加速2个测试账号
 trojan://c871ff14-8b36-46f3-aff7-32f5affed9c9@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%951
-trojan://1435c005-5af9-426e-9f25-b9e999ab562c@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20%E6%B5%8B%E8%AF%955
-trojan://1435c005-5af9-426e-9f25-b9e999ab562c@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20-%20%E6%B5%8B%E8%AF%956
-trojan://1435c005-5af9-426e-9f25-b9e999ab562c@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%953
-trojan://c871ff14-8b36-46f3-aff7-32f5affed9c9@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20%E6%B5%8B%E8%AF%952
-trojan://1435c005-5af9-426e-9f25-b9e999ab562c@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20-%E6%B5%8B%E8%AF%951
+trojan://c871ff14-8b36-46f3-aff7-32f5affed9c9@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20%E6%B5%8B%E8%AF%952
+trojan://c871ff14-8b36-46f3-aff7-32f5affed9c9@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%953
+trojan://1435c005-5af9-426e-9f25-b9e999ab562c@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%954
+trojan://1435c005-5af9-426e-9f25-b9e999ab562c@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20%E6%B5%8B%E8%AF%955
+trojan://1435c005-5af9-426e-9f25-b9e999ab562c@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%956
 奇异之旅999356622@qq.com的2个账号到8.1到期
 ssr://MmNucmVsYXkyLmluaXRjbG91ZC5wcm86NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU5qTXpNakU2VTBaR1JGTlRSdyZyZW1hcmtzPVNFdFVJRUkmZ3JvdXA9WVdsbmRXOTVkVzQ
 ssr://Y25oa2FsbC5kZWJ1Z2V4Lnh5ejo1NjE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TmpNek1qRTZVMFpHUkZOVFJ3JnJlbWFya3M9U0V0VUlFUSZncm91cD1ZV2xuZFc5NWRXNA
@@ -66,9 +66,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MjUxN2E0YS0yMDdiLTQ3MWQtOGJjZS1mNjFhNmFiZGM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MjUxN2E0YS0yMDdiLTQ3MWQtOGJjZS1mNjFhNmFiZGMyNjBAMDYueG4tLThmcjIyY2Q0azFtOWMuY246MjIwODE#%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%98%AA
 
 ovo 苹果3,4,5给iOS用
-trojan://13f48d63-c971-4cee-827d-d15b484403ae@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE2
-trojan://e03b3515-ab38-4d5a-be02-63e8f8f2df98@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE1
-trojan://e03b3515-ab38-4d5a-be02-63e8f8f2df98@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A1%202
-trojan://e03b3515-ab38-4d5a-be02-63e8f8f2df98@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE%202
+trojan://e03b3515-ab38-4d5a-be02-63e8f8f2df98@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20chatgpt1
+trojan://e03b3515-ab38-4d5a-be02-63e8f8f2df98@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20chatgpt1
+trojan://73ba61e4-5b17-4ab3-8731-e3dbb7781ad5@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20chatgpt2
+trojan://73ba61e4-5b17-4ab3-8731-e3dbb7781ad5@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20chatgpt2
 trojan://73ba61e4-5b17-4ab3-8731-e3dbb7781ad5@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A1%201
 trojan://73ba61e4-5b17-4ab3-8731-e3dbb7781ad5@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE%201
