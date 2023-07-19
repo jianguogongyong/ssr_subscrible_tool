@@ -22,8 +22,8 @@ trojan://a67b487b-62be-455e-95e7-ef62c50bcfe5@usa.stablize.top:443?tfo=1#USA%E7%
 trojan://a67b487b-62be-455e-95e7-ef62c50bcfe5@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD004
 trojan://ad334b12-3266-4dc3-8af3-ce75fc80a5e3@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC005
 trojan://ad334b12-3266-4dc3-8af3-ce75fc80a5e3@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC005
-trojan://370992bc-dcde-482c-a8b3-45fdd3bb3010@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7006
-trojan://370992bc-dcde-482c-a8b3-45fdd3bb3010@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7006
+trojan://370992bc-dcde-482c-a8b3-45fdd3bb3010@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A006
+trojan://370992bc-dcde-482c-a8b3-45fdd3bb3010@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A006
 1元100g78910     7.24,最后一个8.1到期
 trojan://5ec64e47-2d1a-4b82-a6ed-b8bd926f1c9a@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E9%A6%99%E6%B8%AF%20-%20003
 trojan://d2132465-541b-4a16-98ca-f9a54588b5fe@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20005
