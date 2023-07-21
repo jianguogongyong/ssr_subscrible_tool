@@ -49,11 +49,13 @@ trojan://5ec64e47-2d1a-4b82-a6ed-b8bd926f1c9a@fschk.fscloud123456789.com:443?all
 trojan://d2132465-541b-4a16-98ca-f9a54588b5fe@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20005
 trojan://53c8e539-30ff-4322-b26f-5e1cdf64b469@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20004
 trojan://8fd6c0b1-9c7d-4d37-9f47-efbc3a85fd19@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E5%8F%B0%E6%B9%BE%20-%20001
-OvO加速2个测试账号        8.13到期
-trojan://046755d0-4a7f-4dd6-aaa6-656acf6a66de@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%951
-trojan://046755d0-4a7f-4dd6-aaa6-656acf6a66de@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%B5%8B%E8%AF%952
-trojan://046755d0-4a7f-4dd6-aaa6-656acf6a66de@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%953
-trojan://046755d0-4a7f-4dd6-aaa6-656acf6a66de@ovous.ovogreat.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20%E6%B5%8B%E8%AF%954
+OvO加速2个测试账号      6,7  8.13到期
+trojan://1eebfdfb-1ef5-459a-8db4-9f48593d509b@ovohk.ovonice.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%951
+trojan://1eebfdfb-1ef5-459a-8db4-9f48593d509b@ovojp.ovonice.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20%E6%B5%8B%E8%AF%952
+trojan://1eebfdfb-1ef5-459a-8db4-9f48593d509b@ovotw.ovonice.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%953
+trojan://07c34f84-44f8-47d0-9ef9-95fbc762de93@ovohk.ovonice.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%954
+trojan://07c34f84-44f8-47d0-9ef9-95fbc762de93@ovotw.ovonice.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%955
+trojan://07c34f84-44f8-47d0-9ef9-95fbc762de93@ovokr.ovonice.com:443?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD%20%E6%B5%8B%E8%AF%956
 奇异之旅999356622@qq.com的2个账号到8.1到期
 ssr://MmNucmVsYXkyLmluaXRjbG91ZC5wcm86NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU5qTXpNakU2VTBaR1JGTlRSdyZyZW1hcmtzPVNFdFVJRUkmZ3JvdXA9WVdsbmRXOTVkVzQ
 ssr://Y25oa2FsbC5kZWJ1Z2V4Lnh5ejo1NjE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TmpNek1qRTZVMFpHUkZOVFJ3JnJlbWFya3M9U0V0VUlFUSZncm91cD1ZV2xuZFc5NWRXNA
@@ -67,13 +69,11 @@ vmess://eyJhZGQiOiJ6ZjIuMzMzMjEwLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIzOTYw
 vmess://eyJhZGQiOiJ6ZjIuMzMzMjEwLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIzOTYwOWM2Yy02ZjkwLTQ1MjItODdhNi01MGM1NTgyZjc5NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwMzgxIiwicHMiOiLmlrDliqDlnaEwMiIsInNjeSI6ImF1dG8iLCJzbmkiOiI0MDA1NjcueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ6ZjIuMzMzMjEwLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIzOTYwOWM2Yy02ZjkwLTQ1MjItODdhNi01MGM1NTgyZjc5NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwMzg2IiwicHMiOiLpn6nlm70wMSIsInNjeSI6ImF1dG8iLCJzbmkiOiI0MDA1NjcueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-ovo 苹果6,7给iOS用,8.12到期
-trojan://1eebfdfb-1ef5-459a-8db4-9f48593d509b@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E9%A6%99%E6%B8%AF%201
-trojan://1eebfdfb-1ef5-459a-8db4-9f48593d509b@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A1%201
-trojan://1eebfdfb-1ef5-459a-8db4-9f48593d509b@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE%201
-trojan://07c34f84-44f8-47d0-9ef9-95fbc762de93@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E6%97%A5%E6%9C%AC%202
-trojan://07c34f84-44f8-47d0-9ef9-95fbc762de93@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A1%202
-trojan://07c34f84-44f8-47d0-9ef9-95fbc762de93@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE%202
+ovo 苹果8给iOS用,8.12到期
+trojan://046755d0-4a7f-4dd6-aaa6-656acf6a66de@ovohk.ovonice.com:443?allowInsecure=1&tfo=1&mux=1#%E9%A6%99%E6%B8%AF%20chatgpt1
+trojan://046755d0-4a7f-4dd6-aaa6-656acf6a66de@ovosg.ovonice.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20chatgpt2
+trojan://046755d0-4a7f-4dd6-aaa6-656acf6a66de@ovosg.ovonice.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt3
+trojan://046755d0-4a7f-4dd6-aaa6-656acf6a66de@ovotw.ovonice.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20chatgpt4
 奇异之旅999356622@qq.com1个账号到8.12到期
 ssr://Y25hbGxhejIuZXVjZHVybC5tZTo1NjY6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TkRFNE56TTZZWEozWldka2NnJnJlbWFya3M9NXBhdzVZcWc1WjJoUXcmZ3JvdXA9WVdsbmRXOTVkVzQ
 ssr://dXNzdGFuZDEuZXVjZHVybC5tZTo1NjA6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TkRFNE56TTZZWEozWldka2NnJnJlbWFya3M9NTc2TzVadTlJQ0JCSUEmZ3JvdXA9WVdsbmRXOTVkVzQ
