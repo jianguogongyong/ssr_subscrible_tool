@@ -26,9 +26,9 @@ trojan://ad334b12-3266-4dc3-8af3-ce75fc80a5e3@jp.stablize.top:443?tfo=1#JP%E6%97
 trojan://370992bc-dcde-482c-a8b3-45fdd3bb3010@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A006
 trojan://370992bc-dcde-482c-a8b3-45fdd3bb3010@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A006
 1元100g   1    9.1到期
-trojan://0f95e4e1-20e8-4210-8f72-2ea52bf9a991@fschk.1234567890spcloud.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20-%20001
-trojan://0f95e4e1-20e8-4210-8f72-2ea52bf9a991@fscjp.1234567890spcloud.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20-%20003
-trojan://0f95e4e1-20e8-4210-8f72-2ea52bf9a991@fscde.1234567890spcloud.com:443?allowInsecure=1&tfo=1#%E5%BE%B7%E5%9B%BD%20-%20002
+trojan://0f95e4e1-20e8-4210-8f72-2ea52bf9a991@fschk.1234567890spcloud.com:20002?allowInsecure=1&peer=ceshii.1234567890spcloud.com&tfo=1#%E5%8F%B0%E6%B9%BE-%20001
+trojan://0f95e4e1-20e8-4210-8f72-2ea52bf9a991@fschk.1234567890spcloud.com:20003?allowInsecure=1&peer=ceshii.1234567890spcloud.com&tfo=1#%E6%97%A5%E6%9C%AC-%20002
+trojan://0f95e4e1-20e8-4210-8f72-2ea52bf9a991@fschk.1234567890spcloud.com:20004?allowInsecure=1&peer=ceshii.1234567890spcloud.com&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1-%20001
 OvO加速2个测试账号      6,7  8.13到期
 trojan://1eebfdfb-1ef5-459a-8db4-9f48593d509b@ovojp.ovonice.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20%E6%B5%8B%E8%AF%951
 trojan://1eebfdfb-1ef5-459a-8db4-9f48593d509b@ovotw.ovonice.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%952
