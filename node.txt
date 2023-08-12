@@ -29,26 +29,19 @@ trojan://370992bc-dcde-482c-a8b3-45fdd3bb3010@ap.stablize.top:443?tfo=1#AU%E6%BE
 trojan://0f95e4e1-20e8-4210-8f72-2ea52bf9a991@fschk.1234567890spcloud.com:20002?allowInsecure=1&peer=ceshii.1234567890spcloud.com&tfo=1#%E5%8F%B0%E6%B9%BE-%20001
 trojan://0f95e4e1-20e8-4210-8f72-2ea52bf9a991@fschk.1234567890spcloud.com:20003?allowInsecure=1&peer=ceshii.1234567890spcloud.com&tfo=1#%E6%97%A5%E6%9C%AC-%20002
 trojan://0f95e4e1-20e8-4210-8f72-2ea52bf9a991@fschk.1234567890spcloud.com:20004?allowInsecure=1&peer=ceshii.1234567890spcloud.com&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1-%20001
-OvO加速2个测试账号      6,7  8.13到期
-trojan://1eebfdfb-1ef5-459a-8db4-9f48593d509b@ovojp.ovonice.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20%E6%B5%8B%E8%AF%951
-trojan://1eebfdfb-1ef5-459a-8db4-9f48593d509b@ovotw.ovonice.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%952
-trojan://1eebfdfb-1ef5-459a-8db4-9f48593d509b@ovohk.ovonice.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%953
-trojan://07c34f84-44f8-47d0-9ef9-95fbc762de93@ovoin.ovonice.com:443?allowInsecure=1&tfo=1#%E5%8D%B0%E5%BA%A6%20%E6%B5%8B%E8%AF%954
-trojan://07c34f84-44f8-47d0-9ef9-95fbc762de93@ovous.ovonice.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20%E6%B5%8B%E8%AF%955
-trojan://07c34f84-44f8-47d0-9ef9-95fbc762de93@ovohk.ovonice.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%956
-奇异之旅20230901@qq.com的1个账号到8.1到期
+
+奇异之旅20230901@qq.com的2个账号到8.1到期
 ssr://Y21yZXMuc3RhbmRwcm8uY286NTYzOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU16STBNRGM2TmpJM056ZyZyZW1hcmtzPUlFaExWQ0JCJmdyb3VwPVlXbG5kVzk1ZFc0
 ssr://MmNucmVsYXkyLmluaXRjbG91ZC5wcm86NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU16STBNRGM2TmpJM056ZyZyZW1hcmtzPUlFaExWQ0JDJmdyb3VwPVlXbG5kVzk1ZFc0
 ssr://Y25oa2FsbC5kZWJ1Z2V4Lnh5ejo1NjE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TXpJME1EYzZOakkzTnpnJnJlbWFya3M9SUVoTFZDQkUmZ3JvdXA9WVdsbmRXOTVkVzQ
+ssr://bGF5ZXJjbTA1LmluaXRjbG91ZC5wcm86NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU16TTRPVGc2WjJSemFHaHFhbVEmcmVtYXJrcz1TRXRDVGlCQiZncm91cD1ZV2xuZFc5NWRXNA
+ssr://bGF5ZXJjbTA1LmluaXRjbG91ZC5wcm86NTYxOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU16TTRPVGc2WjJSemFHaHFhbVEmcmVtYXJrcz1TRXRDVGlCQyZncm91cD1ZV2xuZFc5NWRXNA
+ssr://Y25hbGxhejIuZXVjZHVybC5tZTo1NjY6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TXpNNE9UZzZaMlJ6YUdocWFtUSZyZW1hcmtzPTVwYXc1WXFnNVoyaFF3Jmdyb3VwPVlXbG5kVzk1ZFc0
+
 咸鱼291765225@qq.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNTg3OTRiMS04Yzk0LTQ3NTctOGRiNi05ZTYzZDYzMjM4NTRAZnMueGlhbnl1d2FuZ2x1by5jeW91OjI3MjAx#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%EF%BC%88%E9%B1%BC%EF%BC%89
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNTg3OTRiMS04Yzk0LTQ3NTctOGRiNi05ZTYzZDYzMjM4NTRAZnMueGlhbnl1d2FuZ2x1by5jeW91OjI3MjAy#JP%E6%97%A5%E6%9C%AC%EF%BC%88%E9%B1%BC%EF%BC%89
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNTg3OTRiMS04Yzk0LTQ3NTctOGRiNi05ZTYzZDYzMjM4NTRAZnMueGlhbnl1d2FuZ2x1by5jeW91OjI3MjA3#USA%E7%BE%8E%E5%9B%BD%EF%BC%88%E9%B1%BC%EF%BC%89
-ovo 苹果8给iOS用,8.12到期
-trojan://046755d0-4a7f-4dd6-aaa6-656acf6a66de@ovojp.ovonice.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20chatgpt1
-trojan://046755d0-4a7f-4dd6-aaa6-656acf6a66de@ovotw.ovonice.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20chatgpt2
-trojan://046755d0-4a7f-4dd6-aaa6-656acf6a66de@ovous.ovonice.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20chatgpt3
-trojan://046755d0-4a7f-4dd6-aaa6-656acf6a66de@ovohk.ovonice.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20chatgpt4
 
 苹果百特白百特百112153942，291765225，736663637@gmail  9.18
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWPsOa5vueZviIsDQogICJhZGQiOiAiaW4wNi5teTExODgub3JnIiwNCiAgInBvcnQiOiAiNjQwOTgiLA0KICAiaWQiOiAiMDNlMWQ0Y2UtNWFiZS0zOWE2LWJmYzktMzk2OGUxZDA2Nzg1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYml0ZWItdHcwMS53ZWNoYXQtY2RuLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiINCn0=
@@ -71,4 +64,10 @@ trojan://bbdf672d-6f4e-442f-9840-795713da5a9e@download1tw.windowsupdatea.com:443
 trojan://f190925a-0d01-4986-b769-4307701e4d3e@kbawssg1.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A11+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
 trojan://f190925a-0d01-4986-b769-4307701e4d3e@kbawsjp1.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
 trojan://f190925a-0d01-4986-b769-4307701e4d3e@kbawsjp1.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC2+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
-
+亏本 66377748，   65366737  9.12到期
+trojan://d428087d-3ca6-4fca-87c6-d7ee9465c5c4@kbawssg1.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%E6%96%B0%E5%8A%A0%E5%9D%A12+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
+trojan://d428087d-3ca6-4fca-87c6-d7ee9465c5c4@kbawssg2.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%E6%96%B0%E5%8A%A0%E5%9D%A14+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
+trojan://d428087d-3ca6-4fca-87c6-d7ee9465c5c4@kbawsjp1.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%E6%97%A5%E6%9C%AC1+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
+trojan://bdfef47f-05bd-4a55-991d-f71341a9cf59@kbawssg1.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%E6%96%B0%E5%8A%A0%E5%9D%A11+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
+trojan://bdfef47f-05bd-4a55-991d-f71341a9cf59@kbawsjp1.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%E6%97%A5%E6%9C%AC1+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
+trojan://bdfef47f-05bd-4a55-991d-f71341a9cf59@kbawsjp1.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%E6%97%A5%E6%9C%AC2+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
