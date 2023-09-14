@@ -61,6 +61,3 @@ trojan://30db9400-1922-42d7-8faf-437cc9466eee@kbawsjp2.aiopen.cfd:443?sni=4-193-
 trojan://30db9400-1922-42d7-8faf-437cc9466eee@kbawsjp2.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC4+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
 trojan://272dd46e-08e6-4e9a-80cb-909459edfc1b@kbawsjp2.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC3+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
 trojan://272dd46e-08e6-4e9a-80cb-909459edfc1b@kbawsjp2.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC4+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
-测试
-vmess://YXV0bzpjYTUyNGUzNS1iODE3LTQ1ODYtYjI4Yy01NTUxNWQwZTA3MDdAMTA3LjE3My4xNTYuNDI6NTE3ODU?remarks=rn&path=/&obfs=http&alterId=0
-vmess://YXV0bzoxYWE1ZmIxNi01YTIzLTRjNzItYmU4Yy0wNGIzODJkOWFhY2RANDUuNjYuMTI4LjMxOjU0NDM2?remarks=IIJ&path=/&obfs=http&alterId=0
