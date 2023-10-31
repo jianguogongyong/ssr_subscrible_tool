@@ -2,8 +2,8 @@ ios专用
 ios专用
 
 2元文字说明1234，4个账号到9.1到期
-trojan://3afd7a2c-93ed-4c91-83fc-dadf67c5e850@sg.liangyuandian.us:443?tfo=1#%E6%AF%8F%E6%97%A5%E8%BF%9E%E6%8E%A5%E5%89%8D%E8%AF%B7%E5%8F%B3%E6%BB%91
-trojan://3afd7a2c-93ed-4c91-83fc-dadf67c5e850@usa.liangyuandian.us:443?tfo=1#%E6%9C%80%E4%B8%8A%E6%96%B9%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E2%80%9C%E6%9B%B4%E6%96%B0%E2%80%9D
+trojan://89088400-5e0d-4818-9b5c-6ee0c0752082@sg.liangyuandian.us:443?tfo=1#%E6%AF%8F%E6%97%A5%E8%BF%9E%E6%8E%A5%E5%89%8D%E8%AF%B7%E5%8F%B3%E6%BB%91
+trojan://89088400-5e0d-4818-9b5c-6ee0c0752082@jp.liangyuandian.us:443?tfo=1#%E6%9C%80%E4%B8%8A%E6%96%B9%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E2%80%9C%E6%9B%B4%E6%96%B0%E2%80%9D
 trojan://284d2bef-b2ad-46d0-afb4-25777a6a2b25@jp.liangyuandian.us:443?tfo=1#%E6%97%A0%E6%B3%95%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80
 trojan://284d2bef-b2ad-46d0-afb4-25777a6a2b25@sg.liangyuandian.us:443?tfo=1#%E4%BB%BB%E6%84%8F%E5%8F%AF%E7%94%A8%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0
 trojan://bc47ddca-05d0-425a-8f28-2e17aef321aa@usa.liangyuandian.us:443?tfo=1#%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2
@@ -20,13 +20,12 @@ trojan://7ff13da6-4cd1-49e7-b354-6bb2c89b98a5@sg.liangyuandian.us:443?tfo=1#SG%E
 trojan://5d5aca37-0736-493d-8d6b-8a851187c8b0@jp.liangyuandian.us:443?tfo=1#JP%E6%97%A5%E6%9C%AC003
 trojan://5d5aca37-0736-493d-8d6b-8a851187c8b0@jp.liangyuandian.us:443?tfo=1#JP%E6%97%A5%E6%9C%AC003
 奇异663628@qq.com的2个账号到10.2到期  
-ssr://Y21yZXMuc3RhbmRwcm8uY286NTYzOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU1qazFNam95Y1RReU16UXkmcmVtYXJrcz1JRWhMVkNCQiZncm91cD1ZV2xuZFc5NWRXNA
-ssr://Y25oa2FsbC5kZWJ1Z2V4Lnh5ejo1NjE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TWprMU1qb3ljVFF5TXpReSZyZW1hcmtzPUlFaExWQ0JFJmdyb3VwPVlXbG5kVzk1ZFc0
-ssr://aW5sYXllcjcuc3RhbmR1cmxzLmNvOjU2MDphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblEvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT1NamsxTWpveWNUUXlNelF5JnJlbWFya3M9SUVoTFZDQkcmZ3JvdXA9WVdsbmRXOTVkVzQ
-ssr://Y21yZXMuc3RhbmRwcm8uY286NTYzOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU5EVXpNelU2WkdGa1lYYyZyZW1hcmtzPUlFaExWQ0JCJmdyb3VwPVlXbG5kVzk1ZFc0
-ssr://bGF5ZXJjbTA1LmluaXRjbG91ZC5wcm86NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU5EVXpNelU2WkdGa1lYYyZyZW1hcmtzPUlFaExRazRnUVEmZ3JvdXA9WVdsbmRXOTVkVzQ
-ssr://bGF5ZXJjbTA1LmluaXRjbG91ZC5wcm86NTYxOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU5EVXpNelU2WkdGa1lYYyZyZW1hcmtzPUlFaExRazRnUWcmZ3JvdXA9WVdsbmRXOTVkVzQ
-
+ssr://Y21yZXMuc3RhbmRwcm8uY286NTYzOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU56RXdPRHB6WkhKbUlHWmxkdyZyZW1hcmtzPUlFaExWQ0JCJmdyb3VwPVlXbG5kVzk1ZFc0
+ssr://MmNucmVsYXkyLmluaXRjbG91ZC5wcm86NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU56RXdPRHB6WkhKbUlHWmxkdyZyZW1hcmtzPUlFaExWQ0JDJmdyb3VwPVlXbG5kVzk1ZFc0
+ssr://Y25oa2FsbC5kZWJ1Z2V4Lnh5ejo1NjE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TnpFd09EcHpaSEptSUdabGR3JnJlbWFya3M9SUVoTFZDQkUmZ3JvdXA9WVdsbmRXOTVkVzQ
+ssr://bGF5ZXJjbTA1LmluaXRjbG91ZC5wcm86NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU5UVTVOREk2ZDNGeWQyVWcmcmVtYXJrcz1JRWhMUWs0Z1FRJmdyb3VwPVlXbG5kVzk1ZFc0
+ssr://bGF5ZXJjbTA1LmluaXRjbG91ZC5wcm86NTYxOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU5UVTVOREk2ZDNGeWQyVWcmcmVtYXJrcz1JRWhMUWs0Z1FnJmdyb3VwPVlXbG5kVzk1ZFc0
+ssr://Y25hbGxhejIuZXVjZHVybC5tZTo1NjY6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TlRVNU5ESTZkM0Z5ZDJVZyZyZW1hcmtzPUlPYVdzT1dLb09XZG9VTSZncm91cD1ZV2xuZFc5NWRXNA
 636562,473462 咸鱼
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjY0OGI3MS02MzE4LTRiMjUtOGM1NS0wZmM3YmI5NTY0NmFAZnMueGlhbnl1d2FuZ3poaS50b3A6MjcyMDE#%F0%9F%87%B8%F0%9F%87%AC%20SG%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%B1%BC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjY0OGI3MS02MzE4LTRiMjUtOGM1NS0wZmM3YmI5NTY0NmFAZnMueGlhbnl1d2FuZ3poaS50b3A6MjcyMDY#%F0%9F%87%B9%F0%9F%87%BC%20TW%E5%8F%B0%E6%B9%BE%E9%B1%BC
@@ -47,12 +46,15 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaXpeacrOeZviIsDQogICJhZGQiOiAiaW4wNi5t
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIummmea4r+eZviIsDQogICJhZGQiOiAiaW4wNi5teTExODgub3JnIiwNCiAgInBvcnQiOiAiNjQwOTYiLA0KICAiaWQiOiAiOWU0Zjg0MGEtNmZjNC0zYWQ4LTkyMmEtZGJhNzYzN2ExMjkwIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaGtiZ3AwMS1iaXRlYi50ZW5jZW50LmJlc3QiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIummmea4r+eZviIsDQogICJhZGQiOiAiaW4wNi5teTExODgub3JnIiwNCiAgInBvcnQiOiAiNjQwODIiLA0KICAiaWQiOiAiOWU0Zjg0MGEtNmZjNC0zYWQ4LTkyMmEtZGJhNzYzN2ExMjkwIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJoa3QzLWNkbi50ZW5jZW50LmJlc3QiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiDQp9
 果粒橙      5521563,6634654果粒橙  9.15
-trojan://2cfc9ca3-5881-4aa6-b130-c6b75d16d375@download1tw.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com&tfo=1#%E5%8F%B0%E6%B9%BEHinet
-trojan://2cfc9ca3-5881-4aa6-b130-c6b75d16d375@download2hkt.windowsupdatea.com:443?peer=glc-hkt2.windowsupdatea.com&tfo=1#%E9%A6%99%E6%B8%AFHKT2
-trojan://2cfc9ca3-5881-4aa6-b130-c6b75d16d375@104.21.26.254:443?peer=jp1.glccf.top&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=jp1.glccf.top;obfs-uri=/guolicheng/jp1#%E6%97%A5%E6%9C%ACpath
-trojan://6c2cca83-eee4-4ab4-939c-386ac6ca09fe@download1tw.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com&tfo=1#%E5%8F%B0%E6%B9%BEHinet
-trojan://6c2cca83-eee4-4ab4-939c-386ac6ca09fe@download2hkt.windowsupdatea.com:443?peer=glc-hkt2.windowsupdatea.com&tfo=1#%E9%A6%99%E6%B8%AFHKT2
-trojan://6c2cca83-eee4-4ab4-939c-386ac6ca09fe@104.21.26.254:443?peer=jp1.glccf.top&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=jp1.glccf.top;obfs-uri=/guolicheng/jp1#%E6%97%A5%E6%9C%ACpath
+trojan://24433262-4a5c-433f-b678-1fcbe40b0cee@download1tw.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com&tfo=1#%E5%8F%B0%E6%B9%BEHinet
+trojan://24433262-4a5c-433f-b678-1fcbe40b0cee@192.203.230.254:443?peer=glc-jp1.glccf.top&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=glc-jp1.glccf.top;obfs-uri=/guolicheng/jp1#%E6%97%A5%E6%9C%ACpath
+trojan://88200f4b-de82-451f-b20f-ace42518dc55@download1tw.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com&tfo=1#%E5%8F%B0%E6%B9%BEHinet
+trojan://88200f4b-de82-451f-b20f-ace42518dc55@192.203.230.254:443?peer=glc-jp1.glccf.top&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=glc-jp1.glccf.top;obfs-uri=/guolicheng/jp1#%E6%97%A5%E6%9C%ACpath
+trojan://7d5733cb-db0d-445f-8ef0-9ba5fd22f54b@download1tw.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com&tfo=1#%E5%8F%B0%E6%B9%BEHinet
+trojan://7d5733cb-db0d-445f-8ef0-9ba5fd22f54b@download1hkt.windowsupdatea.com:443?peer=glc-hkt1.windowsupdatea.com&tfo=1#%E9%A6%99%E6%B8%AFHKT
+trojan://e869d03d-8b7f-4b56-b211-d09f6ec7beaa@download1tw.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com&tfo=1#%E5%8F%B0%E6%B9%BEHinet
+trojan://e869d03d-8b7f-4b56-b211-d09f6ec7beaa@download1hkt.windowsupdatea.com:443?peer=glc-hkt1.windowsupdatea.com&tfo=1#%E9%A6%99%E6%B8%AFHKT
+
 亏本3个账号6623747,5636262,9854384
 trojan://3a94f317-a117-4ee2-857b-1b2f1d911904@kbawsjp2.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC3+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
 trojan://3a94f317-a117-4ee2-857b-1b2f1d911904@kbawsjp2.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC4+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
