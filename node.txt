@@ -4,11 +4,11 @@ ios专用
 2元文字说明1234，4个账号到9.1到期
 trojan://89088400-5e0d-4818-9b5c-6ee0c0752082@sg.liangyuandian.us:443?tfo=1#%E6%AF%8F%E6%97%A5%E8%BF%9E%E6%8E%A5%E5%89%8D%E8%AF%B7%E5%8F%B3%E6%BB%91
 trojan://89088400-5e0d-4818-9b5c-6ee0c0752082@jp.liangyuandian.us:443?tfo=1#%E6%9C%80%E4%B8%8A%E6%96%B9%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E2%80%9C%E6%9B%B4%E6%96%B0%E2%80%9D
-trojan://284d2bef-b2ad-46d0-afb4-25777a6a2b25@jp.liangyuandian.us:443?tfo=1#%E6%97%A0%E6%B3%95%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80
-trojan://284d2bef-b2ad-46d0-afb4-25777a6a2b25@sg.liangyuandian.us:443?tfo=1#%E4%BB%BB%E6%84%8F%E5%8F%AF%E7%94%A8%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0
-trojan://bc47ddca-05d0-425a-8f28-2e17aef321aa@usa.liangyuandian.us:443?tfo=1#%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2
-trojan://bc47ddca-05d0-425a-8f28-2e17aef321aa@jp.liangyuandian.us:443?tfo=1#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp://985.so/bmgac
-trojan://bc47ddca-05d0-425a-8f28-2e17aef321aa@jp.liangyuandian.us:443?tfo=1#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
+trojan://17c47b9c-9453-4eb9-9df4-172e49bebce3@sg.liangyuandian.us:443?tfo=1#%E6%97%A0%E6%B3%95%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80
+trojan://17c47b9c-9453-4eb9-9df4-172e49bebce3@jp.liangyuandian.us:443?tfo=1#%E4%BB%BB%E6%84%8F%E5%8F%AF%E7%94%A8%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0
+trojan://58d77065-9970-41ed-94cd-0764b9c3ebdd@uk.liangyuandian.us:443?tfo=1#%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2
+trojan://58d77065-9970-41ed-94cd-0764b9c3ebdd@sg.liangyuandian.us:443?tfo=1#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp://985.so/bmgac
+trojan://58d77065-9970-41ed-94cd-0764b9c3ebdd@sgliangyuandian.us:443?tfo=1#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
 trojan://bd950f3a-f1bf-4dbd-9ac3-f305460c2a8f@sg.liangyuandian.us:443?tfo=1#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%BD%AC%E5%8F%91/%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
 trojan://bd950f3a-f1bf-4dbd-9ac3-f305460c2a8f@jp.liangyuandian.us:443?tfo=1#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
 trojan://bd950f3a-f1bf-4dbd-9ac3-f305460c2a8f@sg.liangyuandian.us:443?tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
@@ -56,9 +56,8 @@ trojan://e869d03d-8b7f-4b56-b211-d09f6ec7beaa@download1tw.windowsupdatea.com:443
 trojan://e869d03d-8b7f-4b56-b211-d09f6ec7beaa@download1hkt.windowsupdatea.com:443?peer=glc-hkt1.windowsupdatea.com&tfo=1#%E9%A6%99%E6%B8%AFHKT
 
 亏本3个账号6623747,5636262,9854384
-trojan://3a94f317-a117-4ee2-857b-1b2f1d911904@kbawsjp2.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC3+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
-trojan://3a94f317-a117-4ee2-857b-1b2f1d911904@kbawsjp2.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC4+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
-trojan://39770e30-83f2-4411-a698-c48442bf5e04@kbawsjp2.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC3+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
-trojan://39770e30-83f2-4411-a698-c48442bf5e04@kbawsjp2.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC4+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
-trojan://7bcb45cc-8347-4f7a-badc-c1e69109d1b1@kbawsjp2.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC3+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
-trojan://7bcb45cc-8347-4f7a-badc-c1e69109d1b1@kbawsjp2.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC4+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
+trojan://3a94f317-a117-4ee2-857b-1b2f1d911904@42.7.24.144:35000?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC03+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
+trojan://39770e30-83f2-4411-a698-c48442bf5e04@42.7.24.144:35000?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC04+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
+trojan://7bcb45cc-8347-4f7a-badc-c1e69109d1b1@42.7.24.144:35000?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC03+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
+trojan://53a4fedf-bb9c-4aeb-9023-5853fd2d3a32@42.7.24.144:35000?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC04+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
+trojan://30d70a29-0f90-4326-a9a2-693457c330cc@42.7.24.144:35000?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC02+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
