@@ -15,10 +15,10 @@ trojan://bd950f3a-f1bf-4dbd-9ac3-f305460c2a8f@sg.liangyuandian.us:443?tfo=1#%E6%
 2元大集合  3425435,563465,687723，给iOS用  15号  后面2个7号
 trojan://5b53374b-2d52-4008-b6ef-ac1f6d2aa6db@sg.liangyuandian.us:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1001
 trojan://5b53374b-2d52-4008-b6ef-ac1f6d2aa6db@usa.liangyuandian.us:443?tfo=1#USA%E7%BE%8E%E5%9B%BD001
-trojan://7ff13da6-4cd1-49e7-b354-6bb2c89b98a5@usa.liangyuandian.us:443?tfo=1#USA%E7%BE%8E%E5%9B%BD002
-trojan://7ff13da6-4cd1-49e7-b354-6bb2c89b98a5@sg.liangyuandian.us:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1002
-trojan://5d5aca37-0736-493d-8d6b-8a851187c8b0@jp.liangyuandian.us:443?tfo=1#JP%E6%97%A5%E6%9C%AC003
-trojan://5d5aca37-0736-493d-8d6b-8a851187c8b0@jp.liangyuandian.us:443?tfo=1#JP%E6%97%A5%E6%9C%AC003
+trojan://d39d7aec-bc59-42b1-bcf7-62f0f201a80a@jp.liangyuandian.us:443?tfo=1#JP%E6%97%A5%E6%9C%AC002
+trojan://d39d7aec-bc59-42b1-bcf7-62f0f201a80a@ap.liangyuandian.us:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A002
+trojan://6c3ee9bb-c81b-4f18-b5ed-6bc3cedf6410@sg.liangyuandian.us:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1003
+trojan://6c3ee9bb-c81b-4f18-b5ed-6bc3cedf6410@jp.liangyuandian.us:443?tfo=1#JP%E6%97%A5%E6%9C%AC003
 奇异663628@qq.com的2个账号到10.2到期  
 ssr://Y21yZXMuc3RhbmRwcm8uY286NTYzOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU56RXdPRHB6WkhKbUlHWmxkdyZyZW1hcmtzPUlFaExWQ0JCJmdyb3VwPVlXbG5kVzk1ZFc0
 ssr://MmNucmVsYXkyLmluaXRjbG91ZC5wcm86NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU56RXdPRHB6WkhKbUlHWmxkdyZyZW1hcmtzPUlFaExWQ0JDJmdyb3VwPVlXbG5kVzk1ZFc0
@@ -43,22 +43,15 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIummmea4r+eZviIsDQogICJhZGQiOiAiaW4wNi5t
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWPsOa5vueZviIsDQogICJhZGQiOiAiaW4wNi5teXFxMjAyNC5vcmciLA0KICAicG9ydCI6ICI2NDA5OCIsDQogICJpZCI6ICI4ZDVlZTk3NS05ZGUxLTNlY2EtOTFlYi03NzRmMGFhZTRmYzkiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJiaXRlYi10dzAxLndlY2hhdC1jZG4uY29tIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaXpeacrOeZviIsDQogICJhZGQiOiAiaW4wNi5teXFxMjAyNC5vcmciLA0KICAicG9ydCI6ICI2NDAwNSIsDQogICJpZCI6ICI4ZDVlZTk3NS05ZGUxLTNlY2EtOTFlYi03NzRmMGFhZTRmYzkiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImJpdGViLWpwOTgtY2RuLm15bm9kZXMwMDEub25lIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIg0KfQ==
 果粒橙     5521563，663465，987675，535679，545455，646745 
-trojan://2cfc9ca3-5881-4aa6-b130-c6b75d16d375@download1tw.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com&tfo=1#%E5%8F%B0%E6%B9%BEHinet
-trojan://2cfc9ca3-5881-4aa6-b130-c6b75d16d375@download1hkt.windowsupdatea.com:443?peer=glc-hkt1.windowsupdatea.com&tfo=1#%E9%A6%99%E6%B8%AFHKT
-
 trojan://24433262-4a5c-433f-b678-1fcbe40b0cee@download1tw.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com&tfo=1#%E5%8F%B0%E6%B9%BEHinet
-trojan://24433262-4a5c-433f-b678-1fcbe40b0cee@192.203.230.254:443?peer=glc-jp1.glccf.top&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=glc-jp1.glccf.top;obfs-uri=/guolicheng/jp1#%E6%97%A5%E6%9C%ACpath
+trojan://24433262-4a5c-433f-b678-1fcbe40b0cee@download2hkt.windowsupdatea.com:443?peer=glc-hkt2.windowsupdatea.com&tfo=1#%E9%A6%99%E6%B8%AFHKT2
 trojan://88200f4b-de82-451f-b20f-ace42518dc55@download1tw.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com&tfo=1#%E5%8F%B0%E6%B9%BEHinet
-trojan://88200f4b-de82-451f-b20f-ace42518dc55@192.203.230.254:443?peer=glc-jp1.glccf.top&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=glc-jp1.glccf.top;obfs-uri=/guolicheng/jp1#%E6%97%A5%E6%9C%ACpath
+trojan://88200f4b-de82-451f-b20f-ace42518dc55@download2hkt.windowsupdatea.com:443?peer=glc-hkt2.windowsupdatea.com&tfo=1#%E9%A6%99%E6%B8%AFHKT2
 trojan://7d5733cb-db0d-445f-8ef0-9ba5fd22f54b@download1tw.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com&tfo=1#%E5%8F%B0%E6%B9%BEHinet
 trojan://7d5733cb-db0d-445f-8ef0-9ba5fd22f54b@download1hkt.windowsupdatea.com:443?peer=glc-hkt1.windowsupdatea.com&tfo=1#%E9%A6%99%E6%B8%AFHKT
 trojan://e869d03d-8b7f-4b56-b211-d09f6ec7beaa@download1tw.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com&tfo=1#%E5%8F%B0%E6%B9%BEHinet
 trojan://e869d03d-8b7f-4b56-b211-d09f6ec7beaa@download1hkt.windowsupdatea.com:443?peer=glc-hkt1.windowsupdatea.com&tfo=1#%E9%A6%99%E6%B8%AFHKT
 
-亏本5个账号 2435546，11.13   746547，646563 12.3
-trojan://7bcb45cc-8347-4f7a-badc-c1e69109d1b1@kbawsjp2.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC3+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
-trojan://53a4fedf-bb9c-4aeb-9023-5853fd2d3a32@kbawsjp2.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC3+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
-trojan://30d70a29-0f90-4326-a9a2-693457c330cc@kbawsjp1.aiopen.cfd:443?sni=4-193-105-141.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1+%7C+%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF
 SSR淘宝测试
 ssr://emh1YW5mYTAyLnNwZWVkYm9zbm9kZTEueHl6OjMzMTIxOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpodHRwX3NpbXBsZTpSRVJJZWxjeS8_b2Jmc3BhcmFtPU1EazJNV1V4TURneE1qRXViV2xqY205emIyWjBMbU52YlEmcHJvdG9wYXJhbT1NVEE0TVRJeE9qazRVSGR3WmcmcmVtYXJrcz01cGF3NVlxZzVaMmhJT2ExaS1pdmxURSZncm91cD1ZV2xuZFc5NWRXNA
 ssr://aGt0LnNwZWVkYm9zbm9kZTEueHl6OjMzMTIyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpodHRwX3NpbXBsZTpSRVJJZWxjeS8_b2Jmc3BhcmFtPU1EazJNV1V4TURneE1qRXViV2xqY205emIyWjBMbU52YlEmcHJvdG9wYXJhbT1NVEE0TVRJeE9qazRVSGR3WmcmcmVtYXJrcz01WS13NXJtLUlPYTFpLWl2bFRJJmdyb3VwPVlXbG5kVzk1ZFc0
