@@ -5,12 +5,12 @@ trojan://55469454-d13b-4974-876a-f2e5741cc303@jp.liangyuandiancloud.com:443?tfo=
 trojan://55469454-d13b-4974-876a-f2e5741cc303@sg.liangyuandiancloud.com:443?tfo=1#%E6%9C%80%E4%B8%8A%E6%96%B9%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E2%80%9C%E6%9B%B4%E6%96%B0%E2%80%9D
 trojan://18dc08ea-4f55-4214-8dac-8c3886b45465@sg.liangyuandiancloud.com:443?tfo=1#%E6%97%A0%E6%B3%95%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80
 trojan://18dc08ea-4f55-4214-8dac-8c3886b45465@jp.liangyuandiancloud.com:443?tfo=1#%E4%BB%BB%E6%84%8F%E5%8F%AF%E7%94%A8%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0
-trojan://e39abd76-1bfd-4fc5-bdfe-bdececef66a4@sg.liangyuandiancloud.com:443?tfo=1#%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2
-trojan://e39abd76-1bfd-4fc5-bdfe-bdececef66a4@jp.liangyuandiancloud.com:443?tfo=1#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp://985.so/bmgac
-trojan://e39abd76-1bfd-4fc5-bdfe-bdececef66a4@sg.liangyuandiancloud.com:443?tfo=1#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
-trojan://b1ac4068-c550-4a80-8724-5ad31ac6169f@sg.liangyuandiancloud.com:443?tfo=1#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%BD%AC%E5%8F%91/%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
-trojan://b1ac4068-c550-4a80-8724-5ad31ac6169f@jp.liangyuandiancloud.com:443?tfo=1#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
-trojan://b1ac4068-c550-4a80-8724-5ad31ac6169f@jp.liangyuandiancloud.com:443?tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1 
+trojan://f1b3d773-97ce-4917-8df0-add85f826b38@sg.liangyuandiancloud.com:443?tfo=1#%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2
+trojan://f1b3d773-97ce-4917-8df0-add85f826b38@jp.liangyuandiancloud.com:443?tfo=1#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp://985.so/bmgac
+trojan://f1b3d773-97ce-4917-8df0-add85f826b38@sg.liangyuandiancloud.com:443?tfo=1#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
+trojan://317af005-d946-49c6-a91b-f84a0da2657d@sg.liangyuandiancloud.com:443?tfo=1#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%BD%AC%E5%8F%91/%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
+trojan://317af005-d946-49c6-a91b-f84a0da2657d@jp.liangyuandiancloud.com:443?tfo=1#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
+trojan://317af005-d946-49c6-a91b-f84a0da2657d@jp.liangyuandiancloud.com:443?tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
 电脑剩的奇异
 ss://YWVzLTEyOC1nY206MzNlMGJlMjQtZWVmOC00ZWY1LTgwNDItZmEwOTdkYjlhNWVlQHNoY3V6eGhrLmV1Y2R1cmwubWU6NTYz#%E9%A6%99%E6%B8%AF%E5%8A%A8%E6%80%81%20A
 ss://YWVzLTEyOC1nY206MzNlMGJlMjQtZWVmOC00ZWY1LTgwNDItZmEwOTdkYjlhNWVlQHNoY3V6eGhrLmV1Y2R1cmwubWU6NTY0#%E9%A6%99%E6%B8%AF%E5%8A%A8%E6%80%81%20B
@@ -62,6 +62,8 @@ ss://YWVzLTEyOC1nY206QUMyM0NFRkUtMkRGNS00ODAxLUExRDMtNkZENTI3MzAyMjYwQGhvbmdrb25
 ss://YWVzLTEyOC1nY206QUMyM0NFRkUtMkRGNS00ODAxLUExRDMtNkZENTI3MzAyMjYwQHRhaXdhbi5zcGVlZC1taXRjZS50b3A6MTAwMjg#%E5%8F%B0%E7%81%A3%7CTaiwan%7C3
 ss://YWVzLTEyOC1nY206QUMyM0NFRkUtMkRGNS00ODAxLUExRDMtNkZENTI3MzAyMjYwQHRhaXdhbi5zcGVlZC1taXRjZS50b3A6MTAwMjk#%E5%8F%B0%E7%81%A3%7CTaiwan%7C4
 ss://YWVzLTEyOC1nY206QUMyM0NFRkUtMkRGNS00ODAxLUExRDMtNkZENTI3MzAyMjYwQHRhaXdhbi5zcGVlZC1taXRjZS50b3A6MTAwMzA#%E5%8F%B0%E7%81%A3%7CTaiwan%7C5
+
+vless://AC23CEFE-2DF5-4801-A1D3-6FD527302260@us1.speed-mitce.top:10001?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b&sni=s0.awsstatic.com&headerType=none&host=&path=&fp=ios#美國|America|1
 鸡场chengxinmayun
 vmess://YXV0bzozZDhmMzgxNC00MjQ2LTQ3N2QtYTE5ZS1iYThjYTZjNWJmMjRAQTAwMy5TVEFOREFSRC1OT0RFUy1DSElDS0VORkFSTVMuVE9QOjE4Njkz?remarks=%E4%B8%9C%E4%BA%AC%20-%201X%20%20-%20A&obfs=none&tfo=1&alterId=0
 vmess://YXV0bzozZDhmMzgxNC00MjQ2LTQ3N2QtYTE5ZS1iYThjYTZjNWJmMjRAQTAwNC5TVEFOREFSRC1OT0RFUy1DSElDS0VORkFSTVMuVE9QOjE4Njk0?remarks=%E4%B8%9C%E4%BA%AC%20-%201X%20%20-%20B&obfs=none&tfo=1&alterId=0
