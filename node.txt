@@ -11,7 +11,7 @@ trojan://f1b3d773-97ce-4917-8df0-add85f826b38@sg.liangyuandiancloud.com:443?tfo=
 trojan://317af005-d946-49c6-a91b-f84a0da2657d@sg.liangyuandiancloud.com:443?tfo=1#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%BD%AC%E5%8F%91/%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
 trojan://317af005-d946-49c6-a91b-f84a0da2657d@jp.liangyuandiancloud.com:443?tfo=1#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
 trojan://317af005-d946-49c6-a91b-f84a0da2657d@jp.liangyuandiancloud.com:443?tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
-顶级7788
+极速7788
 trojan://c89af47a-0952-46ce-aacf-34ba34829e05@23.227.38.18:443?peer=jus1.jsjc.sbs&plugin=obfs-local;obfs=websocket;obfs-host=jus1.jsjc.sbs;obfs-uri=/jsjc/us1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%87%A4%E5%87%B0%E5%9F%8E01%20%7C%200.1x
 trojan://c89af47a-0952-46ce-aacf-34ba34829e05@23.227.38.30:443?peer=jus2.jsjc.sbs&plugin=obfs-local;obfs=websocket;obfs-host=jus2.jsjc.sbs;obfs-uri=/jsjc/us2#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%87%A4%E5%87%B0%E5%9F%8E02%20%7C%200.1x
 trojan://c89af47a-0952-46ce-aacf-34ba34829e05@23.227.38.76:443?peer=jjp1.jsjc.sbs&plugin=obfs-local;obfs=websocket;obfs-host=jjp1.jsjc.sbs;obfs-uri=/jsjc/jp1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%20%7C%20x0.1
