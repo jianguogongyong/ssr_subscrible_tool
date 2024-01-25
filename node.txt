@@ -11,11 +11,13 @@ trojan://f1b3d773-97ce-4917-8df0-add85f826b38@sg.liangyuandiancloud.com:443?tfo=
 trojan://317af005-d946-49c6-a91b-f84a0da2657d@sg.liangyuandiancloud.com:443?tfo=1#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%BD%AC%E5%8F%91/%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
 trojan://317af005-d946-49c6-a91b-f84a0da2657d@jp.liangyuandiancloud.com:443?tfo=1#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
 trojan://317af005-d946-49c6-a91b-f84a0da2657d@jp.liangyuandiancloud.com:443?tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
-mitce  20240101
-vless://AC23CEFE-2DF5-4801-A1D3-6FD527302260@us1.speed-mitce.top:10001?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b&sni=s0.awsstatic.com&headerType=none&host=&path=&fp=edge#美國|America|1
-vless://AC23CEFE-2DF5-4801-A1D3-6FD527302260@us2.speed-mitce.top:10002?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b&sni=s0.awsstatic.com&headerType=none&host=&path=&fp=safari#美國|America|2
-vless://AC23CEFE-2DF5-4801-A1D3-6FD527302260@jp1.speed-mitce.top:10006?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b&sni=s0.awsstatic.com&headerType=none&host=&path=&fp=qq#日本|Japan|1
-vless://AC23CEFE-2DF5-4801-A1D3-6FD527302260@jp2.speed-mitce.top:10007?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b&sni=s0.awsstatic.com&headerType=none&host=&path=&fp=safari#日本|Japan|2
+顶级7788
+trojan://c89af47a-0952-46ce-aacf-34ba34829e05@23.227.38.18:443?peer=jus1.jsjc.sbs&plugin=obfs-local;obfs=websocket;obfs-host=jus1.jsjc.sbs;obfs-uri=/jsjc/us1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%87%A4%E5%87%B0%E5%9F%8E01%20%7C%200.1x
+trojan://c89af47a-0952-46ce-aacf-34ba34829e05@23.227.38.30:443?peer=jus2.jsjc.sbs&plugin=obfs-local;obfs=websocket;obfs-host=jus2.jsjc.sbs;obfs-uri=/jsjc/us2#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%87%A4%E5%87%B0%E5%9F%8E02%20%7C%200.1x
+trojan://c89af47a-0952-46ce-aacf-34ba34829e05@23.227.38.76:443?peer=jjp1.jsjc.sbs&plugin=obfs-local;obfs=websocket;obfs-host=jjp1.jsjc.sbs;obfs-uri=/jsjc/jp1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%20%7C%20x0.1
+trojan://c89af47a-0952-46ce-aacf-34ba34829e05@23.227.39.35:443?peer=jsg1.jsjc.sbs&plugin=obfs-local;obfs=websocket;obfs-host=jsg1.jsjc.sbs;obfs-uri=/jsjc/sg1#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20%7C%20x0.1
+
+
 电脑剩的奇异
 ss://YWVzLTEyOC1nY206MzNlMGJlMjQtZWVmOC00ZWY1LTgwNDItZmEwOTdkYjlhNWVlQHNoY3V6eGhrLmV1Y2R1cmwubWU6NTYz#%E9%A6%99%E6%B8%AF%E5%8A%A8%E6%80%81%20A
 ss://YWVzLTEyOC1nY206MzNlMGJlMjQtZWVmOC00ZWY1LTgwNDItZmEwOTdkYjlhNWVlQHNoY3V6eGhrLmV1Y2R1cmwubWU6NTY0#%E9%A6%99%E6%B8%AF%E5%8A%A8%E6%80%81%20B
@@ -54,7 +56,11 @@ trojan://ed6da53b-fc46-4b7a-bd69-a25ddcf9add2@209.46.30.229:443?peer=glc-us1.glc
 trojan://ed6da53b-fc46-4b7a-bd69-a25ddcf9add2@209.46.30.82:443?peer=glc-us3.glccf.top&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=glc-us3.glccf.top;obfs-uri=/guolicheng/us3#%E7%BE%8E%E5%9B%BD%E5%87%A4%E5%87%B0%E5%9F%8E
 trojan://e99a0dac-5ce9-4c0a-8bee-172de609e4e4@download1tw.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com&tfo=1#%E5%8F%B0%E6%B9%BEHinet
 trojan://e99a0dac-5ce9-4c0a-8bee-172de609e4e4@download1hkt.windowsupdatea.com:443?peer=glc-hkt1.windowsupdatea.com&tfo=1#%E9%A6%99%E6%B8%AFHKT
-
+mitce  20240101
+vless://AC23CEFE-2DF5-4801-A1D3-6FD527302260@us1.speed-mitce.top:10001?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b&sni=s0.awsstatic.com&headerType=none&host=&path=&fp=edge#美國|America|1
+vless://AC23CEFE-2DF5-4801-A1D3-6FD527302260@us2.speed-mitce.top:10002?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b&sni=s0.awsstatic.com&headerType=none&host=&path=&fp=safari#美國|America|2
+vless://AC23CEFE-2DF5-4801-A1D3-6FD527302260@jp1.speed-mitce.top:10006?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b&sni=s0.awsstatic.com&headerType=none&host=&path=&fp=qq#日本|Japan|1
+vless://AC23CEFE-2DF5-4801-A1D3-6FD527302260@jp2.speed-mitce.top:10007?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b&sni=s0.awsstatic.com&headerType=none&host=&path=&fp=safari#日本|Japan|2
 886775123@qq.com极简苹果用
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoWNoYXRncHQxIiwNCiAgImFkZCI6ICIzLndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjAzIiwNCiAgImlkIjogIjYwNGM3NDU1LWY1Y2QtMzJkZC05NTRkLTIzZWQ3MzNkYTBjOCIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoWNoYXRncHQyIiwNCiAgImFkZCI6ICI0LndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjA0IiwNCiAgImlkIjogIjYwNGM3NDU1LWY1Y2QtMzJkZC05NTRkLTIzZWQ3MzNkYTBjOCIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
