@@ -30,10 +30,10 @@ vmess://YXV0bzpkNjlhYmI0ZS04NWU1LTQ3YTQtODhjYi00MWZiYjUzYzQ0NDNAaGs1Zy54bi0tdmhx
 vmess://YXV0bzpkNjlhYmI0ZS04NWU1LTQ3YTQtODhjYi00MWZiYjUzYzQ0NDNAc2QxLnhuLS13bHF3MXN3cmowNGp1NTZkLmNvbToxNTc1Nw?remarks=%E5%8F%B0%E6%B9%BE&obfsParam=tms.dingtalk.com&path=/&obfs=websocket&tfo=1&alterId=0
 vmess://YXV0bzpkNjlhYmI0ZS04NWU1LTQ3YTQtODhjYi00MWZiYjUzYzQ0NDNAc2QxLnhuLS13bHF3MXN3cmowNGp1NTZkLmNvbToxOTcwMA?remarks=%E6%97%A5%E6%9C%AC&obfsParam=tms.dingtalk.com&path=/&obfs=websocket&tfo=1&alterId=0
 果粒橙546457    ，335467
-trojan://151d3a42-06e6-4f84-a9e4-7861944bb236@download1tw.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com#%E5%8F%B0%E6%B9%BEHinet
-trojan://151d3a42-06e6-4f84-a9e4-7861944bb236@download2hkt.windowsupdatea.com:443?peer=glc-hkt2.windowsupdatea.com#%E9%A6%99%E6%B8%AFHKT2
-trojan://09107c4d-9074-440d-8ee9-0d8f5e0db1a5@download1tw.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com#%E5%8F%B0%E6%B9%BEHinet
-trojan://09107c4d-9074-440d-8ee9-0d8f5e0db1a5@download2hkt.windowsupdatea.com:443?peer=glc-hkt2.windowsupdatea.com#%E9%A6%99%E6%B8%AFHKT2
+trojan://151d3a42-06e6-4f84-a9e4-7861944bb236@glc.g.tw.download.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com#%E5%8F%B0%E6%B9%BEHinet
+trojan://151d3a42-06e6-4f84-a9e4-7861944bb236@hkt.g.hk.download.windowsupdatea.com:443?peer=glc-hkt1.windowsupdatea.com#%E9%A6%99%E6%B8%AFHKT
+trojan://09107c4d-9074-440d-8ee9-0d8f5e0db1a5@glc.g.tw.download.windowsupdatea.com:443?peer=glc-tw1.windowsupdatea.com#%E5%8F%B0%E6%B9%BEHinet
+trojan://09107c4d-9074-440d-8ee9-0d8f5e0db1a5@hkt.g.hk2.download.windowsupdatea.com:443?peer=glc-hkt2.windowsupdatea.com#%E9%A6%99%E6%B8%AFHKT2
 
 飞毯飞毯563667,clash，临时，苹果共用
 vmess://YXV0bzplNDNmODMzZC1jMzU0LTMxMDEtYjM2Zi1jMWQxY2QyOGYxNTlAdGFuei1rci4wMWF4cmRzOGRzLm9ubGluZTozNTAwNw?remarks=V2%20%7C%20%E9%9F%A9%E5%9B%BD%2001%20%7C%20%E6%A0%87%E5%87%86&obfs=none&alterId=0
@@ -57,7 +57,7 @@ vmess://YXV0bzplNDNmODMzZC1jMzU0LTMxMDEtYjM2Zi1jMWQxY2QyOGYxNTlAdGFuei1ib2FyZC4w
 vmess://YXV0bzplNDNmODMzZC1jMzU0LTMxMDEtYjM2Zi1jMWQxY2QyOGYxNTlAdGFuei1ib2FyZC4wMWF4cmRzOGRzLm9ubGluZTozNTA4MQ?remarks=V3%20%7C%20%E8%8F%B2%E5%BE%8B%E5%AE%BE%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=0
 
 7788,大熊云
-vmess://YXV0bzo1NzMxZjkwMy02ZDg0LTRjZTAtOTNmZS1lZDYyNjc4MTdiNTlAczkuOTU2MjU2Lnh5ejo4MA?remarks=%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG1&obfsParam=caonimashabiwanyi5.daxiongda.top&path=/&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzo1NzMxZjkwMy02ZDg0LTRjZTAtOTNmZS1lZDYyNjc4MTdiNTlAczEzLjk1NjI1Ni54eXo6ODA?remarks=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS3&obfsParam=caonimashabiwanyi20.daxiongda.top&path=/&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzo1NzMxZjkwMy02ZDg0LTRjZTAtOTNmZS1lZDYyNjc4MTdiNTlAcTEyMy45NTYyNTYueHl6OjIwMjMy?remarks=%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP1&obfsParam=a.189.cn&path=/&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzo1NzMxZjkwMy02ZDg0LTRjZTAtOTNmZS1lZDYyNjc4MTdiNTlAcTEyMy45NTYyNTYueHl6OjIwMjMz?remarks=%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP2&obfsParam=a.189.cn&path=/&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzo1NzMxZjkwMy02ZDg0LTRjZTAtOTNmZS1lZDYyNjc4MTdiNTlAdmV0dzAwMS43NTM2NTQueHl6OjQ5NDEw?remarks=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW1-%E5%8A%A8%E6%80%81&obfsParam=caonimashabiwanyi4.daxiongda.top&path=/&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzo1NzMxZjkwMy02ZDg0LTRjZTAtOTNmZS1lZDYyNjc4MTdiNTlAdGFpd2FuMi43NTM2NTQueHl6OjE4ODAz?remarks=%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW2-AK&obfsParam=a.189.cn&path=/&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzo1NzMxZjkwMy02ZDg0LTRjZTAtOTNmZS1lZDYyNjc4MTdiNTlAczEuOTU2MjU2Lnh5ejo4MA?remarks=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%9C%A3%E4%BD%95%E5%A1%9EUS1-%E5%8A%A8%E6%80%81&obfsParam=caonimashabiwanyi4.daxiongda.top&path=/&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzo1NzMxZjkwMy02ZDg0LTRjZTAtOTNmZS1lZDYyNjc4MTdiNTlAczkuNzUzNjU0Lnh5ejo4MA?remarks=%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG1-%E5%8A%A8%E6%80%81&obfsParam=caonimashabiwanyi5.daxiongda.top&path=/&obfs=websocket&tfo=1&alterId=0
