@@ -1,4 +1,10 @@
 ios专用
+淘宝
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:43003?peer=hk003.yijiasu.xyz#V2-%E9%A6%99%E6%B8%AF03
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:45003?peer=kr003.yijiasu.xyz#V2-%E9%9F%A9%E5%9B%BD03
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:42002?peer=sg002.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102%7CNF%E4%B8%93%E7%94%A8
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:53004?peer=vn004.yijiasu.xyz#V1-%E8%B6%8A%E5%8D%9704%7CNF%7CGPT
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:53001?peer=vn001.yijiasu.xyz#V1-%E8%B6%8A%E5%8D%9701%7CNF%7CGPT
 卷王 苹果 123
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODM1NjM3Zi1kYzczLTRjYWMtOGMyMi04Y2VkOTI5OTNlZDNAdmFydHllaGh2YXBoZXQ3ai56b3phenV0ZW5vZ2Euc2hvcDoyMDEwMQ#%E6%97%A5%E6%9C%AC01
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODM1NjM3Zi1kYzczLTRjYWMtOGMyMi04Y2VkOTI5OTNlZDNAdmFydHllaGh2YXBoZXQ3ai56b3phenV0ZW5vZ2Euc2hvcDoyMDEwMg#%E6%97%A5%E6%9C%AC02
