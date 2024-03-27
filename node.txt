@@ -1,19 +1,12 @@
 ios专用
 淘宝
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:43003?peer=hk003.yijiasu.xyz#V2-%E9%A6%99%E6%B8%AF03
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:45003?peer=kr003.yijiasu.xyz#V2-%E9%9F%A9%E5%9B%BD03
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:42002?peer=sg002.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102%7CNF%E4%B8%93%E7%94%A8
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:53004?peer=vn004.yijiasu.xyz#V1-%E8%B6%8A%E5%8D%9704%7CNF%7CGPT
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:53001?peer=vn001.yijiasu.xyz#V1-%E8%B6%8A%E5%8D%9701%7CNF%7CGPT
-卷王 苹果 123
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:53001?sni=vn001.yijiasu.xyz#V1-%E8%B6%8A%E5%8D%9701%7CNF%7CGPT
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:53002?sni=vn002.yijiasu.xyz#V1-%E8%B6%8A%E5%8D%9702%7CNF%7CGPT
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46004?sni=us004.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD04%7Copenai%E4%B8%93%E7%94%A8
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46005?sni=us005.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD05%7Copenai%E4%B8%93%E7%94%A8
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101%7CNF%E4%B8%93%E7%94%A8
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102%7CNF%E4%B8%93%E7%94%A8
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzQ4OTUxNC00ODA5LTRkZjMtOTI4Mi0wNTk0ODUwNDU1N2NAdmFydHllaGh2YXBoZXQ3ai56b3phenV0ZW5vZ2Euc2hvcDoyMDEwNg#%E6%96%B0%E5%8A%A0%E5%9D%A101
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzQ4OTUxNC00ODA5LTRkZjMtOTI4Mi0wNTk0ODUwNDU1N2NAdmFydHllaGh2YXBoZXQ3ai56b3phenV0ZW5vZ2Euc2hvcDoyMDEwNw#%E6%96%B0%E5%8A%A0%E5%9D%A102
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNTVmZjc5NS04ZjJhLTQ2YTQtOTRhNy01ZDRiYjhiMThkYTlAdmFydHllaGh2YXBoZXQ3ai56b3phenV0ZW5vZ2Euc2hvcDoyMDExMQ#%E7%BE%8E%E5%9B%BD01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNTVmZjc5NS04ZjJhLTQ2YTQtOTRhNy01ZDRiYjhiMThkYTlAdmFydHllaGh2YXBoZXQ3ai56b3phenV0ZW5vZ2Euc2hvcDoyMDExMg#%E7%BE%8E%E5%9B%BD02
-ios专用   大熊云大熊云885365
-vmess://YXV0bzphOWU3NWM0MS00YmU5LTQ0MjYtODA4MS01ZmE3NjMyOGVkMDZAczEzLjc1MzY1NC54eXo6ODA?remarks=%E4%B8%BA%E4%BF%9D%E9%9A%9C%E5%AE%A2%E6%88%B7%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&obfsParam=a.189.cn&path=/&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphOWU3NWM0MS00YmU5LTQ0MjYtODA4MS01ZmE3NjMyOGVkMDZAczE0Ljc1MzY1NC54eXo6ODA?remarks=%E4%BF%9D%E7%95%99%E5%BF%85%E8%A6%81%E4%BF%A1%E6%81%AF%E5%88%A0%E9%99%A4%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&obfsParam=a.189.cn&path=/&obfs=websocket&tfo=1&alterId=0
 545667  飞毯苹果文字说明,5.1到期   
 vmess://YXV0bzoyYWRkNWMzOS1mMzUzLTNiNTgtYjg4Ni0xOTUyNTFmYWI0NGZAdGFuei1oay4wMWJ5eDMxcXpuLmRvd25sb2FkOjM1MDA5?remarks=%E4%B8%BA%E4%BF%9D%E9%9A%9C%E5%AE%A2%E6%88%B7%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&alterId=0
 vmess://YXV0bzoyYWRkNWMzOS1mMzUzLTNiNTgtYjg4Ni0xOTUyNTFmYWI0NGZAdGFuei1oay4wMWJ5eDMxcXpuLmRvd25sb2FkOjM1MDEw?remarks=%E4%BF%9D%E7%95%99%E5%BF%85%E8%A6%81%E4%BF%A1%E6%81%AF%E5%88%A0%E9%99%A4%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&alterId=0
