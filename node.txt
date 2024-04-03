@@ -1,11 +1,13 @@
 ios专用
 淘宝西瓜
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:53003?sni=vn003.yijiasu.xyz#V1-%E8%B6%8A%E5%8D%9703%7CNF%7CGPT
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:53004?sni=vn004.yijiasu.xyz#V1-%E8%B6%8A%E5%8D%9704%7CNF%7CGPT
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC01%7CNF%E4%B8%93%E7%94%A8
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC02%7CNF%E4%B8%93%E7%94%A8
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:43002?sni=hk002.yijiasu.xyz#V1-%E9%A6%99%E6%B8%AF02
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:43003?sni=hk003.yijiasu.xyz#V2-%E9%A6%99%E6%B8%AF03
+trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:53002?sni=vn002.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt1
+trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:53003?sni=vn003.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt2
+trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt1
+trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt2
+trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#%E6%97%A5%E6%9C%ACchatgpt1
+trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#%E6%97%A5%E6%9C%ACchatgpt2
+trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#%E7%BE%8E%E5%9B%BDchatgpt1
+trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:46004?sni=us004.yijiasu.xyz#%E7%BE%8E%E5%9B%BDchatgpt2
 545667  飞毯苹果文字说明,5.1到期   
 vmess://YXV0bzoyYWRkNWMzOS1mMzUzLTNiNTgtYjg4Ni0xOTUyNTFmYWI0NGZAdGFuei1oay4wMWJ5eDMxcXpuLmRvd25sb2FkOjM1MDA5?remarks=%E4%B8%BA%E4%BF%9D%E9%9A%9C%E5%AE%A2%E6%88%B7%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&alterId=0
 vmess://YXV0bzoyYWRkNWMzOS1mMzUzLTNiNTgtYjg4Ni0xOTUyNTFmYWI0NGZAdGFuei1oay4wMWJ5eDMxcXpuLmRvd25sb2FkOjM1MDEw?remarks=%E4%BF%9D%E7%95%99%E5%BF%85%E8%A6%81%E4%BF%A1%E6%81%AF%E5%88%A0%E9%99%A4%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&alterId=0
