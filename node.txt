@@ -54,6 +54,13 @@ trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:42004?sni=sg004.
 trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#%E6%97%A5%E6%9C%ACchatgpt1
 trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#%E6%97%A5%E6%9C%ACchatgpt2
 trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#%E7%BE%8E%E5%9B%BDchatgpt2
+西瓜淘宝   5.15
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:53001?sni=vn001.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt1
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:53002?sni=vn002.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt2
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt1
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#%E7%BE%8E%E5%9B%BDchatgpt2
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#%E6%97%A5%E6%9C%ACchatgpt1
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:41003?sni=jp003.yijiasu.xyz#%E6%97%A5%E6%9C%ACchatgpt2
 
 大熊云45525
 vmess://YXV0bzpmZjYyYzM5NS00YWQ1LTQ5NTctYTQ4My1iOTdlODdkMzI0ZGJAZGF4aW9uZ2RhLnRvcDo4MA?remarks=%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK1&obfsParam=hk.daxiongda.top&path=/&obfs=websocket&tfo=1&alterId=0
