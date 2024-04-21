@@ -1,5 +1,5 @@
 ios专用
-淘宝西瓜
+淘宝西瓜  5.2
 trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:53002?sni=vn002.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt1
 trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:53003?sni=vn003.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt2
 trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt1
@@ -34,7 +34,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNjY4YjAwZS0yY2NmLTRjM2UtODM1Ny1mMTIxNmMwY2E
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNjY4YjAwZS0yY2NmLTRjM2UtODM1Ny1mMTIxNmMwY2E3ODRAZ3cubGlhbmd5dWFuZGlhbndhbi5jb206MzU1MDY#UK%E8%8B%B1%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNjY4YjAwZS0yY2NmLTRjM2UtODM1Ny1mMTIxNmMwY2E3ODRAZ3cubGlhbmd5dWFuZGlhbndhbi5jb206MzU1MDc#LU%E5%8D%A2%E6%A3%AE%E5%A0%A1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNjY4YjAwZS0yY2NmLTRjM2UtODM1Ny1mMTIxNmMwY2E3ODRAZ3cubGlhbmd5dWFuZGlhbndhbi5jb206MzU1MDk#KP%E6%9C%9D%E9%B2%9C
-西瓜淘宝
+西瓜淘宝   5.2
 trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:53002?sni=vn002.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt1
 trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:42003?sni=sg003.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt1
 trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:42004?sni=sg004.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt2
@@ -56,3 +56,10 @@ vmess://YXV0bzpmZjYyYzM5NS00YWQ1LTQ5NTctYTQ4My1iOTdlODdkMzI0ZGJAczUuOTU2MjU2Lnh5
 vmess://YXV0bzpmZjYyYzM5NS00YWQ1LTQ5NTctYTQ4My1iOTdlODdkMzI0ZGJAczExLjc1MzY1NC54eXo6ODA?remarks=%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR4&obfsParam=a.189.cn&path=/&obfs=websocket&tfo=1&alterId=0
 vmess://YXV0bzpmZjYyYzM5NS00YWQ1LTQ5NTctYTQ4My1iOTdlODdkMzI0ZGJAczM1Ljc1MzY1NC54eXo6MTAwNTE?remarks=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E9%98%BF%E4%BB%80%E6%9C%ACUS1&obfsParam=a.189.cn&path=/&obfs=websocket&tfo=1&alterId=0
 vmess://YXV0bzpmZjYyYzM5NS00YWQ1LTQ5NTctYTQ4My1iOTdlODdkMzI0ZGJAczM2Ljc1MzY1NC54eXo6ODA?remarks=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E9%98%BF%E4%BB%80%E6%9C%ACUS2&obfsParam=a.189.cn&path=/&obfs=websocket&tfo=1&alterId=0
+自由猫 453534   8.1
+ss://YWVzLTEyOC1nY206YjczYjhkZDYtMGZhYi00MzQzLTgyNGYtYmRkODFjNzM5NTg1QGFsaWJhYmExLnhuLS16N3gxNmJmNnQuY29tOjIwMTUx#%E7%BE%8E%E5%9B%BDchatgpt1
+ss://YWVzLTEyOC1nY206YjczYjhkZDYtMGZhYi00MzQzLTgyNGYtYmRkODFjNzM5NTg1QGFnb29nbGV5dW4zLnhuLS16N3gxNmJmNnQuY29tOjIwMTUx#%E7%BE%8E%E5%9B%BDchatgpt2
+ss://YWVzLTEyOC1nY206YjczYjhkZDYtMGZhYi00MzQzLTgyNGYtYmRkODFjNzM5NTg1QGFsaWJhYmExLnhuLS16N3gxNmJmNnQuY29tOjE4MTE5#%E6%97%A5%E6%9C%ACchatgpt1
+ss://YWVzLTEyOC1nY206YjczYjhkZDYtMGZhYi00MzQzLTgyNGYtYmRkODFjNzM5NTg1QGFnb29nbGV5dW4zLnhuLS16N3gxNmJmNnQuY29tOjE4MTE5#%E6%97%A5%E6%9C%ACchatgpt2
+ss://YWVzLTEyOC1nY206YjczYjhkZDYtMGZhYi00MzQzLTgyNGYtYmRkODFjNzM5NTg1QGFsaWJhYmExLnhuLS16N3gxNmJmNnQuY29tOjE5MTEy#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt1
+ss://YWVzLTEyOC1nY206YjczYjhkZDYtMGZhYi00MzQzLTgyNGYtYmRkODFjNzM5NTg1QGFodWF3ZWlzYjIueG4tLXo3eDE2YmY2dC5jb206MTkxMTI#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt2
