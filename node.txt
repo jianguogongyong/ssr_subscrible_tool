@@ -32,11 +32,6 @@ trojan://1aa598bb-8e74-45ac-8824-782f4724e7f4@df.xiguajiasu.xyz:46002?sni=us002.
 trojan://1aa598bb-8e74-45ac-8824-782f4724e7f4@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102gpt1
 trojan://1aa598bb-8e74-45ac-8824-782f4724e7f4@df.xiguajiasu.xyz:42003?sni=sg003.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A103gpt2
 
-63666     2元
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNjY4YjAwZS0yY2NmLTRjM2UtODM1Ny1mMTIxNmMwY2E3ODRAZ3cubGlhbmd5dWFuZGlhbndhbi5jb206MzU1MDM#JP%E6%97%A5%E6%9C%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNjY4YjAwZS0yY2NmLTRjM2UtODM1Ny1mMTIxNmMwY2E3ODRAZ3cubGlhbmd5dWFuZGlhbndhbi5jb206MzU1MDY#UK%E8%8B%B1%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNjY4YjAwZS0yY2NmLTRjM2UtODM1Ny1mMTIxNmMwY2E3ODRAZ3cubGlhbmd5dWFuZGlhbndhbi5jb206MzU1MDc#LU%E5%8D%A2%E6%A3%AE%E5%A0%A1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNjY4YjAwZS0yY2NmLTRjM2UtODM1Ny1mMTIxNmMwY2E3ODRAZ3cubGlhbmd5dWFuZGlhbndhbi5jb206MzU1MDk#KP%E6%9C%9D%E9%B2%9C
 
 西瓜淘宝   5.15
 trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:53001?sni=vn001.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt1
