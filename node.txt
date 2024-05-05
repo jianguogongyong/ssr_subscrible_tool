@@ -4,11 +4,30 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKRoOaWsOWKoOWdoTEiLA0KICAiYWRkIjogIjMu
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKRoeaWsOWKoOWdoTIiLA0KICAiYWRkIjogIjQud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDQiLA0KICAiaWQiOiAiNTUyNTFkYzItMDBlZC0zM2RhLTg1MTctOWFhNGJmZjNhOTliIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKRo+aXpeacrDEiLA0KICAiYWRkIjogIjYud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDYiLA0KICAiaWQiOiAiNTUyNTFkYzItMDBlZC0zM2RhLTg1MTctOWFhNGJmZjNhOTliIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKRpOaXpeacrDIiLA0KICAiYWRkIjogIjcud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDciLA0KICAiaWQiOiAiNTUyNTFkYzItMDBlZC0zM2RhLTg1MTctOWFhNGJmZjNhOTliIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-
+5.30 西瓜
+trojan://ae8e7f83-9921-4c33-974d-c87c1228efb4@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%ACchatgpt1
+trojan://ae8e7f83-9921-4c33-974d-c87c1228efb4@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#V1-%E6%97%A5%E6%9C%ACchatgpt2
+5.15 西瓜
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt1
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt2
 
 5435645@qq.com  苹果用极简   最前面2个  7.1到期
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKRoOaWsOWKoOWdoTEiLA0KICAiYWRkIjogIjMud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDMiLA0KICAiaWQiOiAiYzU5Mzg2ZjctYzJhMS0zMTNlLWJjZmItNjdhYzk0NDI3NTAzIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKRouaWsOWKoOWdoTIiLA0KICAiYWRkIjogIjQud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDQiLA0KICAiaWQiOiAiYzU5Mzg2ZjctYzJhMS0zMTNlLWJjZmItNjdhYzk0NDI3NTAzIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+
+西瓜5.15
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%ACchatgpt1
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#V1-%E6%97%A5%E6%9C%ACchatgpt2
+西瓜5.30
+trojan://ae8e7f83-9921-4c33-974d-c87c1228efb4@df.xiguajiasu.xyz:42003?sni=sg003.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt1
+trojan://ae8e7f83-9921-4c33-974d-c87c1228efb4@df.xiguajiasu.xyz:42004?sni=sg004.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt2
+西瓜5.15
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:46004?sni=us004.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BDchatgpt1
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:46005?sni=us005.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BDchatgpt2
+西瓜5.30
+trojan://ae8e7f83-9921-4c33-974d-c87c1228efb4@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BDchatgpt1
+trojan://ae8e7f83-9921-4c33-974d-c87c1228efb4@df.xiguajiasu.xyz:46004?sni=us004.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BDchatgpt2
+
 23422@gmail.com  飞毯    苹果文字说明  6.9
 vmess://YXV0bzoxZTY5MDRmMy1kOTI1LTMzY2YtODhiMS1kOTkyZjI2OGUxYWNAdGFuei1qcC4wMWJ5eDMxcXpuLmRvd25sb2FkOjM1MDA1?remarks=%E4%B8%BA%E4%BF%9D%E9%9A%9C%E5%AE%A2%E6%88%B7%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&alterId=0
 vmess://YXV0bzoxZTY5MDRmMy1kOTI1LTMzY2YtODhiMS1kOTkyZjI2OGUxYWNAdGFuei10dy4wMWJ5eDMxcXpuLmRvd25sb2FkOjM1MDY4?remarks=%E4%BF%9D%E7%95%99%E5%BF%85%E8%A6%81%E4%BF%A1%E6%81%AF%E5%88%A0%E9%99%A4%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&alterId=0
