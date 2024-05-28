@@ -1,22 +1,9 @@
 ios专用
 
-5.2 西瓜
-trojan://1aa598bb-8e74-45ac-8824-782f4724e7f4@df.xiguajiasu.xyz:53003?sni=vn003.yijiasu.xyz#V1-%E8%B6%8A%E5%8D%97chatgpt1
-trojan://1aa598bb-8e74-45ac-8824-782f4724e7f4@df.xiguajiasu.xyz:53004?sni=vn004.yijiasu.xyz#V1-%E8%B6%8A%E5%8D%97chatgpt2
+
 5435645@qq.com  苹果用极简   最前面2个  7.1到期
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKRoOaWsOWKoOWdoTEiLA0KICAiYWRkIjogIjMud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDMiLA0KICAiaWQiOiAiYzU5Mzg2ZjctYzJhMS0zMTNlLWJjZmItNjdhYzk0NDI3NTAzIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKRouaWsOWKoOWdoTIiLA0KICAiYWRkIjogIjQud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDQiLA0KICAiaWQiOiAiYzU5Mzg2ZjctYzJhMS0zMTNlLWJjZmItNjdhYzk0NDI3NTAzIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-5.2 西瓜
-trojan://1aa598bb-8e74-45ac-8824-782f4724e7f4@df.xiguajiasu.xyz:42003?sni=sg003.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt3
-trojan://1aa598bb-8e74-45ac-8824-782f4724e7f4@df.xiguajiasu.xyz:42004?sni=sg004.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt4
-trojan://1aa598bb-8e74-45ac-8824-782f4724e7f4@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%ACchatgpt1
-trojan://1aa598bb-8e74-45ac-8824-782f4724e7f4@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#V1-%E6%97%A5%E6%9C%ACchatgpt2
-
-trojan://1aa598bb-8e74-45ac-8824-782f4724e7f4@df.xiguajiasu.xyz:47001?sni=uk001.yijiasu.xyz#V1-%E8%8B%B1%E5%9B%BD01
-trojan://1aa598bb-8e74-45ac-8824-782f4724e7f4@df.xiguajiasu.xyz:46001?sni=us001.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD01
-trojan://1aa598bb-8e74-45ac-8824-782f4724e7f4@df.xiguajiasu.xyz:43002?sni=hk002.yijiasu.xyz#V1-%E9%A6%99%E6%B8%AF02
-trojan://1aa598bb-8e74-45ac-8824-782f4724e7f4@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC01
-trojan://1aa598bb-8e74-45ac-8824-782f4724e7f4@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102
 
 20240607@qq.com    极简   苹果电脑用6.1到期
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKRqumfqeWbvTEiLA0KICAiYWRkIjogIjEzLndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjEzIiwNCiAgImlkIjogImU3Njg4YmE2LTZjNWEtM2Y1NS04YzlmLTM5OTgxOGMwN2FkNiIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
