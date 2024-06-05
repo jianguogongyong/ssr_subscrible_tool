@@ -1,14 +1,17 @@
 ios专用
  临时飞毯6.1到期
-vmess://YXV0bzphNmZlNTE4OC0yZTA0LTNjMWQtOWIwNy05YjY2NWRlYmVjMWVAdGFuei1oay4wMWJ5eDMxcXpuLmRvd25sb2FkOjM1MDEw?remarks=V2%20%7C%20%E9%A6%99%E6%B8%AF%2002%20%7C%20%E8%A7%A3%E9%94%81&obfs=none&alterId=0
+
 ejtoct@163.com苹果爬墙1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDRhMGNjMi0zNDdjLTQ5MzQtOTc3Ni0yNzMxMWRkMjI5MzZAaGtzMDEuYmlncGluZ3MuY29tOjExODgw#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFS01-M
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDRhMGNjMi0zNDdjLTQ5MzQtOTc3Ni0yNzMxMWRkMjI5MzZAdHdzMDEuYmlncGluZ3MuY29tOjI4NzQx#%E5%8F%B0%E6%B9%BES01-M
 
 西瓜7.3到期
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101chatgpt1
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101chatgpt1
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC02chatgpt2
+trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101gpt1
+trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102gpt2
+trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC01gpt1
+trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC02gpt2
+trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:46002?sni=us002.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD02gpt2
+trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:46002?sni=us002.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD02gpt2
 
 5634526@qq.com 苹果电脑 7.1到期的 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKRoOaWsOWKoOWdoWNoYXRncHQxIiwNCiAgImFkZCI6ICIzLndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjAzIiwNCiAgImlkIjogIjFmNmJjN2U0LTE5NWQtMzlmNS04MmJkLTM1NDVmMTI4ZjVjYyIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
