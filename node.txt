@@ -6,30 +6,9 @@ trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@120.232.233.217:18147?sni=k36.tudo
 trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@120.232.233.217:21178?sni=k37.tudou211.com#V2-%E6%96%B0%E5%8A%A0%E5%9D%A102%E2%88%A3K37
 trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@120.232.233.217:21135?sni=k1.tudou211.com#V1-%E9%A6%99%E6%B8%AF01%E2%88%A3K1
 trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@103.6.220.71:21154?sni=k29.tudou211.com#V2-%E8%8B%B1%E5%9B%BD01%E2%88%A3K29%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
-土豆  7.19
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@103.6.220.71:21012?sni=k46.tudou211.com#V2-%E6%B3%B0%E5%9B%BD02%E2%88%A3K46
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@103.6.220.71:21346?sni=k45.tudou211.com#V2-%E6%B3%B0%E5%9B%BD01%E2%88%A3K45
 
 20250207  mite   年账号，2个月重置下订阅 9,1重置
-
-vless://bm9uZTo0NUQwRjJBQi1FOUQyLTQxMTgtQTI5My1GNzU5MUYxQkVGRTVAdXMzLnNwZWVkLW1pdGNlLnRvcDoxMDAwMw?remarks=US3&obfs=none&tls=1&peer=s0.awsstatic.com&xtls=2&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b
 vless://bm9uZTo0NUQwRjJBQi1FOUQyLTQxMTgtQTI5My1GNzU5MUYxQkVGRTVAdXM1LnNwZWVkLW1pdGNlLnRvcDoxMDAwNQ?remarks=US5&obfs=none&tls=1&peer=s0.awsstatic.com&xtls=2&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b
-
-土豆
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@103.6.220.71:21188?sni=k25.tudou211.com#V1-%E5%BE%B7%E5%9B%BD01%E2%88%A3K25
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@103.6.220.71:21126?sni=k26.tudou211.com#V1-%E5%BE%B7%E5%9B%BD02%E2%88%A3K26
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@103.6.220.71:21154?sni=k29.tudou211.com#V2-%E8%8B%B1%E5%9B%BD01%E2%88%A3K29
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@103.6.220.71:21179?sni=k30.tudou211.com#V2-%E8%8B%B1%E5%9B%BD02%E2%88%A3K30
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@103.6.220.71:21181?sni=k31.tudou211.com#V2-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A01%E2%88%A3K31
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@103.6.220.71:21079?sni=k32.tudou211.com#V2-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A02%E2%88%A3K32
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@103.6.220.71:21168?sni=k56.tudou211.com#V2-%E5%8D%B0%E5%B0%BC01%E2%88%A3K56
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@103.6.220.71:21362?sni=k57.tudou211.com#V2-%E5%8D%B0%E5%B0%BC02%E2%88%A3K57
-
-
-20250207  mite   年账号，2个月重置下订阅  9,1重置
-vless://bm9uZTo0NUQwRjJBQi1FOUQyLTQxMTgtQTI5My1GNzU5MUYxQkVGRTVAc2cyLnNwZWVkLW1pdGNlLnRvcDoxMDAxMg?remarks=SG2&obfs=none&tls=1&peer=s0.awsstatic.com&xtls=2&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b
-vless://bm9uZTo0NUQwRjJBQi1FOUQyLTQxMTgtQTI5My1GNzU5MUYxQkVGRTVAc2c2LnNwZWVkLW1pdGNlLnRvcDoxMDA0NQ?remarks=SG6&obfs=none&tls=1&peer=s0.awsstatic.com&xtls=2&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b
-vless://bm9uZTo0NUQwRjJBQi1FOUQyLTQxMTgtQTI5My1GNzU5MUYxQkVGRTVAc2c3LnNwZWVkLW1pdGNlLnRvcDoxMDA0Ng?remarks=SG7&obfs=none&tls=1&peer=s0.awsstatic.com&xtls=2&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b
 
 土豆   8.1
 trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@120.232.233.217:21146?sni=k11.tudou211.com#V2-%E6%97%A5%E6%9C%AC01%E2%88%A3K11
@@ -38,6 +17,35 @@ trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@103.6.220.71:21179?sni=k30.tudou21
 trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@103.6.220.71:21012?sni=k46.tudou211.com#V2-%E6%B3%B0%E5%9B%BD02%E2%88%A3K46
 trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@120.232.233.217:21048?sni=k51.tudou211.com#V2-%E8%B6%8A%E5%8D%9701%E2%88%A3K51
 trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@120.232.233.217:21003?sni=k15.tudou211.com#V2-%E9%9F%A9%E5%9B%BD02%E2%88%A3K15%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
+
+20250207  mite   年账号，2个月重置下订阅  9,1重置
+vless://bm9uZTo0NUQwRjJBQi1FOUQyLTQxMTgtQTI5My1GNzU5MUYxQkVGRTVAc2cyLnNwZWVkLW1pdGNlLnRvcDoxMDAxMg?remarks=SG2&obfs=none&tls=1&peer=s0.awsstatic.com&xtls=2&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b
+vless://bm9uZTo0NUQwRjJBQi1FOUQyLTQxMTgtQTI5My1GNzU5MUYxQkVGRTVAc2c2LnNwZWVkLW1pdGNlLnRvcDoxMDA0NQ?remarks=SG6&obfs=none&tls=1&peer=s0.awsstatic.com&xtls=2&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b
+vless://bm9uZTo0NUQwRjJBQi1FOUQyLTQxMTgtQTI5My1GNzU5MUYxQkVGRTVAc2c3LnNwZWVkLW1pdGNlLnRvcDoxMDA0Ng?remarks=SG7&obfs=none&tls=1&peer=s0.awsstatic.com&xtls=2&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b
+5-14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YzVlY2JiNS04ZTllLTQ1YjctOGEwYi02MDQwMzYzYjRhNGRAenowMS52cG42Njg4LmNvbToxMTI5Mg#%E6%96%B0%E5%8A%A0%E5%9D%A114%E6%9E%81
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZjE1MDZmYS1jZDU2LTQ4ZDctYTQ5Ny1lMzAxMzA4MDQ0YmFAenowMS52cG42Njg4LmNvbToxMTI5Mg#%E6%96%B0%E5%8A%A0%E5%9D%A113%E6%9E%81
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YjI0NzhkZC02ZDA1LTRjYzQtODYxYy04ODU1MDNjMmNkYzVAenowMS52cG42Njg4LmNvbToxNzk1NA#%E6%96%B0%E5%8A%A0%E5%9D%A111%E6%9E%81
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMzU2ODg4ZS00ZDdlLTRlN2ItOTAzNC05NzA2MDBjMzkxYTJAenowMS52cG42Njg4LmNvbTo0ODI2OA#%E8%8B%B1%E5%9B%BD11%E6%9E%81
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzM2YmY5YS0wMWMyLTQ1ODEtYjJlYi04NTQ5ZTQyY2JjNjhAenowMS52cG42Njg4LmNvbTo0ODI2OA#%E8%8B%B1%E5%9B%BD10%E6%9E%81
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODA4NzY3OC0zMGM3LTQ5ZGEtOWQ4Ni0yOWVkZmViMzlmZjhAenowMy52cG42Njg4LmNvbTo2MTY4MA#%E6%97%A5%E6%9C%AC9%E6%9E%81
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OWNhYzRhNy02YTIwLTQxNjEtYTgzNi04Zjg2ZTEyYjA4ZGJAenowMy52cG42Njg4LmNvbTo2MTY4MA#%E6%97%A5%E6%9C%AC8%E6%9E%81
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MDBkNTJhMS1hYjRmLTQzN2QtOGJmMi00OTBjMjA4YTY2NDJAenowMi52cG42Njg4LmNvbTo2MTY4MA#%E6%97%A5%E6%9C%AC7%E6%9E%81
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYzQ2NTZlYS1jYTBhLTQ2NDctYWRmOC1iNTY2MGUzNzkzNjVAenowMi52cG42Njg4LmNvbTo2MTY4MA#%E6%97%A5%E6%9C%AC6%E6%9E%81
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NjhlMWQyZC02YzBlLTQ3YzAtYjQ1Mi05MWIzNTI1ZWUwNGZAenowMS52cG42Njg4LmNvbTo2MTY4MA#%E6%97%A5%E6%9C%AC5%E6%9E%81
+14
+trojan://ed99f8f7-c83b-4188-83f8-bd2cf65869b4@zz2.yuzhou889.top:37048?allowInsecure=1&tfo=1#%E8%B6%8A%E5%8D%971814
+trojan://859958e6-ef6a-4164-b5d9-6a01b51af1e8@zz2.yuzhou889.top:37048?allowInsecure=1&tfo=1#%E8%B6%8A%E5%8D%972814
+trojan://927a3132-e89a-4031-b323-a52cb61f6ed7@zz2.yuzhou889.top:37050?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD3814
+trojan://5405570c-1e40-4142-8e27-3513fabdf5f4@zz2.yuzhou889.top:37050?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD4814
+trojan://494e87e2-00d5-4ede-891a-d9fa2d06b02b@zz2.yuzhou889.top:37050?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD5814
+trojan://e33f5614-5231-477d-b091-999ba9b902ee@zz2.yuzhou889.top:37050?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD6814
+trojan://2fccf09b-a1c5-41c6-945b-039ca82fb174@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC714
+trojan://36b59daa-4b65-4ef0-829f-ac23ccea7752@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC8814
+trojan://1c1e1fb1-51f7-4f7f-939a-9e553e8afa51@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC10814
+trojan://698bb10f-dd5b-4ff3-9465-7e89671eb53e@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC9814
+trojan://315b85e1-4f18-4af6-9c37-a015ee745feb@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC11814
+trojan://2ea37ba6-3901-466f-92f1-f3a516e0812f@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC12814
 
 
 54677  苹果飞毯8.30，文字说明
