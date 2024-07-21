@@ -22,7 +22,7 @@ trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@120.232.233.217:21003?sni=k15.tudo
 vless://bm9uZTo0NUQwRjJBQi1FOUQyLTQxMTgtQTI5My1GNzU5MUYxQkVGRTVAc2cyLnNwZWVkLW1pdGNlLnRvcDoxMDAxMg?remarks=SG2&obfs=none&tls=1&peer=s0.awsstatic.com&xtls=2&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b
 vless://bm9uZTo0NUQwRjJBQi1FOUQyLTQxMTgtQTI5My1GNzU5MUYxQkVGRTVAc2c2LnNwZWVkLW1pdGNlLnRvcDoxMDA0NQ?remarks=SG6&obfs=none&tls=1&peer=s0.awsstatic.com&xtls=2&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b
 vless://bm9uZTo0NUQwRjJBQi1FOUQyLTQxMTgtQTI5My1GNzU5MUYxQkVGRTVAc2c3LnNwZWVkLW1pdGNlLnRvcDoxMDA0Ng?remarks=SG7&obfs=none&tls=1&peer=s0.awsstatic.com&xtls=2&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b
-5-9
+5-14极速
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NjhlMWQyZC02YzBlLTQ3YzAtYjQ1Mi05MWIzNTI1ZWUwNGZAenowMy52cG42Njg4LmNvbTo2NDgwOA#%E5%8F%B0%E6%B9%BE05%E6%9E%81
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYzQ2NTZlYS1jYTBhLTQ2NDctYWRmOC1iNTY2MGUzNzkzNjVAenowMS52cG42Njg4LmNvbTo2NDgwOA#%E5%8F%B0%E6%B9%BE6%E6%9E%81
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MDBkNTJhMS1hYjRmLTQzN2QtOGJmMi00OTBjMjA4YTY2NDJAenowMS52cG42Njg4LmNvbTo2NDgwOA#%E5%8F%B0%E6%B9%BE7%E6%9E%81
@@ -33,19 +33,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMzU2ODg4ZS00ZDdlLTRlN2ItOTAzNC05NzA2MDBjMzk
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YjI0NzhkZC02ZDA1LTRjYzQtODYxYy04ODU1MDNjMmNkYzVAenowMi52cG42Njg4LmNvbTo2NDgwOA#%E5%8F%B0%E6%B9%BE12%E6%9E%81
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZjE1MDZmYS1jZDU2LTQ4ZDctYTQ5Ny1lMzAxMzA4MDQ0YmFAenowMS52cG42Njg4LmNvbTo2NDgwOA#%E5%8F%B0%E6%B9%BE13%E6%9E%81
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YzVlY2JiNS04ZTllLTQ1YjctOGEwYi02MDQwMzYzYjRhNGRAenowMS52cG42Njg4LmNvbTo2NDgwOA#%E5%8F%B0%E6%B9%BE14%E6%9E%81
-14
-trojan://ed99f8f7-c83b-4188-83f8-bd2cf65869b4@zz2.yuzhou889.top:37048?allowInsecure=1&tfo=1#%E8%B6%8A%E5%8D%971814
-trojan://859958e6-ef6a-4164-b5d9-6a01b51af1e8@zz2.yuzhou889.top:37048?allowInsecure=1&tfo=1#%E8%B6%8A%E5%8D%972814
-trojan://927a3132-e89a-4031-b323-a52cb61f6ed7@zz2.yuzhou889.top:37050?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD3814
-trojan://5405570c-1e40-4142-8e27-3513fabdf5f4@zz2.yuzhou889.top:37050?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD4814
-trojan://494e87e2-00d5-4ede-891a-d9fa2d06b02b@zz2.yuzhou889.top:37050?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD5814
-trojan://e33f5614-5231-477d-b091-999ba9b902ee@zz2.yuzhou889.top:37050?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD6814
-trojan://2fccf09b-a1c5-41c6-945b-039ca82fb174@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC714
-trojan://36b59daa-4b65-4ef0-829f-ac23ccea7752@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC8814
-trojan://1c1e1fb1-51f7-4f7f-939a-9e553e8afa51@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC10814
-trojan://698bb10f-dd5b-4ff3-9465-7e89671eb53e@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC9814
-trojan://315b85e1-4f18-4af6-9c37-a015ee745feb@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC11814
-trojan://2ea37ba6-3901-466f-92f1-f3a516e0812f@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC12814
+7个 可可813和814合并
+trojan://ee0cdebe-ab6c-4a0f-ac79-8029b8c1f386@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%ACi7
+trojan://9d2729d7-3a26-4365-99f1-4538da464eb7@zz1.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%ACi8
+trojan://36d0e73b-0249-40dc-aba4-01cc873dbaad@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%ACi10
+trojan://60f86dbe-357f-4575-8e94-52c008a68a99@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%ACi12
+trojan://ed99f8f7-c83b-4188-83f8-bd2cf65869b4@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1i814
+trojan://859958e6-ef6a-4164-b5d9-6a01b51af1e8@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC2i814
+trojan://315b85e1-4f18-4af6-9c37-a015ee745feb@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC11i814
 
 
 54677  苹果飞毯8.30，文字说明
@@ -72,35 +67,18 @@ ss://YWVzLTEyOC1nY206ODRhMmYxYTMtODdlMS00OGI4LWI5YjMtYWU0YWU0Y2Y3NWJiQGFnb29nbGV
 6772727@qq.com  极简8.1到期
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIui/nuaOpeedgOaIkeabtOaWsOiuoumYhTEiLA0KICAiYWRkIjogIjMud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDMiLA0KICAiaWQiOiAiNTc2ZWQ5MjItZjcxYy0zNGM1LTg2NTMtMzA4NDI1YjhiMzc1IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIui/nuaOpeedgOaIkeabtOaWsOiuoumYhTIiLA0KICAiYWRkIjogIjEzLndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjEzIiwNCiAgImlkIjogIjU3NmVkOTIyLWY3MWMtMzRjNS04NjUzLTMwODQyNWI4YjM3NSIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
-淘宝
-trojan://0150f8dd-163f-42f2-a021-349f1b072e8c@ac.dagouyun.xyz:33001?allowInsecure=1&peer=sg001.dagouyun.xyz&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1100
+淘宝 闪电猫810和821分别2个线路
 vmess://YXV0bzo0MzMyZTlhMi1jZDliLTNiMDMtYjVjOC01ZTMzZjgwYmE3OTdAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMTAz?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1500&obfs=none&alterId=0
 vmess://YXV0bzo0MzMyZTlhMi1jZDliLTNiMDMtYjVjOC01ZTMzZjgwYmE3OTdAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMDA0?remarks=D%E6%97%A5%E6%9C%AC500&obfs=none&alterId=0
+vmess://YXV0bzpjNTZkOWQ1Ni03Y2YyLTM2ZmQtODNiNi04MjlhZTI2ZTBmYzlAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMDA0?remarks=D%E6%97%A5%E6%9C%AC1502&obfs=none&alterId=0
+trojan://ed99f8f7-c83b-4188-83f8-bd2cf65869b4@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1i814
 
-
-备用
-
-trojan://a61dc273-ee4b-4574-be4e-42f34c5f8bce@zz1.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC3i
-trojan://f7173146-f7d1-49a6-b7f4-8c0c5d9dedc8@zz2.yuzhou889.top:37046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BEi4
-trojan://9ac2a965-fc23-4b76-8c20-20902de28f04@zz1.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1i5
-trojan://ee0cdebe-ab6c-4a0f-ac79-8029b8c1f386@zz2.yuzhou889.top:37048?allowInsecure=1&tfo=1#%E8%B6%8A%E5%8D%97i7
-trojan://9d2729d7-3a26-4365-99f1-4538da464eb7@zz1.yuzhou889.top:37048?allowInsecure=1&tfo=1#%E8%B6%8A%E5%8D%971i8
-trojan://74bbfb11-d7d2-49c2-a4b8-8c2df7115436@zz1.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1i9
-trojan://36d0e73b-0249-40dc-aba4-01cc873dbaad@zz2.yuzhou889.top:37048?allowInsecure=1&tfo=1#%E8%B6%8A%E5%8D%97i10
-trojan://b077bf15-d785-40ba-ab4a-255279a56100@zz2.yuzhou889.top:37046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BEi11
-trojan://60f86dbe-357f-4575-8e94-52c008a68a99@zz2.yuzhou889.top:37048?allowInsecure=1&tfo=1#%E8%B6%8A%E5%8D%97i12
-
-备用线路
-trojan://7ec47baf-c5f8-49e9-94fd-a0039ad84467@zz1.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E5%AE%891
-trojan://f121376c-cc9d-42a5-ac04-9b2b5e9dbb55@zz1.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E5%AE%892
-trojan://4d54a2fc-d9be-42b0-85e5-27ead69f8277@zz1.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E5%AE%894
-trojan://c6b0566e-8880-4bd3-b44d-6cdfa54a9dde@zz1.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E5%AE%893
-trojan://d1222102-42d9-477e-9fb6-a4debd7b4393@zz2.yuzhou889.top:37049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD%E5%AE%895
-trojan://f0b6c02b-63af-454b-8ccc-ad82dc52486c@zz2.yuzhou889.top:37049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD%E5%AE%896
-trojan://f4073907-fae5-4871-bb7f-ffef1f11603a@zz2.yuzhou889.top:37049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD%E5%AE%897
-trojan://c02cca7c-2bdf-41d5-9587-b80bccf2befa@zz2.yuzhou889.top:37048?allowInsecure=1&tfo=1#%E8%B6%8A%E5%8D%97%E5%AE%898
-trojan://b8a98473-e615-4764-9710-67917dfcb548@zz2.yuzhou889.top:37048?allowInsecure=1&tfo=1#%E8%B6%8A%E5%8D%97%E5%AE%899
-trojan://c938958c-0de3-43e6-a7ef-44bf7e4cb2b1@zz2.yuzhou889.top:37048?allowInsecure=1&tfo=1#%E8%B6%8A%E5%8D%97%E5%AE%8910
-
+安卓名称可可
+trojan://f0b6c02b-63af-454b-8ccc-ad82dc52486c@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E5%AE%896
+trojan://f4073907-fae5-4871-bb7f-ffef1f11603a@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E5%AE%897
+trojan://c02cca7c-2bdf-41d5-9587-b80bccf2befa@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E5%AE%898
+trojan://b8a98473-e615-4764-9710-67917dfcb548@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E5%AE%899
+trojan://c938958c-0de3-43e6-a7ef-44bf7e4cb2b1@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E5%AE%8910
+trojan://d1222102-42d9-477e-9fb6-a4debd7b4393@zz2.yuzhou889.top:37045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E5%AE%895
 
 
