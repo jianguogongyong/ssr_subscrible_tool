@@ -1,4 +1,13 @@
 ios专用
+西瓜
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:53004?sni=vn004.yijiasu.xyz#V1-%E8%B6%8A%E5%8D%9704%7CNF%7CGPT
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42004?sni=sg004.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A104
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC01
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:43001?sni=hk001.yijiasu.xyz#V1-%E9%A6%99%E6%B8%AF01
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD03%7Copenai
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:46009?sni=us009.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD09%7Copenai
 土豆   8.31  土豆64356@qq.com  安卓。苹果。win。临时公用
 trojan://71a9199c-4d52-40a8-bdbc-bf359ea66a2e@120.232.233.217:21011?sni=k2.tudou211.com#V1-%E9%A6%99%E6%B8%AF02%E2%88%A3K2%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://71a9199c-4d52-40a8-bdbc-bf359ea66a2e@120.232.233.217:21042?sni=k3.tudou211.com#V1-%E9%A6%99%E6%B8%AF03%E2%88%A3K3%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
@@ -10,12 +19,6 @@ trojan://71a9199c-4d52-40a8-bdbc-bf359ea66a2e@120.232.233.217:63768?sni=k72.tudo
 trojan://71a9199c-4d52-40a8-bdbc-bf359ea66a2e@120.232.233.217:20820?sni=k71.tudou211.com#V2-%E8%8B%B1%E5%9B%BD03%E2%88%A3K71%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://71a9199c-4d52-40a8-bdbc-bf359ea66a2e@120.232.233.217:21185?sni=k27.tudou211.com#V1-%E5%BE%B7%E5%9B%BD03%E2%88%A3K27%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://71a9199c-4d52-40a8-bdbc-bf359ea66a2e@120.232.233.217:21003?sni=k15.tudou211.com#V2-%E9%9F%A9%E5%9B%BD02%E2%88%A3K15%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
-小二加速
-ss://YWVzLTI1Ni1nY206MmFmZmQwYzEtYTViNC00YzFjLTg4MDAtZmIyZjg2NjYyNmU3QHp6aDIuZ291ZXJzdS50b3A6NDcwODE#%E9%A6%99%E6%B8%AF02
-ss://YWVzLTI1Ni1nY206MmFmZmQwYzEtYTViNC00YzFjLTg4MDAtZmIyZjg2NjYyNmU3QHp6aDEuZ291ZXJzdS50b3A6NDcwODY#%E6%96%B0%E5%8A%A0%E5%9D%A101
-ss://YWVzLTI1Ni1nY206MmFmZmQwYzEtYTViNC00YzFjLTg4MDAtZmIyZjg2NjYyNmU3QHp6aDEuZ291ZXJzdS50b3A6MTAyNDA#%E9%9F%A9%E5%9B%BD01
-ss://YWVzLTI1Ni1nY206MmFmZmQwYzEtYTViNC00YzFjLTg4MDAtZmIyZjg2NjYyNmU3QHp6aDEuZ291ZXJzdS50b3A6NDcwODI#%E5%8F%B0%E6%B9%BE01
-ss://YWVzLTI1Ni1nY206MmFmZmQwYzEtYTViNC00YzFjLTg4MDAtZmIyZjg2NjYyNmU3QHp6aDEuZ291ZXJzdS50b3A6NDcwODM#%E6%97%A5%E6%9C%AC01
 20250207  mite   年账号，2个月重置下订阅 9,1重置
 vless://bm9uZTo0NUQwRjJBQi1FOUQyLTQxMTgtQTI5My1GNzU5MUYxQkVGRTVAdXM1LnNwZWVkLW1pdGNlLnRvcDoxMDAwNQ?remarks=US5&obfs=none&tls=1&peer=s0.awsstatic.com&xtls=2&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b
 20250207  mite   年账号，2个月重置下订阅  9,1重置
