@@ -80,6 +80,11 @@ vmess://YXV0bzoxMmVmYjQxNC0yYjlhLTMzMzgtOTY4MC1lMGY5NWJmMDY0ZGRAYmdwMS5iZ3AxLmFr
 vmess://YXV0bzo4ZWJlMThlZC05OGI0LTNhNWItYjdmYy1iOWRmNTI0YWNmZjhAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMDAz?remarks=C%E6%96%B0%E5%8A%A0%E5%9D%A14&obfs=none&alterId=0
 vmess://YXV0bzplM2I0NzZmOC1lYWZkLTM0NWYtYjNjOC05OTQyNzM1MDcyMjBAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMDAz?remarks=C%E6%96%B0%E5%8A%A0%E5%9D%A12&obfs=none&alterId=0
 vmess://YXV0bzo1MmYxODhjYy00NTZjLTMzMDYtYjZjMC0wODdhYjQyMzI4ZDlAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMDAz?remarks=C%E6%96%B0%E5%8A%A0%E5%9D%A11&obfs=none&alterId=0
+不吃草的 西瓜的
+trojan://0a4bccb7-d475-4fd3-aa6e-0038b658303d@df.xiguajiasu.xyz:41002?allowInsecure=1&peer=jp002.yijiasu.xyz&tfo=1#V1-%E6%97%A5%E6%9C%AC02%7CNF%E4%B8%93%E7%94%A8%E7%89%9B
+trojan://0a4bccb7-d475-4fd3-aa6e-0038b658303d@df.xiguajiasu.xyz:41001?allowInsecure=1&peer=jp001.yijiasu.xyz&tfo=1#V1-%E6%97%A5%E6%9C%AC01%7CNF%E4%B8%93%E7%94%A8%E7%89%9B
+trojan://0a4bccb7-d475-4fd3-aa6e-0038b658303d@df.xiguajiasu.xyz:42001?allowInsecure=1&peer=sg001.yijiasu.xyz&tfo=1#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101%7CNF%E4%B8%93%E7%94%A8%E7%89%9B
+trojan://0a4bccb7-d475-4fd3-aa6e-0038b658303d@df.xiguajiasu.xyz:42002?allowInsecure=1&peer=sg002.yijiasu.xyz&tfo=1#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102%7CNF%E4%B8%93%E7%94%A8%E7%89%9B
 11到22
 trojan://7293835b-90f9-4ac4-b808-a07c7a8233fe@hainiu2.yuzhou889.top:19050?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD1
 trojan://85a43835-77aa-422d-9374-9c1b447a8c3f@hainiu.yuzhou889.top:19045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1
