@@ -1,13 +1,17 @@
 ios专用
-西瓜
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:53004?sni=vn004.yijiasu.xyz#V1-%E8%B6%8A%E5%8D%9704%7CNF%7CGPT
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42004?sni=sg004.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A104
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC01
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:43001?sni=hk001.yijiasu.xyz#V1-%E9%A6%99%E6%B8%AF01
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD03%7Copenai
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:46009?sni=us009.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD09%7Copenai
+快速云1个
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTczZWQ3My03N2E5LTRhNmEtOTgwYi00N2ZmOTVkYTA5ZjVAenowMS5hYmI2NjguY29tOjMyNTYz#%E6%97%A5%E6%9C%AC01
+极速云20到11反的
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZmE3YWZkMC1lZWIzLTQ1YTItYjA5ZC1hOGIyZTNkMmJiMjRAenowMS52cG42Njg4LmNvbToxNTQ1Mg#%E6%97%A5%E6%9C%AC01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MWRhOWYxZi00M2YyLTQ1NTgtOTMwZi0wZGQ3ZTRiZGYzNTJAenowMS52cG42Njg4LmNvbToxNTQ1Mg#%E6%97%A5%E6%9C%AC02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN2MzOTBjNi03OGE5LTQ5MzctOTVmMC1hZTVjZTkwYjA3NzJAenowMi52cG42Njg4LmNvbToxNTQ1Mg#%E6%97%A5%E6%9C%AC03
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTY2ZTljYy05OGM5LTRkYjItOWYyNC1lODkwZTdlMWI2YThAenowMi52cG42Njg4LmNvbToxNTQ1Mg#%E6%97%A5%E6%9C%AC04
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2FmMWUxMS1jOGE3LTQ5YmYtYWNiNi1iNjYwMDA3OGUyOThAenowMy52cG42Njg4LmNvbToxNTQ1Mg#%E6%97%A5%E6%9C%AC05
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTEwYzRmNi1iZGJiLTQ4ZmMtYmMyZS04NGZmYTYxYjA2MjVAenowMS52cG42Njg4LmNvbToxNzY3Mg#%E6%96%B0%E5%8A%A0%E5%9D%A101
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODUzZjM3Mi0xNDczLTRkMGYtYTcyYi1jY2FiNTM0M2YzZWRAenowMS52cG42Njg4LmNvbToxNzY3Mg#%E6%96%B0%E5%8A%A0%E5%9D%A102
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMzA5YTg5ZS02OTFlLTQ5ZTMtOGNkNi01ZWJhNGI1MjFmYjZAenowMi52cG42Njg4LmNvbToxNzY3Mg#%E6%96%B0%E5%8A%A0%E5%9D%A103
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTQxYjMzNy1lMmM0LTQ0ZmQtYjlkNy1hYjhhYjY2NDkzMWRAenowMi52cG42Njg4LmNvbToxNzY3Mg#%E6%96%B0%E5%8A%A0%E5%9D%A104
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NDkwNDEzOC00MzYxLTQ0OGMtOTAzYi1lZTdiZmY0ODU1Y2JAenowMy52cG42Njg4LmNvbToxNzY3Mg#%E6%96%B0%E5%8A%A0%E5%9D%A105
 土豆   8.31  土豆64356@qq.com  安卓。苹果。win。临时公用
 trojan://71a9199c-4d52-40a8-bdbc-bf359ea66a2e@shcm082.rennn.ren:21110?sni=k18.tudou211.com#V1-%E7%BE%8E%E5%9B%BD01%E2%88%A3K18%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://71a9199c-4d52-40a8-bdbc-bf359ea66a2e@103.6.220.71:21019?sni=k21.tudou211.com#V2-%E7%BE%8E%E5%9B%BD01%E2%88%A3K21%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
@@ -69,11 +73,7 @@ vmess://YXV0bzoxMmVmYjQxNC0yYjlhLTMzMzgtOTY4MC1lMGY5NWJmMDY0ZGRAYmdwMS5iZ3AxLmFr
 vmess://YXV0bzo4ZWJlMThlZC05OGI0LTNhNWItYjdmYy1iOWRmNTI0YWNmZjhAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMDAz?remarks=C%E6%96%B0%E5%8A%A0%E5%9D%A14&obfs=none&alterId=0
 vmess://YXV0bzplM2I0NzZmOC1lYWZkLTM0NWYtYjNjOC05OTQyNzM1MDcyMjBAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMDAz?remarks=C%E6%96%B0%E5%8A%A0%E5%9D%A12&obfs=none&alterId=0
 vmess://YXV0bzo1MmYxODhjYy00NTZjLTMzMDYtYjZjMC0wODdhYjQyMzI4ZDlAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMDAz?remarks=C%E6%96%B0%E5%8A%A0%E5%9D%A11&obfs=none&alterId=0
-不吃草的 西瓜的
-trojan://0a4bccb7-d475-4fd3-aa6e-0038b658303d@df.xiguajiasu.xyz:41002?allowInsecure=1&peer=jp002.yijiasu.xyz&tfo=1#V1-%E6%97%A5%E6%9C%AC02%7CNF%E4%B8%93%E7%94%A8%E7%89%9B
-trojan://0a4bccb7-d475-4fd3-aa6e-0038b658303d@df.xiguajiasu.xyz:41001?allowInsecure=1&peer=jp001.yijiasu.xyz&tfo=1#V1-%E6%97%A5%E6%9C%AC01%7CNF%E4%B8%93%E7%94%A8%E7%89%9B
-trojan://0a4bccb7-d475-4fd3-aa6e-0038b658303d@df.xiguajiasu.xyz:42001?allowInsecure=1&peer=sg001.yijiasu.xyz&tfo=1#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101%7CNF%E4%B8%93%E7%94%A8%E7%89%9B
-trojan://0a4bccb7-d475-4fd3-aa6e-0038b658303d@df.xiguajiasu.xyz:42002?allowInsecure=1&peer=sg002.yijiasu.xyz&tfo=1#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102%7CNF%E4%B8%93%E7%94%A8%E7%89%9B
+
 11到22
 trojan://7293835b-90f9-4ac4-b808-a07c7a8233fe@hainiu2.yuzhou889.top:19050?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD1
 trojan://85a43835-77aa-422d-9374-9c1b447a8c3f@hainiu.yuzhou889.top:19045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1
