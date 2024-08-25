@@ -1,13 +1,11 @@
 ios专用
-土豆
+土豆土豆   8.31  土豆64356@qq.com  安卓。苹果。win。临时公用
 trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@103.6.220.71:21019?sni=k21.tudou211.com#V2-%E7%BE%8E%E5%9B%BD01%E2%88%A3K21%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@103.6.220.71:18147?sni=k36.tudou211.com#V2-%E6%96%B0%E5%8A%A0%E5%9D%A101%E2%88%A3K36%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@103.6.220.71:21178?sni=k37.tudou211.com#V2-%E6%96%B0%E5%8A%A0%E5%9D%A102%E2%88%A3K37%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@103.6.220.71:21170?sni=k39.tudou211.com#V2-%E6%96%B0%E5%8A%A0%E5%9D%A104%E2%88%A3K39%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@103.6.220.71:21135?sni=k1.tudou211.com#V1-%E9%A6%99%E6%B8%AF01%E2%88%A3K1%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@103.6.220.71:21011?sni=k2.tudou211.com#V1-%E9%A6%99%E6%B8%AF02%E2%88%A3K2%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
-trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@103.6.220.71:21004?sni=k7.tudou211.com#V2-%E5%8F%B0%E6%B9%BE01%E2%88%A3K7%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
-trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@103.6.220.71:21083?sni=k9.tudou211.com#V2-%E5%8F%B0%E6%B9%BE02%E2%88%A3K9%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@120.232.217.96:21146?sni=k11.tudou211.com#V2-%E6%97%A5%E6%9C%AC01%E2%88%A3K11%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@120.232.217.96:16233?sni=k73.tudou211.com#V2-%E6%97%A5%E6%9C%AC03%E2%88%A3K73%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@120.232.217.96:21183?sni=k42.tudou211.com#V1-%E6%97%A5%E6%9C%AC03%E2%88%A3K42%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
@@ -17,55 +15,22 @@ trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@120.232.217.96:21603?sni=k61.tudou
 trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@120.232.217.96:21275?sni=k64.tudou211.com#V3-%E7%BE%8E%E5%9B%BD04%E2%88%A3K64%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@120.232.217.96:21328?sni=k67.tudou211.com#V3-%E7%BE%8E%E5%9B%BD07%E2%88%A3K67%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@120.232.217.96:21324?sni=k66.tudou211.com#V3-%E7%BE%8E%E5%9B%BD06%E2%88%A3K66%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
-土豆   8.31  土豆64356@qq.com  安卓。苹果。win。临时公用
-
 20250207  mite   年账号，2个月重置下订阅 9,1重置
-vless://bm9uZTo0NUQwRjJBQi1FOUQyLTQxMTgtQTI5My1GNzU5MUYxQkVGRTVAdXM1LnNwZWVkLW1pdGNlLnRvcDoxMDAwNQ?remarks=US5&obfs=none&tls=1&peer=s0.awsstatic.com&xtls=2&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b
-20250207  mite   年账号，2个月重置下订阅  9,1重置
-vless://bm9uZTo0NUQwRjJBQi1FOUQyLTQxMTgtQTI5My1GNzU5MUYxQkVGRTVAc2cyLnNwZWVkLW1pdGNlLnRvcDoxMDAxMg?remarks=SG2&obfs=none&tls=1&peer=s0.awsstatic.com&xtls=2&pbk=dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM&sid=01fc5e98a68e5e7b
-文字说明 极速云10到1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNmNkNzkwYi1kNTBlLTQyNjgtYThkMC02NWRhYTg3MGNkY2FAenowMS52cG42Njg4LmNvbToxNTQ1Mg#%E6%AF%8F%E6%97%A5%E8%BF%9E%E6%8E%A5%E5%89%8D%E8%AF%B7%E5%8F%B3%E6%BB%91
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNTgwNmI2Yy1jM2RiLTQxMjgtYTg0OC01MDc5YTgxODQ2MDhAenowMS52cG42Njg4LmNvbToxNTQ1Mg#%E6%9C%80%E4%B8%8A%E6%96%B9%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E2%80%9C%E6%9B%B4%E6%96%B0%E2%80%9D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZjViZDAyNC1lOWUyLTQ1NzEtYTlkNy1iYjU0ZDQ1OGI3ODJAenowMi52cG42Njg4LmNvbToxNTQ1Mg#%E6%97%A0%E6%B3%95%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmY0OTAzNS04ZTNiLTQ1NDYtYjQzMS1jMmUyZGUwOTE4NGZAenowMi52cG42Njg4LmNvbToxNTQ1Mg#%E4%BB%BB%E6%84%8F%E6%9C%89%E6%95%88%E7%BA%BF%E8%B7%AF%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTI0OTY0NS01MTc0LTRjNTAtOWMwNC01NzAwMTEyYjhkOGZAenowMy52cG42Njg4LmNvbToxNTQ1Mg#%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%AF%B7%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NzYxOWUwZC1kNmUyLTRjZDEtYmQ3NS0xNTUyOGU3ODA5NDNAenowMy52cG42Njg4LmNvbToxNTQ1Mg#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp://985.so/bmgac
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMGZlMGUzMi0xNDI2LTRhZmQtYmE1Ni0zOWFkMmQ5MDJkNGNAenowMS52cG42Njg4LmNvbToxNzY3Mg#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4OTliYzdkOS02MGI5LTQ5MzktYTMyZi1mM2M3ODdkOTNlOTRAenowMS52cG42Njg4LmNvbToxNzY3Mg#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzZkN2U1NC02ZmQxLTQ1NGMtYmMyMy1hODkyNDAzY2YwMjZAenowMS52cG42Njg4LmNvbToxNzY3Mg#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%BD%AC%E5%8F%91/%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjczNTc4MC02ZjY5LTQ2ZjItODNhZi1kMGM5NDk2ZjQxYTVAenowMS52cG42Njg4LmNvbToxNTQ1Mg#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
-红杏63457@qq.com 和安卓公用
 
-乱七八子 前面2个pro
-trojan://c336688f-0790-32a6-a215-e3bd57a382d6@35107.mlvip789.xyz:35107?peer=eplcgame.com#%E6%96%B0%E5%8A%A0%E5%9D%A1-SG-01%7CChatGPT1
-trojan://1aaa7323-f65b-3428-9977-4a11aae44b2d@35108.mlvip789.xyz:35108?peer=eplcgame.com#%E6%96%B0%E5%8A%A0%E5%9D%A1-SG-02%7CChatGPT2
-40到29编号的海
-trojan://0a7ccf2b-dcec-47cb-8009-dffbafa7ade5@hainiu.yuzhou889.top:19044?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF40
-trojan://f4642264-ca76-441f-97e9-48358cd36245@hainiu.yuzhou889.top:19044?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF1
-trojan://a12b1658-a1b0-4570-812c-d2a2d198682e@hainiu.yuzhou889.top:19045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC
-trojan://3b615084-0c25-495b-942f-e1e2f9d5d9bb@hainiu.yuzhou889.top:19045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1
-trojan://829f2e51-8dbd-4d56-aabd-a860ba5e4f08@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE
-trojan://63e2bce1-2105-40a7-8cb6-770c3cf74359@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE35
-trojan://b7969fa6-5fd5-415c-8cf8-7ed3135b1b50@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A
-trojan://4e139632-4317-4198-96ea-85be754095a7@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A1
-trojan://0faff685-1a7f-48df-8530-ffcdf1e8c207@hainiu.yuzhou889.top:19048?allowInsecure=1&tfo=1#%E8%B6%8A%E5%8D%97
-trojan://e9be4f95-ac84-4ad5-a6d5-a9d99d8a5eab@hainiu.yuzhou889.top:19048?allowInsecure=1&tfo=1#%E8%B6%8A%E5%8D%971
-trojan://eb229af0-27a7-43be-b597-835bc55c4497@hainiu.yuzhou889.top:19045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC30
-30号到16号海
-trojan://c88a68a4-6758-453b-9457-876506901d13@hainiu.yuzhou889.top:19044?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF
-trojan://9165647d-faba-47d7-8ba1-3b7d81a40b70@hainiu.yuzhou889.top:19044?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF1
-trojan://ffeee454-185e-455e-abb1-eaf3fb4a4e19@hainiu.yuzhou889.top:19045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC
-trojan://b0e45b2d-a69b-4051-af61-c51d1f0f3fae@hainiu.yuzhou889.top:19045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1
-trojan://abcbebd4-d5d9-4059-9073-67a799101a2b@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE25
-trojan://02d873c7-9eb6-45bc-a729-8608e699182d@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE1
-trojan://6039ffe5-5d26-4040-a923-5e46e2e29fcb@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A1
-trojan://c8d2c95b-6813-4e4d-be24-b56b9f34bb9d@hainiu2.yuzhou889.top:19050?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD1
-trojan://28a067fd-a1c0-4dab-ac88-95050f02a4aa@hainiu.yuzhou889.top:19044?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF
-trojan://d6d80e3f-92b1-4c59-a0e1-3f7eb24e5fbe@hainiu.yuzhou889.top:19045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC
-trojan://efa0d1b9-c335-45cf-bfc4-659bb51d4911@hainiu.yuzhou889.top:19045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1
-trojan://5d9f38dd-9c5d-442b-bbe4-9deb36eb43a0@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A20
-trojan://a8aac80e-2881-4ec1-928b-7881a1fa519c@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE
-trojan://9a7ba29c-0ea1-4bed-ad26-4f669c0d2ef1@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE1
+文字说明 80到69 海
+trojan://cdb4102a-1a3f-46b9-a680-509ba7e90435@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E6%AF%8F%E6%97%A5%E8%BF%9E%E6%8E%A5%E5%89%8D%E8%AF%B7%E5%8F%B3%E6%BB%91
+trojan://a2e7508f-fc9c-4780-a9f7-3efe6810c197@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E6%9C%80%E4%B8%8A%E6%96%B9%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E2%80%9C%E6%9B%B4%E6%96%B0%E2%80%9D
+trojan://344c9b78-c90e-4867-b3aa-8f3c4ae41967@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E6%88%96%E8%80%85%E7%82%B9%E8%BD%AC%E7%9B%98%E5%9B%BE%E6%A0%87%E6%9B%B4%E6%96%B0
+trojan://dd8a50e5-c7a0-4547-ad5a-9a2cf8d29a1d@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%AF%B7%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2
+trojan://844910d1-2000-4c01-b054-7392c67504b8@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E6%97%A0%E6%B3%95%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80
+trojan://64c89aa2-5f34-4d68-97c6-a5435ebc9db8@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E4%BB%BB%E6%84%8F%E6%9C%89%E6%95%88%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0
+trojan://2423d767-abb8-4c54-8892-3334cac56b09@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp://985.so/bmgac
+trojan://3ad466d5-7777-434a-8deb-fcb3d0f7fc70@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
+trojan://1d4bc95d-b13e-420c-99bc-b03737079f43@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E9%9C%80chatgpt4.0%E7%8B%AC%E4%BA%AB%E5%8F%B7%E8%81%94%E7%B3%BB%E5%AE%A2%E6%9C%8D
+trojan://506bffb9-01ba-4649-893e-48c20ee492e3@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%BD%AC%E5%8F%91/%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
+trojan://7979806e-07ba-4295-87f1-05c8979035bd@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
+trojan://d0baf12a-0587-47d1-b5bd-a05dbede9ef2@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
+
 5个闪电猫下面是插进去的
 vmess://YXV0bzo5NDlmM2Y4Zi04ZjdlLTNlNTItYTc3Ny0xYTdhNWJkZWY5NDRAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMDAz?remarks=C%E6%96%B0%E5%8A%A0%E5%9D%A15&obfs=none&alterId=0
 vmess://YXV0bzoxMmVmYjQxNC0yYjlhLTMzMzgtOTY4MC1lMGY5NWJmMDY0ZGRAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMDAz?remarks=C%E6%96%B0%E5%8A%A0%E5%9D%A13&obfs=none&alterId=0
@@ -96,3 +61,38 @@ ss://YWVzLTI1Ni1nY206N2YzN2M4NmItYjU4Yi00MTliLThmYzYtMzZjYTUzZDViYjM5QHp6aDIuZ29
 ss://YWVzLTI1Ni1nY206N2YzN2M4NmItYjU4Yi00MTliLThmYzYtMzZjYTUzZDViYjM5QHp6aDMuZ291ZXJzdS50b3A6NDcwODY#%E6%96%B0%E5%8A%A0%E5%9D%A103
 ss://YWVzLTI1Ni1nY206N2YzN2M4NmItYjU4Yi00MTliLThmYzYtMzZjYTUzZDViYjM5QHp6aDIuZ291ZXJzdS50b3A6NDcwODI#%E5%8F%B0%E6%B9%BE02
 ss://YWVzLTI1Ni1nY206N2YzN2M4NmItYjU4Yi00MTliLThmYzYtMzZjYTUzZDViYjM5QHp6aDIuZ291ZXJzdS50b3A6NDcwODM#%E6%97%A5%E6%9C%AC02
+68到41的海
+trojan://b7e16b85-741a-4cde-9419-bca4f9847448@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE1
+trojan://e0292abb-575d-4730-8a3e-15e301249432@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE1
+trojan://05f6f8eb-2221-418c-ad3e-598b3c00c94c@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE1
+trojan://cd42b146-ce4d-48a4-9bc3-1d11070408b0@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE1
+trojan://8f04da86-6b07-406f-9750-9b476a4a693d@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE1
+trojan://ab7664f9-080a-48f8-8f97-6b2cf8d8985d@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE1
+trojan://db8e1087-372c-4eb1-8560-91a274a038e1@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE1
+trojan://5ad5cb8a-8af0-4d85-95d6-687fd5f64920@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE1
+trojan://393ff97b-561a-4b83-b652-891b9af1701b@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A
+trojan://d30cf547-88a2-472a-9c1d-7866a3983eb1@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A
+trojan://45d0695b-3cf0-46aa-bbbb-0e0bb8932790@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A
+trojan://a287b682-4c9f-46d8-91b8-f7d6eeea2296@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A1
+trojan://12fe06f3-746f-4612-9ef5-179a272b1d6f@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A
+trojan://1860efd2-67ea-43c5-aaf8-a965e76c4bde@hainiu.yuzhou889.top:19045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1
+trojan://b5b8d27d-07f9-4dbe-abda-92f1c92a24a6@hainiu.yuzhou889.top:19045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC
+trojan://02d520bd-1892-42b1-a3d2-98280bd94cca@hainiu.yuzhou889.top:19045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC
+trojan://57916a74-5705-46ed-871d-ac03726bd6e2@hainiu.yuzhou889.top:19045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1
+trojan://3c5f52cc-e995-471a-819e-3c901682be01@hainiu.yuzhou889.top:19045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1
+trojan://551b0909-0228-4cb6-9c21-221e840bbf5d@hainiu.yuzhou889.top:19044?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF1
+trojan://335af1f6-143b-4481-85f1-d07b19832339@hainiu.yuzhou889.top:19044?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF1
+trojan://86209d28-b2db-4235-baca-c1fd58a8be08@hainiu.yuzhou889.top:19045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1
+trojan://bff23ca3-87e1-4ec5-9d90-11abcf2b66f1@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE
+trojan://2a2fce7d-5e3f-4394-b08e-7c35857baabe@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE1
+trojan://040d2e9a-f073-4036-820b-6a1308f7e575@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A
+trojan://6c64410f-28e7-4e75-b954-8b9a31e306db@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A1
+trojan://28c96bec-3b42-4e25-a434-19c5090b9387@hainiu.yuzhou889.top:19048?allowInsecure=1&tfo=1#%E8%B6%8A%E5%8D%97
+trojan://70cdd6ba-0bef-4733-a883-00643be05b5f@hainiu.yuzhou889.top:19044?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF1
+trojan://72cd81b8-64dd-4863-9b50-3df251c999b6@hainiu.yuzhou889.top:19046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE1
+trojan://b7e16b85-741a-4cde-9419-bca4f9847448@hainiu.yuzhou889.top:19047?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A
+9.1日的自由猫电脑用的
+ss://YWVzLTEyOC1nY206NWI1MzBkOGMtOTFjYi00OTVjLTk0MjEtYWIyMTZlMjQ3ZDJhQGFsaWJhYmExLnhuLS16N3gxNmJmNnQuY29tOjM3Mzk5#%F0%9F%87%AD%F0%9F%87%B0%20AP%E9%A6%99%E6%B8%AF2-1%20%7C%20%E6%B5%81%E8%A7%A3
+幸运2个号6677 7788
+trojan://a7e22d2b-31a2-41f5-a36e-3c1a09c50896@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE-%E5%8E%9F%E7%94%9F%E8%A7%A3%E9%94%81-tw1
+trojan://acbe430c-94bf-4ff3-af1b-ee744b38d871@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-%E5%8E%9F%E7%94%9F%E8%A7%A3%E9%94%81-jp3
