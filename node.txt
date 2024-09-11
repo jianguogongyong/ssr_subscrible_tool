@@ -2,7 +2,6 @@ ios专用
 9985766@qq.com9月30日土豆
 trojan://91c8b34b-b257-4cd1-9f36-ee3e4cc62bcb@103.6.220.71:40037?sni=k5.tudou211.com#%E6%AF%8F%E6%97%A5%E4%BD%BF%E7%94%A8%E5%89%8D%E8%AF%B7%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
 trojan://91c8b34b-b257-4cd1-9f36-ee3e4cc62bcb@103.6.220.71:33955?sni=k6.tudou211.com#%E6%AF%8F%E6%97%A5%E4%BD%BF%E7%94%A8%E5%89%8D%E8%AF%B7%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
-飞毯56355?
 trojan://91c8b34b-b257-4cd1-9f36-ee3e4cc62bcb@103.6.220.71:21019?sni=k21.tudou211.com#%E6%96%AD%E5%BC%80%E6%9B%B4%E6%96%B0%E6%98%BE%E7%A4%BA%E5%A4%B1%E8%B4%A5%E7%9A%84
 trojan://91c8b34b-b257-4cd1-9f36-ee3e4cc62bcb@103.6.220.71:21135?sni=k1.tudou211.com#%F0%9F%89%91%E8%BF%9E%E6%8E%A5%E7%9D%80%E4%BB%BB%E6%84%8F%E6%9C%89%E6%95%88%E7%BA%BF%E8%B7%AF%E6%9B%B4%E6%96%B0
 trojan://91c8b34b-b257-4cd1-9f36-ee3e4cc62bcb@103.6.220.71:21011?sni=k2.tudou211.com#%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E5%8F%AF%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2
@@ -19,7 +18,37 @@ trojan://91c8b34b-b257-4cd1-9f36-ee3e4cc62bcb@103.6.220.71:21185?sni=k27.tudou21
 trojan://91c8b34b-b257-4cd1-9f36-ee3e4cc62bcb@103.6.220.71:21181?sni=k31.tudou211.com#V2-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A01%E2%88%A3K31%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://91c8b34b-b257-4cd1-9f36-ee3e4cc62bcb@120.232.217.96:21012?sni=k46.tudou211.com#V2-%E6%B3%B0%E5%9B%BD02%E2%88%A3K46%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://91c8b34b-b257-4cd1-9f36-ee3e4cc62bcb@120.232.217.96:21275?sni=k64.tudou211.com#V3-%E7%BE%8E%E5%9B%BD04%E2%88%A3K64%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
-飞毯 64665?
+第二批 30个
+trojan://82755216-a56f-4a20-a4e0-27cbabb30a27@gd-hk.okk520.top:19805?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-%E8%A7%A3%E9%94%81Gpt
+trojan://4b269610-9acb-4647-95b6-b9d0327252cf@nb.okk520.top:19804?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF-%E5%8E%9F%E7%94%9F%E8%A7%A3%E9%94%81-hk3
+trojan://ccfc2762-8313-4611-90b4-93358cfa5d06@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF-%E5%8E%9F%E7%94%9F%E8%A7%A3%E9%94%81-hk2
+trojan://a56640a3-d526-4e67-9c06-92ad2aa46f23@gd-hk.okk520.top:19803?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1-sg2
+trojan://57734f15-2966-4a02-843e-9a2c527e0dec@nb.okk520.top:19804?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF-%E5%8E%9F%E7%94%9F%E8%A7%A3%E9%94%81-hk3
+trojan://27da36a1-d354-4a1c-93eb-8eeea71c8f40@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF-%E5%8E%9F%E7%94%9F%E8%A7%A3%E9%94%81-hk2
+trojan://a6b6ff3d-8e5b-44e1-b506-1d8b79c5c313@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE-%E8%A7%A3%E9%94%81Gpt-Tok-tw1
+trojan://bf8ce9fe-bbad-41f9-9556-d3fb24477812@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us1
+trojan://2a0e5638-a8b7-4029-976d-063bb9e9e0c1@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp2
+trojan://75a29f8c-254a-4b2f-8db5-f0dc6770ed7e@gd-hk.okk520.top:19803?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1-sg2
+trojan://9e39d77d-a39b-41fe-8133-d746e4b9f16f@gd-hk.okk520.top:19803?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1-sg2
+trojan://3d078b70-2eb4-4a25-a355-40f7b3a88b1f@gd-hk.okk520.top:19803?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1-sg1
+trojan://c58d9ce8-e7fa-4b31-8ba5-824a7244fdec@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp3
+trojan://31e86049-de90-4220-9450-379ca61a9d1f@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp2
+trojan://c328e741-4ea9-4d46-a827-8ccbcf3ec9a5@gd-hk.okk520.top:19803?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1-sg1
+trojan://783d426b-b62f-4690-a4a1-126ea02fafb6@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp2
+trojan://195df03a-2258-4102-915b-e0b4932e7d83@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp1
+trojan://d242c92c-01da-4407-addf-ddd582ad3547@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us1
+trojan://fb9d86cf-315a-4fcb-8a67-5e91e569c940@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us3
+trojan://1d2cd8fb-edd3-423f-b955-2868004f5064@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp2
+trojan://cba42e40-6218-4a15-b4cc-eafd1fd1092c@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp1
+trojan://2f7aa9b4-f0a7-4964-9f34-d1d6eb8bf2dc@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE-%E8%A7%A3%E9%94%81Gpt-Tok-tw1
+trojan://98955d85-1543-4470-90ea-1df9a083841a@gd-hk.okk520.top:19803?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1-sg2
+trojan://206fa2ee-9534-408a-a659-8a94a30c9ec5@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp3
+trojan://f5d0431e-623d-4636-a165-d904cc624de6@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp2
+trojan://e2c806a1-ec52-41b6-a369-5d655ab6a550@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us3
+trojan://1474bd57-a668-44b6-b59c-cd8102a0f16f@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us2
+trojan://a080df97-62a7-4be2-a785-9a86879bfbcc@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us1
+trojan://0e75aace-2e5a-43d4-b7d0-10f420d15a72@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us1
+trojan://e3132bf1-34b5-46aa-9770-e6d78c5d6e1a@gd-hk.okk520.top:19803?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1-sg1
 Xyun新10到1，80到61
 trojan://605931d7-77c2-4a42-b22e-82c761e3dc3e@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-%E5%8E%9F%E7%94%9F%E8%A7%A3%E9%94%81-us1
 trojan://fd4ddcf8-4316-40b3-aeca-fca3616c88ff@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-%E5%8E%9F%E7%94%9F%E8%A7%A3%E9%94%81-us2
@@ -51,11 +80,6 @@ trojan://aa1a5ee8-ced9-486b-a484-0951a7529a0e@nb.okk520.top:19804?allowInsecure=
 trojan://cfa04d3d-7f6e-4548-89a9-106c0572151c@gd-hk.okk520.top:19805?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-%E5%8E%9F%E7%94%9F%E8%A7%A3%E9%94%81
 trojan://db3dbb82-2745-4200-800a-c727a95da2d3@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-%E5%8E%9F%E7%94%9F%E8%A7%A3%E9%94%81-us2
 20250207  mite   年账号，2个月重置下订阅 9,1重置
-海62-59
-trojan://5ad5cb8a-8af0-4d85-95d6-687fd5f64920@hainiu.yuzhou889.top:19044?allowInsecure=1&peer=www.baidu.com&tfo=1#%E9%A6%99%E6%B8%AF
-trojan://393ff97b-561a-4b83-b652-891b9af1701b@hainiu.yuzhou889.top:19044?allowInsecure=1&peer=www.baidu.com&tfo=1#%E9%A6%99%E6%B8%AF1
-trojan://d30cf547-88a2-472a-9c1d-7866a3983eb1@hainiu.yuzhou889.top:19045?allowInsecure=1&peer=www.baidu.com&tfo=1#%E6%97%A5%E6%9C%AC
-trojan://db8e1087-372c-4eb1-8560-91a274a038e1@hainiu.yuzhou889.top:19046?allowInsecure=1&peer=www.baidu.com&tfo=1#%E5%8F%B0%E6%B9%BE1
 5个闪电猫下面是插进去的 暂时删除
 2580968796    安卓    有佣金50 2个线路的 9.1最晚 流量不多了  555GB/394GB 2ge mashang shanchude 
 银杏连接我2个 电脑clash的
