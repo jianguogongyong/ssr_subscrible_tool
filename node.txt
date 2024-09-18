@@ -162,14 +162,6 @@ trojan://fb9d86cf-315a-4fcb-8a67-5e91e569c940@nb.okk520.top:19801?allowInsecure=
 trojan://1d2cd8fb-edd3-423f-b955-2868004f5064@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp2
 trojan://cba42e40-6218-4a15-b4cc-eafd1fd1092c@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp1
 trojan://2f7aa9b4-f0a7-4964-9f34-d1d6eb8bf2dc@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE-%E8%A7%A3%E9%94%81Gpt-Tok-tw1
-trojan://98955d85-1543-4470-90ea-1df9a083841a@gd-hk.okk520.top:19803?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1-sg2
-trojan://206fa2ee-9534-408a-a659-8a94a30c9ec5@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp3
-trojan://f5d0431e-623d-4636-a165-d904cc624de6@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp2
-trojan://e2c806a1-ec52-41b6-a369-5d655ab6a550@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us3
-trojan://1474bd57-a668-44b6-b59c-cd8102a0f16f@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us2
-trojan://a080df97-62a7-4be2-a785-9a86879bfbcc@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us1
-trojan://0e75aace-2e5a-43d4-b7d0-10f420d15a72@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us1
-trojan://e3132bf1-34b5-46aa-9770-e6d78c5d6e1a@gd-hk.okk520.top:19803?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1-sg1
 
 20250207  mite   年账号，2个月重置下订阅 9,1重置
 5个闪电猫下面是插进去的 暂时删除
