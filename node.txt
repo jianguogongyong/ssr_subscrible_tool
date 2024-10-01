@@ -1,7 +1,4 @@
 ios专用
-马上删除极简 国庆快乐
-vmess://YXV0bzo4YmU4MjRkNy0zNzI0LTNhNTMtOGZiYS0wNWY5NmRmNjUzYTFANS53b2dnMS50b3A6MTEyMDU?remarks=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%BF%AB%E4%B9%90%E6%B5%8B%E8%AF%951&alterId=2
-vmess://YXV0bzo2YWM5ZmFhNS0yMzQ0LTM1OTEtYjZiMi04NTQ0YjZkYTg1NWJANi53b2dnMS50b3A6MTEyMDY?remarks=%E5%9B%BD%E5%BA%86%E4%B8%8D%E6%89%93%E7%83%8A%F0%9F%89%91%EF%B8%8F%E7%BB%AD%E8%B4%B9%E6%B5%8B%E8%AF%952&alterId=2
 1027土豆文字说明ios
 trojan://dc1122fe-de00-413c-857b-9a685748fe74@103.6.220.71:21194?sni=k38.tudou211.com#%E6%AF%8F%E6%97%A5%E4%BD%BF%E7%94%A8%E5%89%8D%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
 trojan://dc1122fe-de00-413c-857b-9a685748fe74@103.6.220.71:21170?sni=k39.tudou211.com#%E5%8F%B3%E6%BB%91%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E6%9B%B4%E6%96%B0%E6%88%96%E7%82%B9%E5%9C%86%E8%BD%AC%E7%9B%98
@@ -23,44 +20,6 @@ trojan://dc1122fe-de00-413c-857b-9a685748fe74@120.232.217.96:63768?sni=k72.tudou
 trojan://dc1122fe-de00-413c-857b-9a685748fe74@120.232.217.96:21328?sni=k67.tudou211.com#V3-%E7%BE%8E%E5%9B%BD07%E2%88%A3K67%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://dc1122fe-de00-413c-857b-9a685748fe74@103.6.220.71:21031?sni=k54.tudou211.com#V2-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A02%E2%88%A3K54%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://dc1122fe-de00-413c-857b-9a685748fe74@120.232.217.96:63768?sni=k72.tudou211.com#V2-%E8%8B%B1%E5%9B%BD04%E2%88%A3K72%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
-Xyun，第二批的前面 准备删除的
-trojan://35cd8172-4753-4bdf-a5e0-1956f246f6c6@gd-hk.okk520.top:19808?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD-%E8%A7%A3%E9%94%81gpt-1
-trojan://4f127293-c4c6-44b0-8344-0aceb6e23197@gd-hk.okk520.top:19808?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD-%E8%A7%A3%E9%94%81gpt-1
-trojan://b68b2d45-413c-45b7-a785-8174879ece77@gd-hk.okk520.top:19808?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD-%E8%A7%A3%E9%94%81gpt-1
-trojan://77b11cf2-57f9-4ff4-b913-74d8014abd20@gd-hk.okk520.top:19812?allowInsecure=1&tfo=1#%E5%8D%B0%E5%BA%A6-%E8%A7%A3%E9%94%81gpt-1
-trojan://e06714f9-3349-4a83-b08b-7fed56ce6783@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp1
-trojan://e5905f8d-e7b6-4551-accb-69faff946b0f@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp2
-trojan://d2fa3ffa-246b-4bc0-9955-3d79b9ae28a7@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE-tw2
-trojan://ad39d3d4-35c6-4dd1-b518-935d78363d45@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF-hk1
-trojan://8e39baee-7cbe-4c4f-843e-567597ed49ad@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us1
-trojan://4bfec550-96a2-47a8-8744-b1c89718a04e@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us2
-trojan://77aaf1cd-a5ea-4081-8f29-21ac5b2bc2cb@gd-hk.okk520.top:19803?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1--sg1
-trojan://a61b135e-945e-43f1-9125-324d84b5fb47@gd-hk.okk520.top:19810?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-%E8%A7%A3%E9%94%81gpt-1
-trojan://a8289215-2aa4-4b6d-b4f3-a76200ed6b80@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us1
-trojan://43019121-82c1-49ad-be3b-5b0572219ad9@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp1
-trojan://8d2fd8ef-1c08-4b28-976b-966680184561@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp2
-trojan://d167a7e0-5b33-448a-b5a5-9642f45addc6@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE-tw1
-trojan://7ae285dd-7588-4524-968e-c46ab0b9fef1@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE-tw2
-trojan://c81341f9-8cfe-4a1f-8295-a39c61aa1797@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF-hk1
-trojan://d12bc199-1146-4d0a-8c28-26faf2d104c4@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF-hk2
-trojan://ade1c533-b9fc-40ff-a1ee-39a8cde1ca71@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us1
-trojan://6b26ce6b-22b7-4e38-971e-b31f86041d15@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us2
-trojan://12108878-46bd-452d-9437-1aa9d152ed7d@gd-hk.okk520.top:19803?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1--sg1
-trojan://a39753d6-6294-4862-bf67-ac757e9fd145@gd-hk.okk520.top:19803?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1-sg2
-trojan://3b88e809-ae3d-4f84-af73-e7289ecf1f22@gd-hk.okk520.top:19810?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-%E8%A7%A3%E9%94%81gpt-1
-trojan://741c913d-511f-4335-86b0-7034640f6cd7@gd-hk.okk520.top:19811?allowInsecure=1&tfo=1#%E8%8B%B1%E5%9B%BD-%E8%A7%A3%E9%94%81gpt-1
-trojan://c36f46b9-4c3e-44ad-b855-6c35a72d9c26@gd-hk.okk520.top:19805?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-%E8%A7%A3%E9%94%81gpt-1
-trojan://3ae6e0db-bb70-4650-b1d7-20c4740c0e2c@gd-hk.okk520.top:19810?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-%E8%A7%A3%E9%94%81gpt-1
-trojan://9b72cbba-dc45-4a8a-b3bf-78975b154c50@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp1
-trojan://68b9c247-92be-4843-9f79-cb6fc0e8bc20@nb.okk520.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp2
-trojan://24113bcb-8b62-484b-a9d4-0c4a1a4533d7@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE-tw1
-trojan://f7035f44-1ef1-4620-91c5-6c6a48672701@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE-tw2
-trojan://8b122b56-df54-48d9-b2d9-4a9efc9eaeba@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF-hk1
-trojan://882d205f-097a-41ad-9095-ae1a2a11d4a8@gd-hk.okk520.top:19804?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF-hk2
-trojan://446e706f-4997-4a48-8d26-d6326161bc9f@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us1
-trojan://db853925-2628-4ac1-94c9-782236163ceb@nb.okk520.top:19801?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD-us2
-trojan://a55a28dc-34ff-4f6a-a3b3-760f7e49767b@gd-hk.okk520.top:19803?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1--sg1
-trojan://90741724-3234-4bda-8bf7-3d7f36d6dbed@gd-hk.okk520.top:19803?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1-sg2
 3到20第一批
 trojan://01636f55-2e5c-45bb-a732-5e0c2117e3ed@new.mangguo2019.top:19805?allowInsecure=1&tfo=1#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-%E8%A7%A3%E9%94%81gpt-1
 trojan://be36e8e2-7f85-40c8-b78c-158fcf8a4a08@new.mangguo2019.top:19811?allowInsecure=1&tfo=1#%E8%8B%B1%E5%9B%BD-%E8%A7%A3%E9%94%81gpt-1
@@ -81,8 +40,8 @@ trojan://9defb8a1-82d1-4933-b29f-84a594834774@new.mangguo2019.top:19810?allowIns
 trojan://de273340-4c63-443f-9332-1cdc626283da@new.mangguo2019.top:19803?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1--sg1
 trojan://e4a4ea95-4ad4-4be8-9e81-45d57fca4866@new.mangguo2019.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp1
 21到50 第二批
-trojan://0fac260e-f661-4f39-a9f6-9448003feee3@new.mangguo666.xyz:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp1
-trojan://20e1b579-446c-42d1-babe-cbb0d7d199ed@new.mangguo666.xyz:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp2
+trojan://0fac260e-f661-4f39-a9f6-9448003feee3@new.mangguo2019.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp1
+trojan://20e1b579-446c-42d1-babe-cbb0d7d199ed@new.mangguo2019.top:19802?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC-jp2
 trojan://edb50394-d6aa-4b7c-9381-fa908d7e9a67@new.mangguo2019.top:19804?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE-tw1
 trojan://22b93337-0696-4f72-bf5c-c5b58d59b409@new.mangguo2019.top:19804?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE-tw2
 trojan://810f0055-372d-41a6-9904-67ed04ee394e@new.mangguo2019.top:19804?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF-hk1
