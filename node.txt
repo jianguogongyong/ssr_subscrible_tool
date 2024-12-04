@@ -75,7 +75,3 @@ trojan://ffa68efa-e282-4fae-a4c4-5f1fdaa76d81@120.232.217.96:21148?sni=k63.tudou
 trojan://ffa68efa-e282-4fae-a4c4-5f1fdaa76d81@120.232.217.96:21183?sni=k42.tudou211.com#V1-%E6%97%A5%E6%9C%AC03%E2%88%A3K42%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://ffa68efa-e282-4fae-a4c4-5f1fdaa76d81@219.135.231.205:21011?sni=k2.tudou211.com#V1-%E9%A6%99%E6%B8%AF02%E2%88%A3K2%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://ffa68efa-e282-4fae-a4c4-5f1fdaa76d81@219.135.231.205:21178?sni=k37.tudou211.com#V2-%E6%96%B0%E5%8A%A0%E5%9D%A102%E2%88%A3K37%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
-
-52355@qq.com     6000g   前期停了6218GB/2365GB 未启用 最晚12月1日到期
-trojan://0060c32a-7033-4f26-83b7-a57d18a2e05e@0862.4a11.a51c.hongxingdl.vip:47119?allowInsecure=1&peer=hk01.8888c.cc&tfo=1#%E6%96%AD%E5%BC%80%E6%9B%B4%E6%96%B0%E5%A4%B1%E8%B4%A5%E7%9A%84%E7%94%A8%E6%88%B7
-trojan://0060c32a-7033-4f26-83b7-a57d18a2e05e@0862.4a11.a51c.hongxingdl.vip:55357?allowInsecure=1&peer=xjp01.8888c.cc&tfo=1#%F0%9F%89%91%EF%B8%8F%E8%BF%9E%E6%8E%A5%E7%9D%80%E6%88%91%E7%82%B9%E6%9B%B4%E6%96%B0
