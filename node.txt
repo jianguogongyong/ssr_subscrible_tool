@@ -1,4 +1,9 @@
 ios专用
+极简测试
+vmess://YXV0bzo3ZDhkZmVjYi1iOTNhLTM0ZGUtOThkNS0wNDcxNjc4NjhmNjFAMTYud29nZzEudG9wOjExMjE2?remarks=%E7%BE%8E%E5%9B%BD%E6%B5%8B%E8%AF%954&obfs=none&alterId=2
+vmess://YXV0bzo3ZDhkZmVjYi1iOTNhLTM0ZGUtOThkNS0wNDcxNjc4NjhmNjFAMTUud29nZzEudG9wOjExMjE1?remarks=gpt%E6%B5%8B%E8%AF%953&obfs=none&alterId=2
+vmess://YXV0bzo3ZDhkZmVjYi1iOTNhLTM0ZGUtOThkNS0wNDcxNjc4NjhmNjFAMTQud29nZzEudG9wOjExMjE0?remarks=gpt%E6%B5%8B%E8%AF%952&obfs=none&alterId=2
+vmess://YXV0bzo3ZDhkZmVjYi1iOTNhLTM0ZGUtOThkNS0wNDcxNjc4NjhmNjFAMTMud29nZzEudG9wOjExMjEz?remarks=gpt%E6%B5%8B%E8%AF%951&obfs=none&alterId=2
 ios  1.1土豆
 trojan://ffa68efa-e282-4fae-a4c4-5f1fdaa76d81@219.135.231.205:40037?sni=k5.tudou211.com#%E6%AF%8F%E6%97%A5%E8%BF%9E%E6%8E%A5%E5%89%8D%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
 trojan://ffa68efa-e282-4fae-a4c4-5f1fdaa76d81@219.135.231.205:18147?sni=k36.tudou211.com#%E7%82%B9%E5%9C%86%E8%BD%AC%E7%9B%98%E6%88%96%E5%8F%B3%E6%BB%91%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E6%9B%B4%E6%96%B0
