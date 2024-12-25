@@ -19,7 +19,7 @@ trojan://7daf833c-37b9-4afc-8495-96590f03f781@120.232.217.96:21015?sni=k43.tudou
 trojan://7daf833c-37b9-4afc-8495-96590f03f781@120.232.217.96:21056?sni=k14.tudou211.com#V2-%E9%9F%A9%E5%9B%BD01%E2%88%A3K14%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 
 
-光速云3期
+光速云3期 12.25
 trojan://b09027f5-acf9-4ab9-afca-eb4226f3117e@gs.huamao888.top:33345?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC02%7C%E8%A7%A3GPT%7C%E8%A7%A3NF%7C%E8%A7%A3TT
 trojan://81da3236-5131-4c9d-bc2b-6ddc9091c801@gs.huamao888.top:33345?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC02%7C%E8%A7%A3GPT%7C%E8%A7%A3NF%7C%E8%A7%A3TT
 trojan://28edc89e-df0d-4aba-9bd1-4549eb6ffd07@gs.huamao888.top:33345?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC02%7C%E8%A7%A3GPT%7C%E8%A7%A3NF%7C%E8%A7%A3TT
