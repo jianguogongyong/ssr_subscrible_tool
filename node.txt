@@ -1,4 +1,7 @@
 ios专用
+vmess://YXV0bzpiNGExYTcxMS05ZTA2LTNmOWItYjc1Ny0zNjA5YjI3NmNlMmFAMTUud29nZzEudG9wOjExMjE1?remarks=gpt%E6%B5%8B%E8%AF%95%E7%BA%BF%E8%B7%AF&obfs=none&alterId=2
+vmess://YXV0bzpiZDkwYWYxYi1jMzg3LTMyYzgtYTAwZC1lMGUwZjYxZTI5YWNAMTMud29nZzEudG9wOjExMjEz?remarks=%E6%B5%8B%E8%AF%952&obfs=none&alterId=2
+vmess://YXV0bzpiZDkwYWYxYi1jMzg3LTMyYzgtYTAwZC1lMGUwZjYxZTI5YWNAMTIud29nZzEudG9wOjExMjEy?remarks=chatgpt%E6%B5%8B%E8%AF%951&obfs=none&alterId=2
 879435098@qq.com季度6月14日到期 用到5.1日重置
 trojan://4e5c7598-0bc4-4578-9c45-efef68373673@xd-sh.timiwc.com:52047?sni=k11.tudou211.com#%E4%B8%BA%E7%A1%AE%E4%BF%9D%E9%80%9A%E8%AE%AF%E4%BF%A1%E6%81%AF%E7%BB%9D%E5%AF%B9%E5%AE%89%E5%85%A8%E4%BF%9D%E5%AF%86
 trojan://4e5c7598-0bc4-4578-9c45-efef68373673@xd-sh.timiwc.com:57793?sni=k18.tudou211.com#%E4%BF%9D%E5%AD%98%E5%BF%85%E8%A6%81%E4%BF%A1%E6%81%AF%E5%90%8E%E6%B8%85%E7%A9%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95
@@ -16,7 +19,24 @@ trojan://4e5c7598-0bc4-4578-9c45-efef68373673@219.135.231.205:21170?sni=k39.tudo
 trojan://4e5c7598-0bc4-4578-9c45-efef68373673@219.135.231.205:21011?sni=k2.tudou211.com#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1%2B%E7%A5%88%E7%A6%8F%EF%BC%81
 trojan://4e5c7598-0bc4-4578-9c45-efef68373673@219.135.231.205:21042?sni=k3.tudou211.com#skype%E5%85%AC%E5%8F%B8%E8%B0%83%E6%95%B4%E8%BD%AF%E4%BB%B6%E5%B7%B2%E5%81%9C%E6%9B%B4
 trojan://4e5c7598-0bc4-4578-9c45-efef68373673@120.232.217.96:16233?sni=k73.tudou211.com#%F0%9F%89%91%E6%A0%B9%E6%8D%AEskype%E6%8C%87%E5%BC%95%E6%B7%BB%E5%8A%A0Q%E5%AE%A2%E6%9C%8D
-果果8877 7799
+2期778899
+trojan://6ca935d7-a237-4c3f-9be4-37bd511a21fd@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD
+trojan://d8de8c30-23a6-4f71-93cd-2029af859550@bg.guangsu888.cc:21867?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E4%BA%8C%20isp%20%E8%A7%A3%E9%94%81openai
+trojan://0e53f5a4-d757-4851-a8f5-e93fa8d2b2dd@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD
+trojan://cefce7be-87d0-4492-b748-f4ea3b4d39cc@bg.guangsu888.cc:21868?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E4%B8%89%20isp%20%E8%A7%A3%E9%94%81openai
+trojan://6fd66988-8dce-459c-9014-daf177767595@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD1
+trojan://fd713fc0-32af-4a23-b60c-8064cf2fb768@bg.guangsu888.cc:21868?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E4%B8%89%20isp%20%E8%A7%A3%E9%94%81openai
+trojan://fd49a56b-7525-4549-aca8-20a79f527529@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD
+trojan://eef78475-5a00-4ef7-89ea-f95f75907f1d@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD1
+trojan://b9543442-9757-4e69-b933-77406fb17a0c@bg.guangsu888.cc:21869?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E5%9B%9B%20isp%20%E8%A7%A3%E9%94%81openai
+trojan://e294dfd7-44e2-465b-a927-d435e83d7a18@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD1
+trojan://7e4e4566-8bd2-4236-b4a2-4f2272031579@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD
+trojan://8e1a5074-0e7c-4155-8386-c3f20dc3d0f7@bg.guangsu888.cc:21869?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E5%9B%9B%20isp%20%E8%A7%A3%E9%94%81openai
+trojan://69f11195-0e5b-47c0-8a80-596d3bb61151@bg.guangsu888.cc:21864?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%E4%B8%80%20isp%20%E8%A7%A3%E9%94%81openai
+trojan://bf99fa5d-851a-45e5-9b57-690a5c92575b@bg.guangsu888.cc:21865?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%E4%BA%8C%20isp%20%E8%A7%A3%E9%94%81openai
+trojan://5e638dd6-35eb-4230-bcea-c877128709dd@bg.guangsu888.cc:21877?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%9A%A7%E9%81%93
+trojan://6264f69f-5174-496a-8123-5dd4375f1423@bg.guangsu888.cc:21868?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%E4%B8%89%20isp%20%E8%A7%A3%E9%94%81openai
+1期果果8877 7799
 trojan://d5abd5dc-2d1d-4562-8cf1-af09e57cedd4@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD
 trojan://7b57052a-7c07-4c66-b41c-83a4ab81656d@zz1.jckumao.cc:36045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1
 trojan://b81f40d3-abf9-4555-b464-fde579e10e1f@zz1.jckumao.cc:36050?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD1
