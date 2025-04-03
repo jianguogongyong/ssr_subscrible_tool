@@ -1,7 +1,4 @@
 ios专用
-vmess://YXV0bzpiNGExYTcxMS05ZTA2LTNmOWItYjc1Ny0zNjA5YjI3NmNlMmFAMTUud29nZzEudG9wOjExMjE1?remarks=gpt%E6%B5%8B%E8%AF%95%E7%BA%BF%E8%B7%AF&obfs=none&alterId=2
-vmess://YXV0bzpiZDkwYWYxYi1jMzg3LTMyYzgtYTAwZC1lMGUwZjYxZTI5YWNAMTMud29nZzEudG9wOjExMjEz?remarks=%E6%B5%8B%E8%AF%952&obfs=none&alterId=2
-vmess://YXV0bzpiZDkwYWYxYi1jMzg3LTMyYzgtYTAwZC1lMGUwZjYxZTI5YWNAMTIud29nZzEudG9wOjExMjEy?remarks=chatgpt%E6%B5%8B%E8%AF%951&obfs=none&alterId=2
 879435098@qq.com季度6月14日到期 用到5.1日重置
 trojan://4e5c7598-0bc4-4578-9c45-efef68373673@xd-sh.timiwc.com:52047?sni=k11.tudou211.com#%E4%B8%BA%E7%A1%AE%E4%BF%9D%E9%80%9A%E8%AE%AF%E4%BF%A1%E6%81%AF%E7%BB%9D%E5%AF%B9%E5%AE%89%E5%85%A8%E4%BF%9D%E5%AF%86
 trojan://4e5c7598-0bc4-4578-9c45-efef68373673@xd-sh.timiwc.com:57793?sni=k18.tudou211.com#%E4%BF%9D%E5%AD%98%E5%BF%85%E8%A6%81%E4%BF%A1%E6%81%AF%E5%90%8E%E6%B8%85%E7%A9%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95
