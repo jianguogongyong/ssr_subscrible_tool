@@ -1,4 +1,11 @@
 ios专用
+hongxiong
+trojan://fcac3d3c-6947-4c9e-a6a6-f29541aee1e6@wb.kaiqsz.com:12221?allowInsecure=1&peer=mmbiz.redapricotcloud.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%E6%B5%8B%E8%AF%951
+trojan://fcac3d3c-6947-4c9e-a6a6-f29541aee1e6@wb.kaiqsz.com:12221?allowInsecure=1&peer=mmbiz.redapricotcloud.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%E6%B5%8B%E8%AF%952
+trojan://fcac3d3c-6947-4c9e-a6a6-f29541aee1e6@wb.kaiqsz.com:48291?allowInsecure=1&peer=mmbiz1.redapricotcloud.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%B5%8B%E8%AF%95
+trojan://fcac3d3c-6947-4c9e-a6a6-f29541aee1e6@wb.kaiqsz.com:28713?allowInsecure=1&peer=mmbiz1.redapricotcloud.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC1%E6%B5%8B%E8%AF%95
+trojan://fcac3d3c-6947-4c9e-a6a6-f29541aee1e6@wb.kaiqsz.com:21489?allowInsecure=1&peer=mmbiz.redapricotcloud.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD1%E6%B5%8B%E8%AF%95
+sub://#%E6%9C%AC%E5%9C%B0%E8%8A%82%E7%82%B9
 879435098@qq.com季度6月14日到期 用到5.1日重置
 trojan://4e5c7598-0bc4-4578-9c45-efef68373673@xd-sh.timiwc.com:52047?sni=k11.tudou211.com#%E4%B8%BA%E7%A1%AE%E4%BF%9D%E9%80%9A%E8%AE%AF%E4%BF%A1%E6%81%AF%E7%BB%9D%E5%AF%B9%E5%AE%89%E5%85%A8%E4%BF%9D%E5%AF%86
 trojan://4e5c7598-0bc4-4578-9c45-efef68373673@xd-sh.timiwc.com:57793?sni=k18.tudou211.com#%E4%BF%9D%E5%AD%98%E5%BF%85%E8%A6%81%E4%BF%A1%E6%81%AF%E5%90%8E%E6%B8%85%E7%A9%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95
