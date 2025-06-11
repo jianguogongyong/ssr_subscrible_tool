@@ -24,6 +24,29 @@ trojan://0d93424a-95a0-4ee9-b33f-bfd2ba65a447@120.233.44.201:21603?sni=k61.tudou
 trojan://0d93424a-95a0-4ee9-b33f-bfd2ba65a447@120.233.44.201:26793?sni=k77.tudou211.com#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1%EF%BC%81
 
 9922guoguo67ge 9988
+trojan://07478412-4ec7-4d33-a9e7-66468527eb53@xg.jckumao.cc:36044?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF
+trojan://83fdd988-294f-4b43-9240-1b862a8d6162@xg.jckumao.cc:36044?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF1
+trojan://f11d476d-a572-43e0-9972-9e456863ad11@zz1.jckumao.cc:36045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC
+trojan://c59fb2e8-36e5-4add-9931-858d5498ecdd@zz1.jckumao.cc:36045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1
+trojan://60d0616d-3b01-4a2a-9598-c0d512023825@zz1.jckumao.cc:36046?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE
+trojan://731e91e0-7f41-4524-b9ca-227dd76f4b85@zz1.jckumao.cc:36050?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD1
+trojan://8e607ecb-3bcd-4e92-b5dd-67e70b59f51c@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD1
+trojan://a16384d8-23b8-4a41-b080-bb43a6f5555a@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD
+trojan://614d9baa-352f-496d-a821-e349e89e080a@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD1
+trojan://d3484243-6df5-4bf9-a095-759f8c1b6030@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD1
+trojan://46cf9484-2276-492d-b879-c54671a4c9ce@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD1
+trojan://0a103b02-979e-41f0-99d1-ee56c706393d@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD1
+trojan://cffb2209-ed8e-44e2-89b9-0abbdbea372f@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD
+trojan://d41e6d00-feb3-41e9-a31e-7b4c7a31d5d9@zz1.jckumao.cc:36050?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD1
+trojan://f37c4764-445c-4edd-810f-5e6a47a1a1da@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD
+trojan://5295494d-ab62-487d-bffe-16d080934a66@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD1
+trojan://d4deddc3-0383-4859-b822-f0f8f4974efe@zz1.jckumao.cc:36051?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD2
+trojan://950abf25-e62d-4d29-98d1-939ba64e579d@zz1.jckumao.cc:36052?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD3
+trojan://5f86df88-8240-4743-896e-cef547a00ee4@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD1
+trojan://c47b434e-ea23-4dea-971c-08f16bbd3bc9@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD1
+trojan://e92bcffb-877a-4ead-9cbb-38a4702c8d39@xg.jckumao.cc:36044?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF1
+trojan://c8a2f8b0-c5cf-451e-b95d-7d0c8fb49640@zz1.jckumao.cc:36045?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC1
+trojan://02f501df-b738-4e02-8269-6151d1f9fe77@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD1
 火山云
 vmess://YXV0bzoxMjI1MWU2Ni1iMjE0LTRjNmUtOWUzZC02MDU5NjYzOWY0NjdAd2x3aS5oc2lwaG9uZS50b3A6MTk1MDI?remarks=%E5%8F%B0%E6%B9%BE%E4%B8%A8%E8%A7%A3GPT&obfs=none&tfo=1&alterId=0
 vmess://YXV0bzplYjcxNTIwNi1hZjg1LTQxMjAtOTM5OC01NTY4Y2YxNDA2NzhAd2x3aS5oc2lwaG9uZS50b3A6MTk1MDE?remarks=%E9%A6%99%E6%B8%AF%2001%E3%80%90IEPL%E3%80%91&obfs=none&tfo=1&alterId=0
