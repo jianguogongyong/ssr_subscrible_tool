@@ -42,3 +42,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZWM5YWM2My0xZjMwLTQwYjktOTFlMC0wYzg0NjFjY2Z
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDhjMDY5Mi1lYTA1LTRjOTYtYTIxOS1lNTI4N2YwYmEyZmJAeGlhb3podS5ra2llbzU1NS5jbjozOTIxMQ#%E9%A6%99%E6%B8%AF2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmVjMWFiNC0zNGM5LTQyNjQtYmMwNy0xYTBkY2Y0NzNmZGVAeGlhb3podS5ra2llbzU1NS5jbjozMDIwMg#%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmVjMWFiNC0zNGM5LTQyNjQtYmMwNy0xYTBkY2Y0NzNmZGVAeGlhb3podS5ra2llbzU1NS5jbjozMDIwOA#%E8%8B%B1%E5%9B%BD
+泡跑
+trojan://edf13267-a7ab-4ef8-a2ea-a567bfcc1a9f@tuntro019.instconn.com:443?peer=tuntro019.instconn.com&tfo=1#DNVNM12%20%E7%94%B5%E4%BF%A1
+trojan://edf13267-a7ab-4ef8-a2ea-a567bfcc1a9f@tuntro013.instconn.com:443?peer=Mumbairm1.686911.xyz&tfo=1#DC%20%E5%8D%B0%E5%BA%A6%20068
+trojan://edf13267-a7ab-4ef8-a2ea-a567bfcc1a9f@tuntro012.instconn.com:443?peer=dibai.686911.xyz&tfo=1#DC%20%E8%BF%AA%E6%8B%9C%20%E7%94%B5%E4%BF%A1
+trojan://edf13267-a7ab-4ef8-a2ea-a567bfcc1a9f@tuntro010.instconn.com:443?peer=frankfurtrm2.686911.xyz&tfo=1#DCDE05%20%E8%81%94%E9%80%9A
+trojan://edf13267-a7ab-4ef8-a2ea-a567bfcc1a9f@tuntro009.instconn.com:443?peer=sgam2.686911.xyz&tfo=1#DCSG26%20%E8%81%94%E9%80%9A%7C%E7%A7%BB%E5%8A%A8
+trojan://edf13267-a7ab-4ef8-a2ea-a567bfcc1a9f@tuntro008.instconn.com:443?peer=sghostdzire.686911.xyz&tfo=1#DCSG20%20%E8%81%94%E9%80%9A%7C%E7%A7%BB%E5%8A%A8
+trojan://edf13267-a7ab-4ef8-a2ea-a567bfcc1a9f@tuntro006.instconn.com:443?peer=torontorm1.686911.xyz&tfo=1#DCUS080%20%E7%94%B5%E4%BF%A1
+trojan://edf13267-a7ab-4ef8-a2ea-a567bfcc1a9f@tuntro005.instconn.com:443?peer=Phoenixrm2.686911.xyz&tfo=1#DCUS003%20%E4%B8%89%E7%BD%91%E9%80%9A
+trojan://edf13267-a7ab-4ef8-a2ea-a567bfcc1a9f@tuntro003.instconn.com:443?peer=cherry.686911.xyz&tfo=1#DCJP001%20%E8%81%94%E9%80%9A
+trojan://edf13267-a7ab-4ef8-a2ea-a567bfcc1a9f@tuntro000.instconn.com:443?peer=hkip5.686911.xyz&tfo=1#DC%20HK%20001%20Trojan
